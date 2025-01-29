@@ -1,0 +1,647 @@
+All right.
+Welcome back, everyone.
+So hopefully you had a good weekend.
+It's a decent amount of snow.
+So that was kind of nice, right, if you like the snow.
+But today,
+We're gonna pick up on bioenergetics and exercise metabolism.
+We're gonna make a pretty good dent in the rest of these slides.
+We'll finish them up on Thursday and start chapter five on Thursday as well.
+So, hopefully lab two was good for the Monday section.
+I know today and tomorrow we have the other sections, but that'll be a fun one to start using some of the Douglas bags.
+Which should,
+These topics are going to give you a little bit of a good background or review for what you did in lab.
+But so far, to this point, we talked about kind of that immediate energy source, so the ATP, phosphocreatine.
+And then we talked about how it can generate a lot of energy very quickly.
+We just don't have a lot of stores available to kind of pull on that.
+Then we moved to the rapid non-oxidative glycolysis.
+So that piece is the same deal.
+So we can generate ATP a little bit more faster than oxidative, but not as fast as the ATP PC system.
+But again, not very efficient.
+Doesn't generate a whole lot of ATP.
+That moves us into this third piece here.
+So this is the oxidative phosphorylation.
+And when we talk about oxidative phosphorylation, that means oxygen
+is involved in the phosphorylation of ADP.
+So it has to be there in order for this reaction to occur.
+OK.
+So here we're kind of looking in this section of the figure.
+But keep in mind, we do or this process does rely a lot on the generation of pyruvate, especially if we're trying to break down carbohydrate.
+So this is where a little bit of confusion comes into play where it's, okay, well, is glycolysis oxidative or non-oxidative?
+Well, it's kind of both, and so we kind of term it either the non-oxidative glycolysis or we just kind of deem everything else oxidative.
+So when we're in the oxidative phosphorylation and then the Krebs cycle, we are looking at a much larger yield for ATP in this process.
+So it is aerobic, or in this instance, we actually do require oxygen in order to form that ATP.
+Depending on the substrate, we get 32 ATP or 33 on the glycogen, and then
+100 plus for ATP for free fatty acid.
+I feel like we did touch on some of these slides.
+So I'm going to fly, not fly, but I'm going to go through these a little bit faster.
+So steady state supply, we can get that for hours.
+It is the most complex because, again, we need to rely, if we're talking about carbohydrates, we need to rely on the pyruvate, then the Krebs cycle, and then they need to go to the ETC.
+So there are many more steps in oxidative phosphorylation.
+So the oxidation of carbs, we're really looking at, we first need this glycolysis piece here.
+And really, same deal.
+We don't really have to worry about all the enzymes involved in glycolysis.
+PFK is probably the only one you should try to keep in the back of your mind, because that's the rate-limiting enzyme.
+But essentially, we are taking two NADs
+forming two NADHs.
+And in that process, we get two pyruvate.
+Now, this is another good reminder here.
+If we are short on the NADs, if we don't have any of these NAD pluses available, there is no way we can have this intermediary step occur.
+Because of that, if there is a step to free up these
+So remove the hydrogens and free up these NAD pluses.
+Well, the body's going to undertake that step as quickly as possible.
+And we can do that by converting pyruvate to lactate.
+So it'll free up these NADs.
+But we are in the oxidative piece.
+So we can get rid of the pyruvates because we're not going to have too large of a buildup of the pyruvates.
+And we can send these two pyruvates into the mitochondria.
+One carbon kind of splits off.
+We get the two, or we get acetyl-CoA, which is a two-carbon atom.
+You get two of those.
+And then it runs through this Krebs cycle here.
+After the Krebs cycle, then it goes to electron transport chain.
+And that's where the majority of the ATP is being produced.
+Should be mostly review from physiology here.
+OK, so we'll start with glycolysis.
+Glycolysis can occur with or without oxygen.
+And this is more of like the environment or maybe the downstream effects.
+Can we send the pyruvate to the mitochondria and ultimately get those NADHs and FADHs out and then at the ETC utilize oxygen to create ATP?
+That's what it's talking about with or without O2.
+OK, ATP yield is the same as the anaerobic or non-oxidative glycolysis.
+And again, we get pyruvate moves into the mitochondria.
+One of those carbons gets stripped off.
+We are basically removing it, and we're getting a CO2, a carbon dioxide, in the process.
+So big picture, we get two pyruvate from glycolysis.
+They enter in the mitochondria as acetyl-CoA.
+Then they enter the Krebs cycle or the citric acid cycle inside the mitochondria in order for us to generate some of these NADs and FADs, or NADHs and FADHs.
+So one mole of glucose gets me two acetyl-CoA.
+Therefore, one molecule or molecule glucose gets two complete Krebs cycles or two complete turns.
+And you get double the ATP yield.
+In this process, when you're converting the two acetyl-CoA, you are able to get two ATPs.
+You also produce, like I mentioned before, NADHs, FADHs, and some hydrogens.
+If you get too many hydrogens in the cell, that becomes a little too acidic.
+So we're trying to shuttle some of these hydrogens away.
+They do sometimes spill over outside of the mitochondria into the blood.
+But in reality, a lot of these hydrogens are staying inside of the mitochondria to help us
+kind of produce the ATP with the ATP synthase.
+So these hydrogens here carry to the electron transport chain.
+And we're doing that mainly in the form of the NADHs, FADHs.
+So the electrons are basically powering the cytochromes inside of the mitochondria.
+I'll show you a figure on the next slide.
+Those are powering basically these pumps, these proton pumps, to establish this hydrogen gradient.
+That way, the hydrogens can move down through the ATP synthase and help generate ATP.
+Then as the hydrogens come down, it's going to combine with oxygen to form water.
+And in the process, every NADH, we get 2.5 ATP.
+And every FADH2, you get 1.5 ATP.
+So here's a figure pretty much describing what is going on with the bullet points we just talked about.
+So this is happening inside the mitochondria.
+So we have the outer mitochondrial compartment and then the matrix.
+Essentially, the NADHs are dropping off the electron in order to power the cytochromes, which then pump the hydrogens into the outer mitochondrial space.
+You're establishing that hydrogen gradient.
+So you have a high concentration of hydrogen molecules and a low concentration of hydrogen molecules.
+They want to go down that gradient.
+So they come over here to this little, basically this protein that is forming ATP.
+This protein is called ATP synthase.
+It's kind of fascinating, this ATP synthase.
+You can imagine maybe like an amusement park.
+You get those little turnstiles.
+You walk through the turnstile, and it just kind of moves it through.
+The hydrogens are basically going through this protein.
+They're essentially kind of turning this turbine that helps combine the ADP and the ATP.
+And so that's kind of what's going on over here.
+And then we're getting our ATP.
+OK, summary then.
+For one glucose, we're getting 32 ATP.
+One glycogen, we get 33 ATP.
+If we're trying to get the net totals here, glycolysis, we get either two or three ATP, depending on if it's coming from glucose or glycogen.
+We get 2 ATP from the Krebs cycle by converting GTP into ATP.
+And since the Krebs cycle spins twice, that's where we get the 2 ATP.
+You get 10 NADHs.
+That's going to be 25 ATP, because they're 2.5 apiece.
+And then you have two FADHs.
+Each one's 1.5.
+That gives you the total of three.
+Then you can add them all up, and that's where you get your 32 or 33.
+Here's another figure depicting the exact same thing we just talked about, showing where the ATP are being generated from each step.
+Questions on this?
+All right.
+Not too bad, then.
+Okay, so let's talk about beta oxidation and oxidative phosphorylation.
+So that was carbohydrate.
+For breaking down glycogen or glucose, we need to go through glycolysis, pyruvate, Krebs cycle, ETC.
+Beta oxidation is a little bit different because we don't undergo glycolysis with beta oxidation or oxidation of your lipids.
+So the oxidation of fat or lipolysis
+is kind of the starting, I guess, procedure of this whole oxidative phosphorylation with fats.
+So since triglycerides are the major fat energy source, we're going to focus on that.
+You are going to take your triglyceride, and you're going to break it down into one glycerol and three free fatty acids.
+This is pretty key here.
+Once you free up these free fatty acids from the triglycerides and the glycerol backbone, the rate of the free fatty acid as far as how it enters into the muscle is dependent on the concentration gradient.
+So to get glucose into the cell, does anyone remember?
+Maybe you've taken endo or you remember from physiology.
+How do we get glucose into the cell?
+Any ideas?
+Say again?
+Yeah, so you definitely do that once it's in the cell.
+But if I have just glucose moving around inside the blood, how do I actually bring glucose into the cell?
+Yeah, yeah, typically we rely on hormones like insulin to then upregulate Glut4 transporters.
+They translocate to the membrane, and then you bring the glucose into the cell.
+Free fatty acids, though, anyone want to take a guess how they get into the cell?
+Now you have to go way back, not way back, but like biology, physiology.
+What's the composition of cell membranes?
+Yeah, they just go through the cell membrane because you have that phospholipid bilayer.
+They just naturally diffuse in.
+Granted, they need a carrier protein in the blood to get around because they can't really travel on their own in the blood.
+But once they get to the cell membrane, they could freely cross.
+So they are dependent on that concentration gradient.
+The hard part is you've got to free up the free fatty acids from the triglycerides, transport them all the way to the muscle.
+And then they get to diffuse into the muscle.
+Then we can kind of work with them in there.
+OK, nice thing about that.
+It's a little bit slower, right?
+We've got to transport them over, got to break them down.
+But they yield three to four times more ATP than glucose.
+So this is much slower than glucose oxidation for all the steps that I just mentioned before.
+Don't worry too much.
+You would never have to memorize this here.
+But essentially what this is saying is you have a triglyceride.
+We are relying on hormone-sensitive lipase in order to break down the triglyceride into glycerol and free fatty acids.
+It would be these free fatty acids that we are relying on oxidative phosphorylation.
+Okay, so now that we have a free fatty acid, we're ready to go.
+We need to figure out how to get this into the Krebs cycle.
+So you have a really long chain, but the Krebs cycle only really, well, it prefers really to accept these two carbon molecules called acetyl-CoA.
+OK, well that's kind of convenient then.
+We got this long free fatty acid.
+It's an even number.
+Let's just chop it into two carbon acetyl CoAs.
+And so that is beta oxidation.
+So that's the process of converting your free fatty acids into acetyl CoAs before they go into the Krebs cycle.
+Nothing's free.
+So in order to start this process, it requires two ATP up front.
+So you have your free fatty acid.
+In order to start cleaving off those two carbon acetyl CoAs, you need to put in two ATP to start that process.
+OK, so how many acetyl CoAs do you get?
+Well, that depends on the number of carbons that free fatty acid is composed of.
+So if we have palmitic acid over here,
+It is a 16-carbon free fatty acid.
+That would mean it yields eight acetyl-CoAs.
+If I put eight acetyl-CoAs, or eight turns of the Krebs cycle, that's going to give me 106 ATP.
+And then one glucose yields two acetyl-CoAs, 32-33 ATP.
+Well, 32 with the glucose, but glycogen 33.
+So fat oxidation requires more oxygen now or at that point in time, but yields more ATP.
+Any questions here?
+Yeah.
+Yeah, so if you think about how many each turn inside of the Krebs cycle is going to yield the NADHs and the FADHs, and then you just multiply that.
+So each NADH is 2.5 ATP.
+Each FADH is 1.5.
+But then you have to subtract off the 2 ATP to start the beta oxidation.
+We'll go through.
+There's actually a nice little formula on the next slide that'll help.
+Or not next slide, but in a couple slides.
+So this is kind of showing the same concept here.
+We have your free fatty acid.
+We get it inside of the mitochondria.
+We undergo beta oxidation.
+So each kind of one of these turn is going to free up some acetyl CoA's.
+From there, you treat it the same way you would treat it as glucose oxidation.
+It doesn't matter where the acetyl CoA came from.
+It's going to enter in the Krebs cycle and behave the exact same way.
+So the net yield here would be 14 ATP per beta oxidation cycle.
+So each acetyl CoA is going to yield 10 ATP.
+One NADH is going to be 2.5.
+And then one FADH is 1.5, just like I mentioned before.
+Don't worry too much about, man, I have to keep track of how many cycles, how many spins, and how many times it goes in the CREB, and then how many GTP or GDP, ATP, NADH, FADH.
+Don't worry.
+We have this little formula here.
+So the total ATP here is n minus 1 times 14 plus 10 minus 2.
+N is the number of acetyl CoAs that you're getting.
+You can calculate that by the number of carbons in your free fatty acid chain divided by two.
+Then you subtract off, so you do N minus one, so the number of rounds of beta oxidation.
+Then you minus off this two.
+because of the upfront ATP expenditure that it costs to start the beta oxidation.
+OK, it's nice seeing this formula here, but it's even more fun to try it out.
+All right, let's calculate the ATP yield from this 26-carbon free fatty acid.
+The formula is down below.
+Let's try it out.
+And then once you're done, we could try this out here.
+OK, are we doing OK with this one?
+Let's try submitting your answer here in the next 20 seconds, unless someone needs more time than that.
+All right, 20 seconds here, or now 15.
+Okay, I'll close this down in five seconds unless someone needs more time.
+Okay, three, two, one.
+All right, we did really well here.
+OK, so when you go through this, you have n minus 1.
+If we have a 26-carbon chain here, you need to divide that by 2.
+So we have 13.
+13 minus 1 is 12.
+12 times 14.
+Then you add on basically 8.
+You add on 10, subtract 2.
+It should get you very close to, well, not very close.
+It is 176.
+That would be the correct answer here.
+Any questions on this one?
+OK.
+So here's what I like to do every now and then here in the semester.
+I think these clicker questions are obviously relatively straightforward.
+So they're easy, but they're a good way to get an idea of maybe to get some practice.
+I value them, and I value them so much that I'm going to make a little wager with you here.
+So if we can get 100%
+on these questions, on a clicker question.
+I will, word for word, put that clicker question on your exam.
+Sounds pretty nice now, but I'm telling you, it doesn't happen, I think it's only happened once or twice, but you're gonna change the trend here, right?
+So.
+Again, there are a few rules that I kinda wanna have.
+One is everybody needs to click in.
+You can't just nominate one person to click in and say, okay, we're doing that.
+And then no yelling out the answer or trying to sway the room by saying, everyone click in A or something like that.
+Does that sound fair?
+Okay, so now it's like, oh, now you're gonna pay attention to these clickers, huh?
+Okay, so we have a few more today.
+It'll pretty much go all the way throughout the, I mean, I'll probably cap them at some, at a point.
+I don't think it'll ever happen, but if you happen to get like, I don't know, five of them, I'd be like, okay.
+Probably need to stop it, but okay.
+But I've never seen that.
+It's not gonna, I have faith, but it's probably not gonna happen, so.
+Okay.
+Here's a little chart here that you can fill in on your own time.
+I think this would be a really great way to try to review the different pathways that we just talked about.
+So the ATP-APC system, glycolysis, and oxidative phosphorylation.
+I know this one gets a little tricky here with glycolysis and oxygen requirement.
+We're basically gonna pretend or we're gonna label that glycolysis the non-oxidative glycolysis piece.
+So in that instance, it would be anaerobic.
+If you put down both, I'd be OK with that as well, because technically, glycolysis is part of the oxidative phosphorylation.
+Okay, again, try to take some time, fill those out on your own.
+I'm more than happy to meet with you either in help hours or any other time, and I can take a quick look at it, make sure you're on the same, you're on the right track.
+This is another really good figure depicting the same concept that we've been talking about as far as capacity and energy generation.
+So here we have maximal rate of ATP generation.
+So how much energy or ATP can be produced by these systems?
+No surprise, phosphocreatine, the PCR system, is gonna be able to generate the most amount of ATP per second.
+So the rate of ATP generation is the highest with the ATP PC system.
+No surprise since it's just stripping off a phosphate from the phosphocreatine, putting it on the ADP, you get ATP done, right, very fast.
+Next, glycolysis, then carbohydrate oxidation, and then fat oxidation.
+Maximal energy available.
+Well, this is the number of ATPs or the mole of ATPs that could be generated if we liberated all of the ATP from those stores.
+PCR and glycolysis, very low.
+Carbohydrate oxidation, pretty high, not too bad.
+And then fat oxidation, we're basically not limited in the amount of triglycerides that we have in our body.
+We cannot deplete them all.
+And if we do, we would not be alive.
+So we are not limited here.
+OK, any questions so far until we move on to the next topic here, which is fuel utilization?
+Oh, yeah.
+Yeah, yeah, can you hang tight on the next group of slides?
+Yeah, that's a great question.
+The question was basically, can we determine when we're actually using fats more than carbohydrates, what type of exercises, what type of intensity, maybe duration?
+That is this whole fuel utilization during exercise.
+What are we primarily using during certain activities or exercises?
+The Monday lab, you've seen the Douglas bag technique, but I like to show this because it wasn't too long ago.
+Obviously, this was a while ago.
+But the individuals, if they wanted to know their substrate utilization for an athlete,
+They would have to run on a track.
+And it's kind of tough to see here, but these are Douglas bags that they're carrying.
+So the Monday class, you've seen what those Douglas bags look like.
+Tuesday and Wednesday, you'll see how you can fill those up during rest and exercise.
+But essentially, they're driving a car.
+And they have this two-way breathing valve hooked up to this runner.
+And then on the hood, you have these researchers basically filling up these bags of expired air.
+And then they can go analyze them a little bit later.
+So you're basically going to go through with these calculations and collection techniques for the first, well, I guess, lab two and three.
+And then after that, thank goodness for the invention of computerized technology.
+So now we use something called the Parvo.
+And it basically does all of those calculations automatically.
+So the Haldane equations that you're going through in lab this week, they're going to seem pretty tedious, and they're going to take a very long time, whereas the computer does it in seconds.
+You'll get to experience both.
+But essentially, we're trying to figure out how much oxygen you're consuming per minute versus the carbon dioxide produced per minute.
+The nice thing about this
+If we go back to how we're oxidating carbohydrates and fats, it's just a matter of breaking down the carbons.
+In that process, you are releasing carbon dioxide.
+Well, that's pretty nice because I know how many carbons are in a glucose molecule or a fat or a lipid chain.
+And then if you show me how many carbons got released, I know how many you broke down.
+So what we can do then is estimate your fuel utilization during exercise by using something called the respiratory exchange ratio or RER.
+Sometimes in textbooks, you'll see it as R or RQ.
+In this course, we're basically saying they're interchangeable.
+The reason why they are a little different, RER is the respiratory exchange ratio.
+RQ is like the respiratory quotient.
+And that's if I put something like a mitochondria in a Petri dish and it started infusing oxygen in there, then I can get a really good idea of these calculations here.
+So R and RQ, that's happening at the cell or at the muscle.
+RER, respiratory exchange ratio, that's happening on when I'm actually expiring out because we're collecting the expired gas.
+And you'll see why that kind of matters when we talk about maybe the limits of RER.
+OK.
+In order to calculate this, we need VCO2 over VO2 to rely on this calculation for energy expenditure and substrate utilization.
+The individuals must be at steady state and the exercise has to be submaximal.
+We typically deem submaximal a workload that's below lactate threshold.
+If we satisfy these requirements, then we know the oxygen that is used during that exercise task is going to represent metabolism quite well.
+and we can start doing some substrate utilization calculations.
+If we have more carbons in a molecule, no surprise that we'll need more oxygens to break them down.
+We do not assume or we do not consider protein as a fuel source during exercise.
+And you might think, well, what about those extreme circumstances or just those unique cases
+Well, the researchers actually did this and they tried, well not tried, they actually accounted for the protein breakdown.
+And it's so small that it doesn't even impact these calculations.
+To reduce the complications of trying to account for nitrogen being excreted outside of the body and sweat or urine, it's just not worth trying to get those types of calculations in there.
+So when you're doing the RER calculations, it's just based off of carbohydrates and fats, mainly because we are no longer trying to measure nitrogen coming out of other areas.
+And the protein sources don't even make a huge contribution to energy expenditure.
+OK, so let's see what we can get from this RER formula here.
+If we are looking at R or RER for fat, as an example, we'll stay with palmitic acid.
+We have C16H32 and two oxygens.
+We combust that with 23 oxygen molecules, O2 molecules.
+We then have 16 CO2s and 16 hydrogens.
+I can just take.
+16 CO2s, put them here, divide it by the amount of oxygen it took to fully combust the palmitic acid.
+I then get a ratio of 0.7.
+So if I'm only burning fats, this ratio will stand.
+And so that's why this says R, because in a petri dish or some bomb kilometer,
+I can control the parameters of the environment and see how many carbon dioxides get released for however many oxygen molecules it took to combust that molecule.
+And that's the ratio here.
+16 divided by 23, you get 0.7.
+If we are looking at glucose, a glucose molecule, C6H12O6,
+It takes six oxygen molecules to fully combust your glucose.
+You release six carbon dioxides.
+And you also release some water.
+Well, I can take the 6 CO2 divided by the 6 O2, and we get a 1 to 1 ratio.
+If I am only burning carbohydrates, I would have an RER or an R of 1.
+Are we OK here so far?
+Nice.
+So the nice thing about this, if we have the caps, we have 0.7 and 1, well, then it's very easy to fill everything out in between.
+If an individual is burning 100% fat, that's 0.7, we have something called the caloric equivalent for oxygen.
+We know how much energy it's going to release by burning 100% fat.
+So we have 100% fat, and then we can move all the way down to 100% carbohydrate.
+An R, or an RER of about 0.85, usually not for everyone, but is pretty close to 50-50.
+We'll talk about what intensities or how we can actually move along the spectrum with different exercises.
+But for now, I want to kind of key into this column over here.
+That's a little weird.
+If I am burning 100% fat, I'm releasing 4.69 kcals.
+What have you learned earlier in these slides or from nutrition?
+How many Kcals do you normally release with some fat?
+Around nine, nine, 9.5, right?
+But the thing you have to be really careful about are the units.
+When we looked at this one here,
+These nutritional kind of calculations are four kcals per gram of your substrate.
+So per gram of carbohydrate, per gram of fat, and per gram of protein.
+In these bomb kilometers, you have unlimited oxygen being pumped into here to fully combust that molecule.
+Our body's a little unique, right?
+We do not have unlimited oxygen in our tissues.
+When we get into some respiratory physiology and altitude, the problem or the name of the game is how do we get more oxygen into the blood to be transported to the tissues?
+So most of the time, the limiting factor is for us to actually have more oxygen in the tissues.
+So these calculations,
+or cake house per liter of oxygen.
+Meaning, if I have one liter of oxygen, or I have that bomb climber and I only infuse one liter of oxygen, and I have unlimited fat, or a gram of fat, and I light that on fire, there's only enough oxygen, one liter of oxygen, to burn a portion of that fat.
+What gets released is 4.69 kcal of energy.
+And if we're looking down at that substrate, the one gram of fat, well, maybe around half, a little bit less than half would be burnt and then there would be some fat remaining.
+Whereas carbohydrates, even though it's four kcal per gram, if I infuse one liter
+of oxygen, and I have two grams of carbohydrate, or unlimited grams of carbohydrate, and I light that on fire, you will burn one full gram plus some more.
+Are we OK there?
+All right.
+This is an important concept for the calculations you'll do next week.
+This week, we're just saying, don't worry about this right now.
+Just estimate it as five.
+So when you're doing your held-in calculations for lab two, we say, use 5k cals per liter oxygen.
+Next week, you're going to have a really big chart where you can actually isolate different percentages.
+Yeah?
+No, no.
+Yeah, in this instance, it's just, how much energy can I liberate from your substrates?
+And we are limited in the amount of oxygen that we have.
+This overall formula, the efficiency on how we are burning each substrate is dependent a little bit on the composition of the molecule itself.
+because there are kind of C6.
+There are six carbons here.
+We have 16 over here, but it requires a little bit more oxygen to break this one down.
+OK.
+Any other questions on this?
+I don't mind spending more time on this because this is a really good foundational standpoint that we need to make sure we're good here.
+OK.
+Energy requirements at rest.
+If I'm at rest, does anyone remember what we would estimate someone's resting either energy expenditure or oxygen consumption to be?
+Any ideas?
+If someone were to be resting, yeah.
+Yeah, 3.5 milliliters per kilogram per minute.
+Does anyone know what that equals?
+One something.
+Yeah, one met.
+Yep.
+OK.
+So at rest, almost, it's never always at 100, but most of the ATP produced by aerobic metabolism is at rest.
+Blood lactate levels are low, but it does vary between individuals.
+And we would say it's around 0.25 liters per minute.
+But again, this depends on body size.
+If we accounted for body size, everyone should be around 3.5 milliliters per kilogram per minute.
+OK, so you're all resting.
+You're kind of relaxing.
+And then you're like, you know what?
+Time to exercise.
+So let's see what happens when we move from rest to exercise.
+Well, ATP production increases immediately.
+No surprise, because the amount of ATP that we store inside our body, it's quite low.
+So we have to replenish those stores.
+We've kind of seen this concept already.
+If we have PCR concentration on the y here and time on the x, these concentrations drop pretty rapidly, because we are undergoing the ATP-PC cycle.
+So initially, ATP production is through these non-oxidated pathways, ATP, phosphocreatine, and glycolysis.
+This is kind of just depicted over here.
+That's review.
+We've already talked about that.
+No big deal.
+Here, those who had lab on Monday or you've reviewed those slides, this should look very familiar.
+But if I'm resting and someone turns on the treadmill and the treadmill is going at a certain speed, say seven miles per hour, and I jump on that treadmill, the body requires this much ATP to be produced per second in order for me to sustain that speed to run.
+But right here on the y-axis, we have oxygen consumption.
+This is how much oxygen we are consuming.
+And it doesn't take or it takes approximately three minutes.
+There's a lag in the amount of oxygen we can consume.
+So here it takes around three minutes.
+before I'm consuming enough energy to generate or consuming enough oxygen to generate ATP to sustain this workload?
+Well, if I'm not producing enough ATP here, how then am I staying on the treadmill and not just flying off the back?
+And you've probably experienced this before, not flying off the back of the treadmill.
+But if you run to class, while you're running, if it's short enough, you probably feel OK.
+And then you sit down, and all of a sudden your heart rate is spiking, your ventilation is pretty high, and it takes a little bit to kind of relax.
+So how did I run for three minutes with not a lot of oxidative phosphorylation going on?
+How am I generating that energy then?
+Yeah, the anaerobic metabolism.
+So this portion right here, this shaded area above the curve is called O2 deficit.
+The O2 deficit is representing the immediate or the non-oxidative energy sources that we now had to kind of consume or burn in order to sustain this ATP up here.
+Are we okay with this concept here?
+Nice.
+The nice thing about this curve here, how quickly we reach this steady state is typically determined by either fitness or other kind of metabolic disorders, but as we start training,
+you start to get a faster rise in the oxygen consumption.
+So this teal line here on the left is representing an individual who has undergone some type of endurance training program.
+And it shifted this kind of curve to the left.
+So this is before training, and this is after training.
+If I were to shade this then, so if I were to draw a line across the top up here and then shade all of this, that would be the O2 deficit after training.
+And then if I were to shade all of this, this would be the O2 deficit before training.
+So no surprise then, the O2 deficit is lower following training.
+That means the rise in oxygen consumption or the rate at which you are increasing oxygen consumption is faster after training.
+Same VO2 at a lower concentration of ADP.
+And we can meet a lot of the ATP production through oxidative phosphorylation.
+We don't get into this concept too much more than this in this class, but this is a whole field of exercise physiology called VO2 kinetics.
+It's a pretty fascinating field.
+There used to be this idea that you would have three determinants of performance, VO2 max.
+economy and lactate threshold.
+And if you had at least two of the three at a relatively high level, you'd be kind of a very elite athlete or an Olympic performer.
+And if you had all three that were at the top, then those are kind of those athletes who, Olympic after Olympic, they're just always kind of winning golds and silvers.
+So typically, we don't see athletes with all three of those.
+But now they're adding like a fourth pillar, and that's VO2 kinetics.
+So it's how quickly can you get to that point.
+OK, this results in less lactate formation and hydrogen production.
+The other really big thing is you are not depleting your immediate energy sources as much.
+So this is very nice.
+Right here, not that big of a deal, but you could imagine an athlete who would want to rely on those immediate energy sources throughout the race.
+Maybe they wanna speed up a little bit.
+Maybe they wanna sprint at the end.
+Okay.
+Metabolic responses to exercise, influence of duration and intensity.
+When we are talking about substrate utilization,
+and looking at RER, you always have to ask yourself, how does this behave if I increase or decrease duration?
+And separately, how does this behave if I increase or decrease intensity?
+These are two separate topics.
+Yes, they sometimes are.
+Like if I increase duration, a lot of the times you have to back off on intensity.
+But these two concepts are just so much easier to try to grasp if you separate them.
+And then later on we can put them together.
+And so the interaction between oxidative and non-oxidative ATP production
+would be this idea of short-term high-intensity exercise.
+You're going to have a greater contribution from those non-oxidative or anaerobic energy systems.
+The long-term or low to moderate exercise intensity would then rely majorly on the ATP being produced from aerobic sources.
+This is a really great figure to just double check that you understand the concept from this slide here.
+So if you look at this figure, if I'm trying to sprint for one to three seconds, essentially it's not 100, but it's like 99.99999, right?
+That is primarily gonna come from anaerobic or non-oxidative.
+as I move down the spectrum here.
+Even if I'm sprinting for two minutes, 60% of the energy is still coming from non-oxidative, but 40% is coming from oxidative.
+Once we get into this three minute mark, we're almost 50-50.
+And then at four minutes,
+You're kind of on the other side of the spectrum now, where you're at 65, maybe 70, 30, as far as 70 being primarily, or not primarily, majority of that energy is coming from oxidative phosphorylation.
+And this four minutes is kind of unique because
+most people would think, if I'm trying to sprint a mile as fast as I can, that maybe a lot of that is coming from non-oxidated phosphorylation.
+And I know not everyone can run four-minute miles, but in general, even if you were trying to sprint for four minutes, there is a substantial contribution from the oxidative phosphorylation to that exercise task.
+So try to make sure you keep this in the back of your mind here that just because you're running four minutes or five minutes doesn't mean it's not oxidative.
+It doesn't always have to be 10K, a marathon for it to be kind of primarily on the oxidative side of things.
+You definitely don't need to memorize these, but it might be good to kind of check these to get an idea of how long some of these events are.
+So 10 minutes, that's close to a two mile run.
+Two minutes, 800 meter dash.
+On a track, on a standard track, not an indoor track, does anyone know how many laps that is?
+800 meters, too.
+Yeah.
+So if you just run around twice.
+So it's not very far.
+Run around twice.
+That should be your 800 meters.
+Here are some more examples here.
+Again, I wouldn't focus on memorizing these events per se, but you could always just kind of quiz yourself.
+OK, if I'm going out for a 5k, around what percentage?
+Well, you wouldn't have to memorize the percentage, but are you using more oxidative or are you using more non-oxidative?
+And kind of look down here.
+Well, this is a 5k.
+And so we're not using a lot of ATP, PC, or glycolysis.
+70% aerobic, OK.
+That kind of makes sense.
+So that means 10K would probably be more than that.
+So that's how you should approach these figures here, these tables here.
+OK.
+Short-term, high-intensity exercise.
+This is, I'm gonna go through these kind of fast, because it's a little bit of review first, one to five seconds is through the ATPPC.
+Then you kind of shift the ATP production to glycolysis.
+And then anything lasting longer than 45 seconds, you're starting to really rely on that oxidative phosphorylation.
+Even at 60 seconds, right, we're at 70, 30, and then two to three minutes, we're already at that 50, 50.
+I can then plot these on a figure as far as contribution from each energy system.
+Here you can see the teal line.
+So we have contribution of energy system on the y-axis.
+And then we have time in seconds of maximal effort.
+So it's not like, oh, I'm walking for three seconds.
+No, you're doing the maximum effort you can for that duration.
+So this is seconds down here.
+This teal line is the ATP PC system.
+You'll notice it's not at 100% because we still have some energy contribution from both aerobic and glycolysis.
+So the rapid non-oxidative glycolysis as well as the oxidative phosphorylation right here in blue.
+As we move in duration,
+the contribution from these systems, primarily because you're depleting them, rapidly decrease.
+We become more reliant on these other energy systems as we move through the duration.
+OK.
+I probably should have put this question in a different place.
+But here's a question I want you to kind of chat with your neighbors about.
+If we are talking about substrate utilization where 0.7 is 100% fat, 1 would be 100% carbohydrate,
+Would it be physiologically possible for the respiratory exchange ratio to be outside of the R or the RQ range of 0.7 to 1?
+So chat with your classmates really quick.
+And we'll come back to this.
+Okay, sorry, the timing of this slide wasn't great, because I probably should have had it maybe three or four slides back when we were talking about RER, but it's good review.
+If we look at the RER chart, which you will see next week,
+you see this is an expanded version of that table where we go from 0.7 all the way to one.
+Even this chart is simplifying things because we can get at like six decimal places deep on this RER chart when we're actually doing substrate calculations for athletes.
+So even this is a little bit of a simplified version of the RER chart.
+But if I'm at 100% carbohydrates and 100% fats, and that's 0.7 to 1, do you think we can go over 1?
+So I'm seeing some shakes of the head.
+How about we'll start with this.
+Can you go lower than 0.7?
+No, I'm thinking no because, again, you have a required amount of oxygen to break down these lipids or these free fatty acids.
+And that doesn't change because the stoichiometry behind it is what it is.
+You just can't change that.
+But over here, then, you can make the same argument for the carbohydrates, for the glucose molecule.
+But.
+It's the respiratory exchange ratio, not what's happening at the muscle.
+So what are we counting again?
+The number of what over the number of what?
+What's RER?
+VCO2 over VO2, right?
+The amount of oxygen we consume, I'm gonna argue that doesn't change very much if we're down over there.
+Any idea if we could produce carbon dioxide not from breaking down the substrate?
+Someone mentioned it last week, so maybe that person don't mention it, but.
+Is there another way where our body produces an excess quantity of
+Yeah, so all of the carbon dioxide produced here is from cellular respiration.
+Yeah, that's a good thought.
+But outside of cellular respiration.
+Do you have a guess?
+Yeah, the bicarbonate buffer.
+So we can have non-metabolically produced carbon dioxide.
+We cannot dissociate the two when we are measuring expired gases.
+So when you are running through your RER calculations next week, not likely, but it's possible that someone will be over one.
+And if that's the case, you need to think about, well, one, is that possible?
+Yes, I'm telling you it's possible, but two, why?
+And the second one would be,
+Well, you're producing more non-metabolically.
+And if you're undergoing that bicarb buffering, that means there are a lot of hydrogen ions, or there's a lot of changes in the pH.
+And so that intensity must be pretty high.
+OK, any questions on that one?
+All right, so we'll get into this concept.
+Now we're kind of jumping back, sorry about that, but steady state or prolonged exercise.
+So this is the duration piece of the exercise.
+So metabolic responses to prolonged exercise.
+When we are looking at these concepts, especially this one, we usually need to make sure we're kind of in a cool environment.
+Some of these things change if I heat up the room.
+So we'll just start with a thermo neutral environment, cool environment.
+The ATP production will be primarily from oxidative phosphorylation or aerobic metabolism.
+And we can maintain a steady state
+as long, again, as we are below lactate threshold or it's a submaximal exercise.
+If I heat up the room though, so this is exercise in a hot and humid environment versus exercise in a cool environment, you will get an upward drift of oxygen uptake, even if I don't change the workload or the power.
+One day, I will change these figures.
+But I really don't like these figures only because they make it seem like both are increasing.
+But you have to kind of look at the axes here.
+Maybe it's a good learning tool here.
+But the axes here, you go from 1.2 to 2.4.
+And over here, you're going from 2 to 3.6.
+So they've kind of shrunk down the axes in this picture.
+And if we're looking at this change, this increase here or this increase is only like point one, maybe point two.
+If I were to put point one on this graph, it would be from here to like here.
+So there's a really big increase after 20 minutes of exercise in the heat.
+But after the same, let's see here, 40, maybe 40 minutes of exercise in the cool, we're basically pretty flat.
+So if I heat up the room and make it more humid, you get an upward drift in oxygen uptake over time, and you cannot achieve steady state.
+We'll touch on this when we get to hormones, but a lot of this is because you have an increase in core body temperature as well as an increase in epinephrine or epinephrine secretion.
+Okay, assuming you can maintain steady state in a cool environment, if I increase duration,
+prolonged low intensity exercise, you shift from carbohydrate metabolism to fat metabolism.
+Again, if I am only looking at exercise duration here, you are shifting from carbohydrate metabolism towards fat metabolism.
+Any questions on this concept here?
+OK.
+So be a good clicker to end with, because you know the deal now.
+So if we're shifting that way, what happens to R or RER as exercise duration increases?
+We'll go about a minute from now, maybe a little less.
+Okay, let's double check that you have an answer in.
+I think we're missing 10 clickers.
+You could be that last clicker that makes or breaks this question.
+Two clickers will go maybe 10 seconds from now.
+One clicker, double check you're in.
+All right, I'll close it down in three, two, one.
+Nice job, we did pretty good here.
+So we're thinking B here.
+What does the RER chart go from?
+0.7 to one, what's that 0.7?
+100% fat, what's that one?
+100% carbs.
+As I increase in exercise duration, we shift from what substrate to what?
+From carbs to fat, so that means we kind of move, well, I know I'm going up, but you move like down towards the point seven, right?
+So, that's this piece here.
+As I am going more towards fat, you're going lower on the RER.
+Okay, we'll start basically on this concept on Thursday.
+Have a great rest of your day.

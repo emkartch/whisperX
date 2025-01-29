@@ -1,0 +1,648 @@
+start	end	text
+145285	145845	All right.
+145865	149546	Welcome back, everyone.
+154687	156308	So hopefully you had a good weekend.
+156328	159008	It's a decent amount of snow.
+159189	161509	So that was kind of nice, right, if you like the snow.
+162949	164550	But today,
+165895	169898	We're gonna pick up on bioenergetics and exercise metabolism.
+170478	175102	We're gonna make a pretty good dent in the rest of these slides.
+175122	179065	We'll finish them up on Thursday and start chapter five on Thursday as well.
+179945	185069	So, hopefully lab two was good for the Monday section.
+185149	191494	I know today and tomorrow we have the other sections, but that'll be a fun one to start using some of the Douglas bags.
+193636	195217	Which should,
+199334	204778	These topics are going to give you a little bit of a good background or review for what you did in lab.
+206263	213532	But so far, to this point, we talked about kind of that immediate energy source, so the ATP, phosphocreatine.
+214252	218477	And then we talked about how it can generate a lot of energy very quickly.
+218557	221981	We just don't have a lot of stores available to kind of pull on that.
+222442	226006	Then we moved to the rapid non-oxidative glycolysis.
+226867	228488	So that piece is the same deal.
+228769	236255	So we can generate ATP a little bit more faster than oxidative, but not as fast as the ATP PC system.
+238697	240598	But again, not very efficient.
+240678	243300	Doesn't generate a whole lot of ATP.
+244842	246923	That moves us into this third piece here.
+247244	250126	So this is the oxidative phosphorylation.
+250806	254590	And when we talk about oxidative phosphorylation, that means oxygen
+256053	259797	is involved in the phosphorylation of ADP.
+262040	266024	So it has to be there in order for this reaction to occur.
+266044	268968	OK.
+272437	276923	So here we're kind of looking in this section of the figure.
+277864	287337	But keep in mind, we do or this process does rely a lot on the generation of pyruvate, especially if we're trying to break down carbohydrate.
+288018	295121	So this is where a little bit of confusion comes into play where it's, okay, well, is glycolysis oxidative or non-oxidative?
+295541	303005	Well, it's kind of both, and so we kind of term it either the non-oxidative glycolysis or we just kind of deem everything else oxidative.
+305266	316691	So when we're in the oxidative phosphorylation and then the Krebs cycle, we are looking at a much larger yield for ATP in this process.
+318468	326898	So it is aerobic, or in this instance, we actually do require oxygen in order to form that ATP.
+327959	330923	Depending on the substrate, we get 32 ATP or 33 on the glycogen, and then
+336780	338982	100 plus for ATP for free fatty acid.
+339482	341943	I feel like we did touch on some of these slides.
+342164	346246	So I'm going to fly, not fly, but I'm going to go through these a little bit faster.
+346986	350869	So steady state supply, we can get that for hours.
+351689	360575	It is the most complex because, again, we need to rely, if we're talking about carbohydrates, we need to rely on the pyruvate, then the Krebs cycle, and then they need to go to the ETC.
+361215	365578	So there are many more steps in oxidative phosphorylation.
+367622	374866	So the oxidation of carbs, we're really looking at, we first need this glycolysis piece here.
+376807	378268	And really, same deal.
+378488	383851	We don't really have to worry about all the enzymes involved in glycolysis.
+384511	390675	PFK is probably the only one you should try to keep in the back of your mind, because that's the rate-limiting enzyme.
+391395	394597	But essentially, we are taking two NADs
+395742	397423	forming two NADHs.
+397903	399884	And in that process, we get two pyruvate.
+401744	403825	Now, this is another good reminder here.
+404225	415230	If we are short on the NADs, if we don't have any of these NAD pluses available, there is no way we can have this intermediary step occur.
+416770	422573	Because of that, if there is a step to free up these
+423738	426760	So remove the hydrogens and free up these NAD pluses.
+427500	430262	Well, the body's going to undertake that step as quickly as possible.
+430302	432783	And we can do that by converting pyruvate to lactate.
+434964	436265	So it'll free up these NADs.
+437286	440407	But we are in the oxidative piece.
+441428	446951	So we can get rid of the pyruvates because we're not going to have too large of a buildup of the pyruvates.
+448152	451454	And we can send these two pyruvates into the mitochondria.
+452800	454401	One carbon kind of splits off.
+454781	458362	We get the two, or we get acetyl-CoA, which is a two-carbon atom.
+458822	459762	You get two of those.
+461383	463083	And then it runs through this Krebs cycle here.
+466084	469065	After the Krebs cycle, then it goes to electron transport chain.
+470105	472786	And that's where the majority of the ATP is being produced.
+475947	479148	Should be mostly review from physiology here.
+481538	483019	OK, so we'll start with glycolysis.
+483059	486360	Glycolysis can occur with or without oxygen.
+489001	492783	And this is more of like the environment or maybe the downstream effects.
+494083	507009	Can we send the pyruvate to the mitochondria and ultimately get those NADHs and FADHs out and then at the ETC utilize oxygen to create ATP?
+507729	509610	That's what it's talking about with or without O2.
+512497	517360	OK, ATP yield is the same as the anaerobic or non-oxidative glycolysis.
+519282	523464	And again, we get pyruvate moves into the mitochondria.
+523805	525726	One of those carbons gets stripped off.
+526447	532731	We are basically removing it, and we're getting a CO2, a carbon dioxide, in the process.
+537978	541059	So big picture, we get two pyruvate from glycolysis.
+541239	544080	They enter in the mitochondria as acetyl-CoA.
+544561	559066	Then they enter the Krebs cycle or the citric acid cycle inside the mitochondria in order for us to generate some of these NADs and FADs, or NADHs and FADHs.
+559946	564048	So one mole of glucose gets me two acetyl-CoA.
+567071	574532	Therefore, one molecule or molecule glucose gets two complete Krebs cycles or two complete turns.
+580353	582934	And you get double the ATP yield.
+588455	596316	In this process, when you're converting the two acetyl-CoA, you are able to get two ATPs.
+599299	604741	You also produce, like I mentioned before, NADHs, FADHs, and some hydrogens.
+608143	612305	If you get too many hydrogens in the cell, that becomes a little too acidic.
+613425	616107	So we're trying to shuttle some of these hydrogens away.
+616567	620108	They do sometimes spill over outside of the mitochondria into the blood.
+621249	627012	But in reality, a lot of these hydrogens are staying inside of the mitochondria to help us
+628122	635190	kind of produce the ATP with the ATP synthase.
+635230	640576	So these hydrogens here carry to the electron transport chain.
+641898	646123	And we're doing that mainly in the form of the NADHs, FADHs.
+652577	657681	So the electrons are basically powering the cytochromes inside of the mitochondria.
+657701	659343	I'll show you a figure on the next slide.
+660023	667009	Those are powering basically these pumps, these proton pumps, to establish this hydrogen gradient.
+667549	672693	That way, the hydrogens can move down through the ATP synthase and help generate ATP.
+675476	679419	Then as the hydrogens come down, it's going to combine with oxygen to form water.
+681618	685301	And in the process, every NADH, we get 2.5 ATP.
+685641	690945	And every FADH2, you get 1.5 ATP.
+693847	701934	So here's a figure pretty much describing what is going on with the bullet points we just talked about.
+703323	705666	So this is happening inside the mitochondria.
+706246	709870	So we have the outer mitochondrial compartment and then the matrix.
+710631	721362	Essentially, the NADHs are dropping off the electron in order to power the cytochromes, which then pump the hydrogens into the outer mitochondrial space.
+721983	724364	You're establishing that hydrogen gradient.
+724904	729565	So you have a high concentration of hydrogen molecules and a low concentration of hydrogen molecules.
+729925	731966	They want to go down that gradient.
+732066	739428	So they come over here to this little, basically this protein that is forming ATP.
+739948	742329	This protein is called ATP synthase.
+744033	746695	It's kind of fascinating, this ATP synthase.
+747736	750319	You can imagine maybe like an amusement park.
+750359	751640	You get those little turnstiles.
+752060	754923	You walk through the turnstile, and it just kind of moves it through.
+756164	760527	The hydrogens are basically going through this protein.
+761909	768294	They're essentially kind of turning this turbine that helps combine the ADP and the ATP.
+769676	771217	And so that's kind of what's going on over here.
+772757	774297	And then we're getting our ATP.
+781800	783100	OK, summary then.
+784881	787321	For one glucose, we're getting 32 ATP.
+787481	789782	One glycogen, we get 33 ATP.
+791082	800045	If we're trying to get the net totals here, glycolysis, we get either two or three ATP, depending on if it's coming from glucose or glycogen.
+802657	808098	We get 2 ATP from the Krebs cycle by converting GTP into ATP.
+809678	814679	And since the Krebs cycle spins twice, that's where we get the 2 ATP.
+816659	818620	You get 10 NADHs.
+818880	823141	That's going to be 25 ATP, because they're 2.5 apiece.
+824221	827481	And then you have two FADHs.
+828181	828601	Each one's 1.5.
+829342	831322	That gives you the total of three.
+833150	836433	Then you can add them all up, and that's where you get your 32 or 33.
+836773	848982	Here's another figure depicting the exact same thing we just talked about, showing where the ATP are being generated from each step.
+853966	854647	Questions on this?
+858690	859070	All right.
+860031	860772	Not too bad, then.
+863200	867722	Okay, so let's talk about beta oxidation and oxidative phosphorylation.
+867762	868802	So that was carbohydrate.
+869502	875884	For breaking down glycogen or glucose, we need to go through glycolysis, pyruvate, Krebs cycle, ETC.
+877665	886648	Beta oxidation is a little bit different because we don't undergo glycolysis with beta oxidation or oxidation of your lipids.
+888929	891270	So the oxidation of fat or lipolysis
+892191	899814	is kind of the starting, I guess, procedure of this whole oxidative phosphorylation with fats.
+901054	905496	So since triglycerides are the major fat energy source, we're going to focus on that.
+906616	912678	You are going to take your triglyceride, and you're going to break it down into one glycerol and three free fatty acids.
+914419	915479	This is pretty key here.
+917536	933928	Once you free up these free fatty acids from the triglycerides and the glycerol backbone, the rate of the free fatty acid as far as how it enters into the muscle is dependent on the concentration gradient.
+935770	938852	So to get glucose into the cell, does anyone remember?
+938912	941374	Maybe you've taken endo or you remember from physiology.
+941394	942935	How do we get glucose into the cell?
+946098	946578	Any ideas?
+949212	949492	Say again?
+953456	955799	Yeah, so you definitely do that once it's in the cell.
+956440	963367	But if I have just glucose moving around inside the blood, how do I actually bring glucose into the cell?
+970353	977520	Yeah, yeah, typically we rely on hormones like insulin to then upregulate Glut4 transporters.
+977600	980723	They translocate to the membrane, and then you bring the glucose into the cell.
+981864	986529	Free fatty acids, though, anyone want to take a guess how they get into the cell?
+987490	991194	Now you have to go way back, not way back, but like biology, physiology.
+991414	993256	What's the composition of cell membranes?
+998618	1002421	Yeah, they just go through the cell membrane because you have that phospholipid bilayer.
+1003261	1004882	They just naturally diffuse in.
+1005543	1011807	Granted, they need a carrier protein in the blood to get around because they can't really travel on their own in the blood.
+1011847	1014328	But once they get to the cell membrane, they could freely cross.
+1015489	1019672	So they are dependent on that concentration gradient.
+1022274	1028736	The hard part is you've got to free up the free fatty acids from the triglycerides, transport them all the way to the muscle.
+1029077	1030997	And then they get to diffuse into the muscle.
+1031037	1033238	Then we can kind of work with them in there.
+1034619	1037059	OK, nice thing about that.
+1037240	1038300	It's a little bit slower, right?
+1038320	1041141	We've got to transport them over, got to break them down.
+1041861	1046463	But they yield three to four times more ATP than glucose.
+1049156	1053640	So this is much slower than glucose oxidation for all the steps that I just mentioned before.
+1056302	1057683	Don't worry too much.
+1057903	1059344	You would never have to memorize this here.
+1059404	1062407	But essentially what this is saying is you have a triglyceride.
+1062987	1071955	We are relying on hormone-sensitive lipase in order to break down the triglyceride into glycerol and free fatty acids.
+1072835	1078220	It would be these free fatty acids that we are relying on oxidative phosphorylation.
+1082383	1087565	Okay, so now that we have a free fatty acid, we're ready to go.
+1088746	1091987	We need to figure out how to get this into the Krebs cycle.
+1092568	1104413	So you have a really long chain, but the Krebs cycle only really, well, it prefers really to accept these two carbon molecules called acetyl-CoA.
+1106109	1107730	OK, well that's kind of convenient then.
+1107810	1109590	We got this long free fatty acid.
+1110131	1111011	It's an even number.
+1111051	1113912	Let's just chop it into two carbon acetyl CoAs.
+1114572	1116753	And so that is beta oxidation.
+1118133	1123696	So that's the process of converting your free fatty acids into acetyl CoAs before they go into the Krebs cycle.
+1128137	1128837	Nothing's free.
+1129818	1135260	So in order to start this process, it requires two ATP up front.
+1137105	1138645	So you have your free fatty acid.
+1138665	1149668	In order to start cleaving off those two carbon acetyl CoAs, you need to put in two ATP to start that process.
+1153588	1155729	OK, so how many acetyl CoAs do you get?
+1156049	1162510	Well, that depends on the number of carbons that free fatty acid is composed of.
+1163611	1165511	So if we have palmitic acid over here,
+1166943	1169585	It is a 16-carbon free fatty acid.
+1170385	1173608	That would mean it yields eight acetyl-CoAs.
+1174769	1180553	If I put eight acetyl-CoAs, or eight turns of the Krebs cycle, that's going to give me 106 ATP.
+1180593	1189159	And then one glucose yields two acetyl-CoAs, 32-33 ATP.
+1189179	1190400	Well, 32 with the glucose, but glycogen 33.
+1197929	1207334	So fat oxidation requires more oxygen now or at that point in time, but yields more ATP.
+1214258	1215059	Any questions here?
+1217480	1217580	Yeah.
+1222513	1232339	Yeah, so if you think about how many each turn inside of the Krebs cycle is going to yield the NADHs and the FADHs, and then you just multiply that.
+1232399	1234060	So each NADH is 2.5 ATP.
+1234220	1236401	Each FADH is 1.5.
+1237041	1241664	But then you have to subtract off the 2 ATP to start the beta oxidation.
+1242044	1242565	We'll go through.
+1242585	1245626	There's actually a nice little formula on the next slide that'll help.
+1246907	1248448	Or not next slide, but in a couple slides.
+1251403	1253744	So this is kind of showing the same concept here.
+1254364	1255745	We have your free fatty acid.
+1256465	1258286	We get it inside of the mitochondria.
+1258326	1259947	We undergo beta oxidation.
+1260027	1265250	So each kind of one of these turn is going to free up some acetyl CoA's.
+1266470	1271172	From there, you treat it the same way you would treat it as glucose oxidation.
+1272673	1275575	It doesn't matter where the acetyl CoA came from.
+1275595	1278456	It's going to enter in the Krebs cycle and behave the exact same way.
+1281474	1286997	So the net yield here would be 14 ATP per beta oxidation cycle.
+1288197	1291959	So each acetyl CoA is going to yield 10 ATP.
+1293860	1296721	One NADH is going to be 2.5.
+1297782	1300843	And then one FADH is 1.5, just like I mentioned before.
+1305858	1318201	Don't worry too much about, man, I have to keep track of how many cycles, how many spins, and how many times it goes in the CREB, and then how many GTP or GDP, ATP, NADH, FADH.
+1318962	1319402	Don't worry.
+1320082	1321382	We have this little formula here.
+1322263	1325744	So the total ATP here is n minus 1 times 14 plus 10 minus 2.
+1330973	1333595	N is the number of acetyl CoAs that you're getting.
+1334216	1339180	You can calculate that by the number of carbons in your free fatty acid chain divided by two.
+1343444	1352432	Then you subtract off, so you do N minus one, so the number of rounds of beta oxidation.
+1353733	1355255	Then you minus off this two.
+1356750	1362074	because of the upfront ATP expenditure that it costs to start the beta oxidation.
+1369260	1374124	OK, it's nice seeing this formula here, but it's even more fun to try it out.
+1375405	1381310	All right, let's calculate the ATP yield from this 26-carbon free fatty acid.
+1381670	1383411	The formula is down below.
+1384432	1385113	Let's try it out.
+1440265	1445707	And then once you're done, we could try this out here.
+1540697	1542999	OK, are we doing OK with this one?
+1546021	1551886	Let's try submitting your answer here in the next 20 seconds, unless someone needs more time than that.
+1554588	1556869	All right, 20 seconds here, or now 15.
+1572905	1576250	Okay, I'll close this down in five seconds unless someone needs more time.
+1576270	1580797	Okay, three, two, one.
+1583642	1584964	All right, we did really well here.
+1590678	1594480	OK, so when you go through this, you have n minus 1.
+1595440	1600183	If we have a 26-carbon chain here, you need to divide that by 2.
+1601103	1602124	So we have 13.
+1602164	1604525	13 minus 1 is 12.
+1605325	1605646	12 times 14.
+1607306	1608947	Then you add on basically 8.
+1609448	1610788	You add on 10, subtract 2.
+1610828	1613530	It should get you very close to, well, not very close.
+1613570	1613770	It is 176.
+1614410	1617972	That would be the correct answer here.
+1622254	1623515	Any questions on this one?
+1627479	1627719	OK.
+1629361	1635126	So here's what I like to do every now and then here in the semester.
+1636362	1640684	I think these clicker questions are obviously relatively straightforward.
+1641005	1646448	So they're easy, but they're a good way to get an idea of maybe to get some practice.
+1647388	1652491	I value them, and I value them so much that I'm going to make a little wager with you here.
+1653972	1656053	So if we can get 100%
+1660323	1662485	on these questions, on a clicker question.
+1663366	1670393	I will, word for word, put that clicker question on your exam.
+1671755	1679642	Sounds pretty nice now, but I'm telling you, it doesn't happen, I think it's only happened once or twice, but you're gonna change the trend here, right?
+1680663	1680783	So.
+1683392	1687473	Again, there are a few rules that I kinda wanna have.
+1687613	1689674	One is everybody needs to click in.
+1689714	1693835	You can't just nominate one person to click in and say, okay, we're doing that.
+1694415	1702016	And then no yelling out the answer or trying to sway the room by saying, everyone click in A or something like that.
+1702337	1703597	Does that sound fair?
+1704817	1708778	Okay, so now it's like, oh, now you're gonna pay attention to these clickers, huh?
+1709658	1712399	Okay, so we have a few more today.
+1713460	1721784	It'll pretty much go all the way throughout the, I mean, I'll probably cap them at some, at a point.
+1721964	1725906	I don't think it'll ever happen, but if you happen to get like, I don't know, five of them, I'd be like, okay.
+1726366	1728347	Probably need to stop it, but okay.
+1729688	1730468	But I've never seen that.
+1730508	1734170	It's not gonna, I have faith, but it's probably not gonna happen, so.
+1735551	1735751	Okay.
+1737963	1741264	Here's a little chart here that you can fill in on your own time.
+1741344	1748285	I think this would be a really great way to try to review the different pathways that we just talked about.
+1748365	1752526	So the ATP-APC system, glycolysis, and oxidative phosphorylation.
+1753706	1758667	I know this one gets a little tricky here with glycolysis and oxygen requirement.
+1758727	1765268	We're basically gonna pretend or we're gonna label that glycolysis the non-oxidative glycolysis piece.
+1766462	1769405	So in that instance, it would be anaerobic.
+1770025	1779855	If you put down both, I'd be OK with that as well, because technically, glycolysis is part of the oxidative phosphorylation.
+1785267	1788710	Okay, again, try to take some time, fill those out on your own.
+1789391	1799881	I'm more than happy to meet with you either in help hours or any other time, and I can take a quick look at it, make sure you're on the same, you're on the right track.
+1804495	1812384	This is another really good figure depicting the same concept that we've been talking about as far as capacity and energy generation.
+1813325	1817170	So here we have maximal rate of ATP generation.
+1817250	1822917	So how much energy or ATP can be produced by these systems?
+1824251	1834299	No surprise, phosphocreatine, the PCR system, is gonna be able to generate the most amount of ATP per second.
+1835500	1841946	So the rate of ATP generation is the highest with the ATP PC system.
+1843787	1852755	No surprise since it's just stripping off a phosphate from the phosphocreatine, putting it on the ADP, you get ATP done, right, very fast.
+1853891	1857474	Next, glycolysis, then carbohydrate oxidation, and then fat oxidation.
+1859176	1860778	Maximal energy available.
+1861859	1872789	Well, this is the number of ATPs or the mole of ATPs that could be generated if we liberated all of the ATP from those stores.
+1874191	1876413	PCR and glycolysis, very low.
+1878697	1882361	Carbohydrate oxidation, pretty high, not too bad.
+1882942	1889970	And then fat oxidation, we're basically not limited in the amount of triglycerides that we have in our body.
+1890811	1892073	We cannot deplete them all.
+1892433	1894596	And if we do, we would not be alive.
+1895657	1897259	So we are not limited here.
+1905579	1911523	OK, any questions so far until we move on to the next topic here, which is fuel utilization?
+1911903	1912123	Oh, yeah.
+1921040	1924121	Yeah, yeah, can you hang tight on the next group of slides?
+1924161	1925001	Yeah, that's a great question.
+1925021	1933624	The question was basically, can we determine when we're actually using fats more than carbohydrates, what type of exercises, what type of intensity, maybe duration?
+1934464	1939426	That is this whole fuel utilization during exercise.
+1941406	1947328	What are we primarily using during certain activities or exercises?
+1949589	1957699	The Monday lab, you've seen the Douglas bag technique, but I like to show this because it wasn't too long ago.
+1958000	1959422	Obviously, this was a while ago.
+1960823	1967853	But the individuals, if they wanted to know their substrate utilization for an athlete,
+1969187	1970808	They would have to run on a track.
+1971248	1974929	And it's kind of tough to see here, but these are Douglas bags that they're carrying.
+1974969	1977730	So the Monday class, you've seen what those Douglas bags look like.
+1978210	1984113	Tuesday and Wednesday, you'll see how you can fill those up during rest and exercise.
+1984573	1986153	But essentially, they're driving a car.
+1986774	1990375	And they have this two-way breathing valve hooked up to this runner.
+1990995	1997358	And then on the hood, you have these researchers basically filling up these bags of expired air.
+1998341	2000363	And then they can go analyze them a little bit later.
+2002584	2010531	So you're basically going to go through with these calculations and collection techniques for the first, well, I guess, lab two and three.
+2010551	2017276	And then after that, thank goodness for the invention of computerized technology.
+2018337	2020939	So now we use something called the Parvo.
+2021059	2024522	And it basically does all of those calculations automatically.
+2025540	2034387	So the Haldane equations that you're going through in lab this week, they're going to seem pretty tedious, and they're going to take a very long time, whereas the computer does it in seconds.
+2037149	2038490	You'll get to experience both.
+2039511	2046356	But essentially, we're trying to figure out how much oxygen you're consuming per minute versus the carbon dioxide produced per minute.
+2047657	2048958	The nice thing about this
+2050575	2057700	If we go back to how we're oxidating carbohydrates and fats, it's just a matter of breaking down the carbons.
+2058801	2061743	In that process, you are releasing carbon dioxide.
+2062684	2068809	Well, that's pretty nice because I know how many carbons are in a glucose molecule or a fat or a lipid chain.
+2069890	2074073	And then if you show me how many carbons got released, I know how many you broke down.
+2075595	2084844	So what we can do then is estimate your fuel utilization during exercise by using something called the respiratory exchange ratio or RER.
+2087667	2091771	Sometimes in textbooks, you'll see it as R or RQ.
+2093112	2095615	In this course, we're basically saying they're interchangeable.
+2096908	2102030	The reason why they are a little different, RER is the respiratory exchange ratio.
+2103071	2105212	RQ is like the respiratory quotient.
+2105692	2114336	And that's if I put something like a mitochondria in a Petri dish and it started infusing oxygen in there, then I can get a really good idea of these calculations here.
+2115176	2119118	So R and RQ, that's happening at the cell or at the muscle.
+2120098	2127101	RER, respiratory exchange ratio, that's happening on when I'm actually expiring out because we're collecting the expired gas.
+2128021	2132763	And you'll see why that kind of matters when we talk about maybe the limits of RER.
+2134403	2134643	OK.
+2135123	2147608	In order to calculate this, we need VCO2 over VO2 to rely on this calculation for energy expenditure and substrate utilization.
+2148981	2155724	The individuals must be at steady state and the exercise has to be submaximal.
+2157365	2161827	We typically deem submaximal a workload that's below lactate threshold.
+2164848	2174833	If we satisfy these requirements, then we know the oxygen that is used during that exercise task is going to represent metabolism quite well.
+2175900	2178842	and we can start doing some substrate utilization calculations.
+2181763	2189007	If we have more carbons in a molecule, no surprise that we'll need more oxygens to break them down.
+2191548	2198772	We do not assume or we do not consider protein as a fuel source during exercise.
+2200072	2205155	And you might think, well, what about those extreme circumstances or just those unique cases
+2206407	2214469	Well, the researchers actually did this and they tried, well not tried, they actually accounted for the protein breakdown.
+2215189	2219530	And it's so small that it doesn't even impact these calculations.
+2221210	2234493	To reduce the complications of trying to account for nitrogen being excreted outside of the body and sweat or urine, it's just not worth trying to get those types of calculations in there.
+2235955	2250123	So when you're doing the RER calculations, it's just based off of carbohydrates and fats, mainly because we are no longer trying to measure nitrogen coming out of other areas.
+2251564	2256246	And the protein sources don't even make a huge contribution to energy expenditure.
+2259528	2264351	OK, so let's see what we can get from this RER formula here.
+2265687	2272432	If we are looking at R or RER for fat, as an example, we'll stay with palmitic acid.
+2273913	2278777	We have C16H32 and two oxygens.
+2279697	2283901	We combust that with 23 oxygen molecules, O2 molecules.
+2284901	2288324	We then have 16 CO2s and 16 hydrogens.
+2291086	2291927	I can just take.
+2293936	2300581	16 CO2s, put them here, divide it by the amount of oxygen it took to fully combust the palmitic acid.
+2301161	2302322	I then get a ratio of 0.7.
+2302883	2311890	So if I'm only burning fats, this ratio will stand.
+2313351	2319455	And so that's why this says R, because in a petri dish or some bomb kilometer,
+2320612	2331338	I can control the parameters of the environment and see how many carbon dioxides get released for however many oxygen molecules it took to combust that molecule.
+2333239	2334260	And that's the ratio here.
+2334280	2337021	16 divided by 23, you get 0.7.
+2339743	2342685	If we are looking at glucose, a glucose molecule, C6H12O6,
+2345216	2351239	It takes six oxygen molecules to fully combust your glucose.
+2352379	2354520	You release six carbon dioxides.
+2356081	2357441	And you also release some water.
+2359462	2366045	Well, I can take the 6 CO2 divided by the 6 O2, and we get a 1 to 1 ratio.
+2368005	2373768	If I am only burning carbohydrates, I would have an RER or an R of 1.
+2378596	2380017	Are we OK here so far?
+2381138	2381338	Nice.
+2384760	2394167	So the nice thing about this, if we have the caps, we have 0.7 and 1, well, then it's very easy to fill everything out in between.
+2395728	2404675	If an individual is burning 100% fat, that's 0.7, we have something called the caloric equivalent for oxygen.
+2406722	2412924	We know how much energy it's going to release by burning 100% fat.
+2414864	2419145	So we have 100% fat, and then we can move all the way down to 100% carbohydrate.
+2419685	2425667	An R, or an RER of about 0.85, usually not for everyone, but is pretty close to 50-50.
+2430419	2437283	We'll talk about what intensities or how we can actually move along the spectrum with different exercises.
+2438804	2444887	But for now, I want to kind of key into this column over here.
+2448249	2449030	That's a little weird.
+2450270	2452952	If I am burning 100% fat, I'm releasing 4.69 kcals.
+2462893	2466315	What have you learned earlier in these slides or from nutrition?
+2467256	2471678	How many Kcals do you normally release with some fat?
+2473219	2475040	Around nine, nine, 9.5, right?
+2475841	2478642	But the thing you have to be really careful about are the units.
+2480023	2482665	When we looked at this one here,
+2483952	2492036	These nutritional kind of calculations are four kcals per gram of your substrate.
+2492596	2498018	So per gram of carbohydrate, per gram of fat, and per gram of protein.
+2501340	2510984	In these bomb kilometers, you have unlimited oxygen being pumped into here to fully combust that molecule.
+2513774	2515254	Our body's a little unique, right?
+2515454	2518775	We do not have unlimited oxygen in our tissues.
+2520455	2531697	When we get into some respiratory physiology and altitude, the problem or the name of the game is how do we get more oxygen into the blood to be transported to the tissues?
+2532718	2537818	So most of the time, the limiting factor is for us to actually have more oxygen in the tissues.
+2538899	2540259	So these calculations,
+2541618	2544419	or cake house per liter of oxygen.
+2546079	2569727	Meaning, if I have one liter of oxygen, or I have that bomb climber and I only infuse one liter of oxygen, and I have unlimited fat, or a gram of fat, and I light that on fire, there's only enough oxygen, one liter of oxygen, to burn a portion of that fat.
+2571402	2575725	What gets released is 4.69 kcal of energy.
+2577686	2591136	And if we're looking down at that substrate, the one gram of fat, well, maybe around half, a little bit less than half would be burnt and then there would be some fat remaining.
+2593418	2600703	Whereas carbohydrates, even though it's four kcal per gram, if I infuse one liter
+2602692	2612338	of oxygen, and I have two grams of carbohydrate, or unlimited grams of carbohydrate, and I light that on fire, you will burn one full gram plus some more.
+2615160	2615800	Are we OK there?
+2615820	2617722	All right.
+2619863	2623685	This is an important concept for the calculations you'll do next week.
+2625867	2628869	This week, we're just saying, don't worry about this right now.
+2629449	2630770	Just estimate it as five.
+2632213	2638417	So when you're doing your held-in calculations for lab two, we say, use 5k cals per liter oxygen.
+2638497	2643420	Next week, you're going to have a really big chart where you can actually isolate different percentages.
+2646042	2646182	Yeah?
+2652986	2653826	No, no.
+2654127	2660771	Yeah, in this instance, it's just, how much energy can I liberate from your substrates?
+2662338	2665499	And we are limited in the amount of oxygen that we have.
+2667160	2684227	This overall formula, the efficiency on how we are burning each substrate is dependent a little bit on the composition of the molecule itself.
+2685572	2688093	because there are kind of C6.
+2688394	2689554	There are six carbons here.
+2689614	2693616	We have 16 over here, but it requires a little bit more oxygen to break this one down.
+2700780	2701040	OK.
+2702161	2703162	Any other questions on this?
+2703742	2709645	I don't mind spending more time on this because this is a really good foundational standpoint that we need to make sure we're good here.
+2712767	2712867	OK.
+2714677	2716297	Energy requirements at rest.
+2717638	2727620	If I'm at rest, does anyone remember what we would estimate someone's resting either energy expenditure or oxygen consumption to be?
+2728560	2729141	Any ideas?
+2732541	2736682	If someone were to be resting, yeah.
+2736762	2738783	Yeah, 3.5 milliliters per kilogram per minute.
+2739223	2740623	Does anyone know what that equals?
+2741664	2742144	One something.
+2743520	2744161	Yeah, one met.
+2744541	2744681	Yep.
+2745522	2745762	OK.
+2747244	2758474	So at rest, almost, it's never always at 100, but most of the ATP produced by aerobic metabolism is at rest.
+2759735	2763279	Blood lactate levels are low, but it does vary between individuals.
+2764449	2767411	And we would say it's around 0.25 liters per minute.
+2767451	2769493	But again, this depends on body size.
+2770333	2775337	If we accounted for body size, everyone should be around 3.5 milliliters per kilogram per minute.
+2778760	2779961	OK, so you're all resting.
+2780501	2781842	You're kind of relaxing.
+2781862	2782663	And then you're like, you know what?
+2783443	2784324	Time to exercise.
+2785605	2788888	So let's see what happens when we move from rest to exercise.
+2789812	2793254	Well, ATP production increases immediately.
+2793854	2799237	No surprise, because the amount of ATP that we store inside our body, it's quite low.
+2799837	2801318	So we have to replenish those stores.
+2802538	2804379	We've kind of seen this concept already.
+2804619	2818206	If we have PCR concentration on the y here and time on the x, these concentrations drop pretty rapidly, because we are undergoing the ATP-PC cycle.
+2820221	2827887	So initially, ATP production is through these non-oxidated pathways, ATP, phosphocreatine, and glycolysis.
+2831090	2832651	This is kind of just depicted over here.
+2836034	2836615	That's review.
+2836975	2838056	We've already talked about that.
+2838316	2838816	No big deal.
+2842379	2848745	Here, those who had lab on Monday or you've reviewed those slides, this should look very familiar.
+2850083	2875254	But if I'm resting and someone turns on the treadmill and the treadmill is going at a certain speed, say seven miles per hour, and I jump on that treadmill, the body requires this much ATP to be produced per second in order for me to sustain that speed to run.
+2878096	2882839	But right here on the y-axis, we have oxygen consumption.
+2886681	2889083	This is how much oxygen we are consuming.
+2889203	2893025	And it doesn't take or it takes approximately three minutes.
+2893766	2896747	There's a lag in the amount of oxygen we can consume.
+2897748	2900310	So here it takes around three minutes.
+2901288	2910233	before I'm consuming enough energy to generate or consuming enough oxygen to generate ATP to sustain this workload?
+2914035	2922700	Well, if I'm not producing enough ATP here, how then am I staying on the treadmill and not just flying off the back?
+2931286	2935307	And you've probably experienced this before, not flying off the back of the treadmill.
+2935327	2941149	But if you run to class, while you're running, if it's short enough, you probably feel OK.
+2941189	2947490	And then you sit down, and all of a sudden your heart rate is spiking, your ventilation is pretty high, and it takes a little bit to kind of relax.
+2949311	2958373	So how did I run for three minutes with not a lot of oxidative phosphorylation going on?
+2959771	2961352	How am I generating that energy then?
+2963853	2965474	Yeah, the anaerobic metabolism.
+2965694	2973518	So this portion right here, this shaded area above the curve is called O2 deficit.
+2975800	2987186	The O2 deficit is representing the immediate or the non-oxidative energy sources that we now had to kind of consume or burn in order to sustain this ATP up here.
+2995367	2997008	Are we okay with this concept here?
+2999309	2999529	Nice.
+3002191	3021662	The nice thing about this curve here, how quickly we reach this steady state is typically determined by either fitness or other kind of metabolic disorders, but as we start training,
+3023275	3027716	you start to get a faster rise in the oxygen consumption.
+3030197	3040340	So this teal line here on the left is representing an individual who has undergone some type of endurance training program.
+3041221	3043821	And it shifted this kind of curve to the left.
+3044882	3048743	So this is before training, and this is after training.
+3052616	3062286	If I were to shade this then, so if I were to draw a line across the top up here and then shade all of this, that would be the O2 deficit after training.
+3063127	3068793	And then if I were to shade all of this, this would be the O2 deficit before training.
+3070562	3076404	So no surprise then, the O2 deficit is lower following training.
+3077044	3085787	That means the rise in oxygen consumption or the rate at which you are increasing oxygen consumption is faster after training.
+3089068	3092409	Same VO2 at a lower concentration of ADP.
+3094970	3100332	And we can meet a lot of the ATP production through oxidative phosphorylation.
+3103035	3112940	We don't get into this concept too much more than this in this class, but this is a whole field of exercise physiology called VO2 kinetics.
+3113960	3115501	It's a pretty fascinating field.
+3116601	3121184	There used to be this idea that you would have three determinants of performance, VO2 max.
+3122144	3123624	economy and lactate threshold.
+3123704	3133086	And if you had at least two of the three at a relatively high level, you'd be kind of a very elite athlete or an Olympic performer.
+3133966	3143828	And if you had all three that were at the top, then those are kind of those athletes who, Olympic after Olympic, they're just always kind of winning golds and silvers.
+3144208	3147349	So typically, we don't see athletes with all three of those.
+3147929	3151350	But now they're adding like a fourth pillar, and that's VO2 kinetics.
+3152405	3156009	So it's how quickly can you get to that point.
+3157631	3161937	OK, this results in less lactate formation and hydrogen production.
+3162718	3167924	The other really big thing is you are not depleting your immediate energy sources as much.
+3169045	3169987	So this is very nice.
+3172807	3180614	Right here, not that big of a deal, but you could imagine an athlete who would want to rely on those immediate energy sources throughout the race.
+3180794	3182155	Maybe they wanna speed up a little bit.
+3182195	3183556	Maybe they wanna sprint at the end.
+3189742	3190002	Okay.
+3191624	3195547	Metabolic responses to exercise, influence of duration and intensity.
+3196848	3199671	When we are talking about substrate utilization,
+3200833	3209603	and looking at RER, you always have to ask yourself, how does this behave if I increase or decrease duration?
+3211046	3215567	And separately, how does this behave if I increase or decrease intensity?
+3216267	3217848	These are two separate topics.
+3218208	3219968	Yes, they sometimes are.
+3220469	3224150	Like if I increase duration, a lot of the times you have to back off on intensity.
+3224610	3229591	But these two concepts are just so much easier to try to grasp if you separate them.
+3230031	3231532	And then later on we can put them together.
+3235073	3240234	And so the interaction between oxidative and non-oxidative ATP production
+3242163	3246185	would be this idea of short-term high-intensity exercise.
+3246525	3252267	You're going to have a greater contribution from those non-oxidative or anaerobic energy systems.
+3253408	3263692	The long-term or low to moderate exercise intensity would then rely majorly on the ATP being produced from aerobic sources.
+3269270	3276012	This is a really great figure to just double check that you understand the concept from this slide here.
+3277093	3290157	So if you look at this figure, if I'm trying to sprint for one to three seconds, essentially it's not 100, but it's like 99.99999, right?
+3291878	3295819	That is primarily gonna come from anaerobic or non-oxidative.
+3297330	3298891	as I move down the spectrum here.
+3300453	3312082	Even if I'm sprinting for two minutes, 60% of the energy is still coming from non-oxidative, but 40% is coming from oxidative.
+3313744	3317947	Once we get into this three minute mark, we're almost 50-50.
+3319889	3321110	And then at four minutes,
+3322570	3337222	You're kind of on the other side of the spectrum now, where you're at 65, maybe 70, 30, as far as 70 being primarily, or not primarily, majority of that energy is coming from oxidative phosphorylation.
+3340505	3342207	And this four minutes is kind of unique because
+3344450	3353755	most people would think, if I'm trying to sprint a mile as fast as I can, that maybe a lot of that is coming from non-oxidated phosphorylation.
+3354295	3368702	And I know not everyone can run four-minute miles, but in general, even if you were trying to sprint for four minutes, there is a substantial contribution from the oxidative phosphorylation to that exercise task.
+3370633	3381065	So try to make sure you keep this in the back of your mind here that just because you're running four minutes or five minutes doesn't mean it's not oxidative.
+3381566	3389515	It doesn't always have to be 10K, a marathon for it to be kind of primarily on the oxidative side of things.
+3393100	3402988	You definitely don't need to memorize these, but it might be good to kind of check these to get an idea of how long some of these events are.
+3403468	3406170	So 10 minutes, that's close to a two mile run.
+3408012	3410474	Two minutes, 800 meter dash.
+3411895	3416559	On a track, on a standard track, not an indoor track, does anyone know how many laps that is?
+3417882	3418723	800 meters, too.
+3419003	3419163	Yeah.
+3419364	3420705	So if you just run around twice.
+3421105	3422006	So it's not very far.
+3422887	3423647	Run around twice.
+3424348	3425549	That should be your 800 meters.
+3430185	3431645	Here are some more examples here.
+3431765	3439767	Again, I wouldn't focus on memorizing these events per se, but you could always just kind of quiz yourself.
+3439847	3444108	OK, if I'm going out for a 5k, around what percentage?
+3444168	3449609	Well, you wouldn't have to memorize the percentage, but are you using more oxidative or are you using more non-oxidative?
+3449629	3451170	And kind of look down here.
+3451230	3451750	Well, this is a 5k.
+3453350	3457092	And so we're not using a lot of ATP, PC, or glycolysis.
+3457252	3458153	70% aerobic, OK.
+3458813	3459594	That kind of makes sense.
+3459614	3462476	So that means 10K would probably be more than that.
+3463876	3467238	So that's how you should approach these figures here, these tables here.
+3470540	3470800	OK.
+3472541	3474663	Short-term, high-intensity exercise.
+3475963	3482008	This is, I'm gonna go through these kind of fast, because it's a little bit of review first, one to five seconds is through the ATPPC.
+3482889	3485911	Then you kind of shift the ATP production to glycolysis.
+3486692	3495820	And then anything lasting longer than 45 seconds, you're starting to really rely on that oxidative phosphorylation.
+3497241	3502345	Even at 60 seconds, right, we're at 70, 30, and then two to three minutes, we're already at that 50, 50.
+3507043	3512367	I can then plot these on a figure as far as contribution from each energy system.
+3515330	3517391	Here you can see the teal line.
+3517471	3520514	So we have contribution of energy system on the y-axis.
+3520774	3524437	And then we have time in seconds of maximal effort.
+3524477	3527139	So it's not like, oh, I'm walking for three seconds.
+3527239	3531383	No, you're doing the maximum effort you can for that duration.
+3532481	3533962	So this is seconds down here.
+3534722	3537123	This teal line is the ATP PC system.
+3537483	3545748	You'll notice it's not at 100% because we still have some energy contribution from both aerobic and glycolysis.
+3546088	3551851	So the rapid non-oxidative glycolysis as well as the oxidative phosphorylation right here in blue.
+3554092	3556293	As we move in duration,
+3558212	3564957	the contribution from these systems, primarily because you're depleting them, rapidly decrease.
+3566978	3573883	We become more reliant on these other energy systems as we move through the duration.
+3583229	3583329	OK.
+3589129	3594092	I probably should have put this question in a different place.
+3594192	3601676	But here's a question I want you to kind of chat with your neighbors about.
+3604397	3610601	If we are talking about substrate utilization where 0.7 is 100% fat, 1 would be 100% carbohydrate,
+3615498	3624806	Would it be physiologically possible for the respiratory exchange ratio to be outside of the R or the RQ range of 0.7 to 1?
+3626888	3628910	So chat with your classmates really quick.
+3632674	3634095	And we'll come back to this.
+3742530	3753064	Okay, sorry, the timing of this slide wasn't great, because I probably should have had it maybe three or four slides back when we were talking about RER, but it's good review.
+3754326	3757310	If we look at the RER chart, which you will see next week,
+3758221	3765302	you see this is an expanded version of that table where we go from 0.7 all the way to one.
+3766283	3776645	Even this chart is simplifying things because we can get at like six decimal places deep on this RER chart when we're actually doing substrate calculations for athletes.
+3777425	3783106	So even this is a little bit of a simplified version of the RER chart.
+3784520	3794347	But if I'm at 100% carbohydrates and 100% fats, and that's 0.7 to 1, do you think we can go over 1?
+3794387	3801692	So I'm seeing some shakes of the head.
+3801712	3805895	How about we'll start with this.
+3806056	3807036	Can you go lower than 0.7?
+3809592	3817657	No, I'm thinking no because, again, you have a required amount of oxygen to break down these lipids or these free fatty acids.
+3818498	3824562	And that doesn't change because the stoichiometry behind it is what it is.
+3824622	3825782	You just can't change that.
+3827624	3833207	But over here, then, you can make the same argument for the carbohydrates, for the glucose molecule.
+3836489	3836730	But.
+3838040	3841723	It's the respiratory exchange ratio, not what's happening at the muscle.
+3843905	3845206	So what are we counting again?
+3846647	3849349	The number of what over the number of what?
+3849509	3850149	What's RER?
+3852211	3856935	VCO2 over VO2, right?
+3857255	3863420	The amount of oxygen we consume, I'm gonna argue that doesn't change very much if we're down over there.
+3867175	3874761	Any idea if we could produce carbon dioxide not from breaking down the substrate?
+3877523	3880686	Someone mentioned it last week, so maybe that person don't mention it, but.
+3885430	3889513	Is there another way where our body produces an excess quantity of
+3892526	3896768	Yeah, so all of the carbon dioxide produced here is from cellular respiration.
+3897688	3898568	Yeah, that's a good thought.
+3898628	3900669	But outside of cellular respiration.
+3900689	3904311	Do you have a guess?
+3905831	3907252	Yeah, the bicarbonate buffer.
+3908392	3913034	So we can have non-metabolically produced carbon dioxide.
+3915567	3920389	We cannot dissociate the two when we are measuring expired gases.
+3921409	3930153	So when you are running through your RER calculations next week, not likely, but it's possible that someone will be over one.
+3931534	3934995	And if that's the case, you need to think about, well, one, is that possible?
+3935215	3937276	Yes, I'm telling you it's possible, but two, why?
+3938216	3939197	And the second one would be,
+3940420	3942983	Well, you're producing more non-metabolically.
+3943704	3950171	And if you're undergoing that bicarb buffering, that means there are a lot of hydrogen ions, or there's a lot of changes in the pH.
+3950552	3952354	And so that intensity must be pretty high.
+3958381	3959763	OK, any questions on that one?
+3962197	3965258	All right, so we'll get into this concept.
+3965619	3970121	Now we're kind of jumping back, sorry about that, but steady state or prolonged exercise.
+3970141	3973022	So this is the duration piece of the exercise.
+3973662	3976444	So metabolic responses to prolonged exercise.
+3977624	3985150	When we are looking at these concepts, especially this one, we usually need to make sure we're kind of in a cool environment.
+3985810	3987972	Some of these things change if I heat up the room.
+3988692	3993055	So we'll just start with a thermo neutral environment, cool environment.
+3994396	4000881	The ATP production will be primarily from oxidative phosphorylation or aerobic metabolism.
+4002362	4004404	And we can maintain a steady state
+4005572	4012577	as long, again, as we are below lactate threshold or it's a submaximal exercise.
+4017461	4031471	If I heat up the room though, so this is exercise in a hot and humid environment versus exercise in a cool environment, you will get an upward drift of oxygen uptake, even if I don't change the workload or the power.
+4034649	4036010	One day, I will change these figures.
+4036071	4041316	But I really don't like these figures only because they make it seem like both are increasing.
+4041836	4044158	But you have to kind of look at the axes here.
+4044959	4047902	Maybe it's a good learning tool here.
+4047962	4050424	But the axes here, you go from 1.2 to 2.4.
+4050825	4053227	And over here, you're going from 2 to 3.6.
+4055109	4057952	So they've kind of shrunk down the axes in this picture.
+4059102	4067808	And if we're looking at this change, this increase here or this increase is only like point one, maybe point two.
+4069109	4074673	If I were to put point one on this graph, it would be from here to like here.
+4077215	4083860	So there's a really big increase after 20 minutes of exercise in the heat.
+4085424	4093411	But after the same, let's see here, 40, maybe 40 minutes of exercise in the cool, we're basically pretty flat.
+4097374	4105722	So if I heat up the room and make it more humid, you get an upward drift in oxygen uptake over time, and you cannot achieve steady state.
+4108672	4117416	We'll touch on this when we get to hormones, but a lot of this is because you have an increase in core body temperature as well as an increase in epinephrine or epinephrine secretion.
+4125139	4132902	Okay, assuming you can maintain steady state in a cool environment, if I increase duration,
+4135523	4144530	prolonged low intensity exercise, you shift from carbohydrate metabolism to fat metabolism.
+4146872	4160562	Again, if I am only looking at exercise duration here, you are shifting from carbohydrate metabolism towards fat metabolism.
+4165752	4167354	Any questions on this concept here?
+4169596	4169916	OK.
+4171017	4174540	So be a good clicker to end with, because you know the deal now.
+4175561	4186652	So if we're shifting that way, what happens to R or RER as exercise duration increases?
+4197693	4203627	We'll go about a minute from now, maybe a little less.
+4246178	4248359	Okay, let's double check that you have an answer in.
+4248379	4255642	I think we're missing 10 clickers.
+4256903	4262625	You could be that last clicker that makes or breaks this question.
+4266747	4271369	Two clickers will go maybe 10 seconds from now.
+4272189	4274090	One clicker, double check you're in.
+4275329	4280152	All right, I'll close it down in three, two, one.
+4280172	4286796	Nice job, we did pretty good here.
+4289798	4291980	So we're thinking B here.
+4299645	4301106	What does the RER chart go from?
+4301126	4304107	0.7 to one, what's that 0.7?
+4306578	4307499	100% fat, what's that one?
+4309020	4309340	100% carbs.
+4309701	4314304	As I increase in exercise duration, we shift from what substrate to what?
+4315325	4323310	From carbs to fat, so that means we kind of move, well, I know I'm going up, but you move like down towards the point seven, right?
+4324111	4327533	So, that's this piece here.
+4329095	4333378	As I am going more towards fat, you're going lower on the RER.
+4335306	4339133	Okay, we'll start basically on this concept on Thursday.
+4339153	4341678	Have a great rest of your day.
