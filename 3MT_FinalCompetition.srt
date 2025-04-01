@@ -1,0 +1,4836 @@
+1
+00:00:05,144 --> 00:00:06,285
+Afternoon, everyone.
+
+2
+00:00:06,285 --> 00:00:08,648
+Hope you're good.
+
+3
+00:00:08,648 --> 00:00:11,872
+It's really a pleasure to welcome you here for
+
+4
+00:00:12,873 --> 00:00:19,540
+the University of Colorado Boulder's eighth annual three-minute thesis final competition.
+
+5
+00:00:19,540 --> 00:00:22,664
+I'm Scott Adler, Dean of the Graduate School.
+
+6
+00:00:22,664 --> 00:00:27,830
+Thrilled to have you join us for really one of my favorite events of the year.
+
+7
+00:00:27,830 --> 00:00:33,396
+And it's really nice to pull everyone together these days for something fun and positive.
+
+8
+00:00:34,574 --> 00:00:37,198
+The Graduate School at CU Boulder is home to
+
+9
+00:00:37,198 --> 00:00:41,644
+nearly 6,000 graduate students across 130 different programs.
+
+10
+00:00:42,666 --> 00:00:47,172
+And these students are engaged in groundbreaking research, creative work,
+
+11
+00:00:49,155 --> 00:00:51,679
+and creative work training to become the next
+
+12
+00:00:51,679 --> 00:00:56,377
+generation of scholars, artists, teachers, and researchers.
+
+13
+00:00:56,377 --> 00:00:58,999
+from astrophysics to dance.
+
+14
+00:00:58,999 --> 00:01:02,082
+They're pushing the boundaries of their disciplines and
+
+15
+00:01:02,082 --> 00:01:07,187
+tackling some of the most complex challenges of our time.
+
+16
+00:01:09,469 --> 00:01:14,213
+Our students' important work is made possible in part by
+
+17
+00:01:14,213 --> 00:01:17,937
+the generous support of our donors who fund the fellowships
+
+18
+00:01:18,757 --> 00:01:22,661
+and grants awarded by the graduate school each year.
+
+19
+00:01:22,661 --> 00:01:26,566
+So if you saw the slideshow earlier,
+
+20
+00:01:26,566 --> 00:01:31,894
+You caught a glimpse of some of the outstanding scholarship going on by our graduate students.
+
+21
+00:01:33,075 --> 00:01:38,623
+Their achievements really do reflect the excellence of the
+
+22
+00:01:38,623 --> 00:01:41,608
+graduate school and the students that we have here.
+
+23
+00:01:41,608 --> 00:01:45,153
+And we're deeply grateful to our donors for their
+
+24
+00:01:45,153 --> 00:01:49,179
+commitment to advancing research and innovation at CU Boulder.
+
+25
+00:01:51,382 --> 00:01:55,270
+And yet, much of the remarkable research
+
+26
+00:01:55,270 --> 00:02:00,941
+that our students are doing remains known only to specialists within their given field.
+
+27
+00:02:02,324 --> 00:02:06,252
+And that's why we do the 3MT competition and why it's so special.
+
+28
+00:02:07,053 --> 00:02:13,466
+It's more than a showcase of research, it's a testament to the power of effective communication.
+
+29
+00:02:14,788 --> 00:02:16,381
+Today our finalists
+
+30
+00:02:16,381 --> 00:02:19,605
+will take on the challenge of distilling complex
+
+31
+00:02:19,605 --> 00:02:26,674
+ideas into compelling, accessible narratives that engage, inform, and inspire us all.
+
+32
+00:02:29,098 --> 00:02:34,304
+Now this 3MT journey began last fall when 31 graduate
+
+33
+00:02:34,304 --> 00:02:38,330
+students embarked on a series of workshops designed to
+
+34
+00:02:38,330 --> 00:02:42,996
+hone their storytelling, writing, and presentation skills, even
+
+35
+00:02:42,996 --> 00:02:46,320
+including a session on improv comedy techniques.
+
+36
+00:02:47,482 --> 00:02:51,128
+And after months of hard work and making it past
+
+37
+00:02:51,128 --> 00:02:56,777
+the preliminary round of the competition, we now have 10 exceptional finalists.
+
+38
+00:02:57,898 --> 00:02:59,902
+Your program says 11, one got sick.
+
+39
+00:03:03,447 --> 00:03:08,255
+And these finalists are ready to present their research in just three minutes.
+
+40
+00:03:09,877 --> 00:03:15,562
+So to our participants, congratulations on making it this far.
+
+41
+00:03:15,562 --> 00:03:19,848
+Your dedication, creativity, public speaking, and communication skills
+
+42
+00:03:19,848 --> 00:03:24,636
+are already a testament to your excellence.
+
+43
+00:03:24,636 --> 00:03:33,088
+To our esteemed judges, thank you for your time and expertise in evaluating these presentations.
+
+44
+00:03:33,970 --> 00:03:38,196
+And to our audience, students, faculty, staff, family,
+
+45
+00:03:38,196 --> 00:03:43,003
+friends, and community members, your support is what makes this event so special.
+
+46
+00:03:43,827 --> 00:03:47,794
+So let's celebrate the power of knowledge, the courage
+
+47
+00:03:47,794 --> 00:03:50,058
+of discovery and the joy of learning together.
+
+48
+00:03:51,180 --> 00:03:57,310
+Without further ado, let's begin the 2025 three minute thesis final competition.
+
+49
+00:04:00,055 --> 00:04:04,823
+So it's my pleasure to introduce our emcee for today.
+
+50
+00:04:05,900 --> 00:04:10,667
+My dear friend, Bud Coleman, Professor Emeritus and the
+
+51
+00:04:10,667 --> 00:04:15,575
+inaugural holder of the Roe Green Endowed Chair in Theater
+
+52
+00:04:15,575 --> 00:04:19,100
+and former chair of the Department of Theater and Dance and
+
+53
+00:04:19,100 --> 00:04:24,128
+former Associate Dean of Faculty Affairs in the College of Arts and Sciences, Bud Coleman.
+
+54
+00:04:30,655 --> 00:04:34,039
+We are thrilled to have you here in support of our
+
+55
+00:04:34,039 --> 00:04:41,768
+graduate students as they rise to the challenge of presenting their research in just three minutes.
+
+56
+00:04:41,768 --> 00:04:44,672
+Your presence, both here in person and via the
+
+57
+00:04:44,672 --> 00:04:52,361
+live stream, demonstrates incredible support for CU's Boulder community of scholars.
+
+58
+00:04:52,361 --> 00:04:53,504
+The three minute
+
+59
+00:04:53,504 --> 00:04:58,090
+Competition, or known as 3MT, started at the University of
+
+60
+00:04:58,090 --> 00:05:02,676
+Queensland in 2008 and has since grown into an international
+
+61
+00:05:02,676 --> 00:05:08,624
+phenomenon hosted by over 900 universities in 85 countries.
+
+62
+00:05:08,624 --> 00:05:15,073
+3MT cultivates students' research communication skills, pushing them
+
+63
+00:05:15,073 --> 00:05:21,128
+to distill complex ideas into compelling narratives for a general audience.
+
+64
+00:05:21,128 --> 00:05:27,530
+To put this challenge into perspective, the average dissertation is around 80,000 words.
+
+65
+00:05:28,413 --> 00:05:34,578
+It would take approximately 9 to 12 hours to read it.
+
+66
+00:05:34,578 --> 00:05:42,189
+These students have distilled very complex ideas into three minutes.
+
+67
+00:05:42,189 --> 00:05:43,611
+No pressure, right?
+
+68
+00:05:45,835 --> 00:05:49,460
+As Scott mentioned, this year marks the eighth year that
+
+69
+00:05:49,460 --> 00:05:53,226
+CU Boulder has participated in 3MT, and today's winners
+
+70
+00:05:53,226 --> 00:05:58,253
+not only receive recognition, but also cash awards.
+
+71
+00:05:58,253 --> 00:06:02,937
+First place receives $1,500 and will go on to represent
+
+72
+00:06:02,937 --> 00:06:07,421
+CU Boulder at the Western Association of Graduate Schools competition,
+
+73
+00:06:07,421 --> 00:06:09,303
+which will be held in March of this year.
+
+74
+00:06:09,303 --> 00:06:15,108
+The runner-up will take home $750, and the People's
+
+75
+00:06:15,108 --> 00:06:20,253
+Choice Award winner, chosen by you, will receive $500.
+
+76
+00:06:20,253 --> 00:06:26,249
+Now, the competition's rules for today's presentations are very simple.
+
+77
+00:06:26,249 --> 00:06:30,093
+A single static PowerPoint slide is allowed.
+
+78
+00:06:30,093 --> 00:06:33,096
+No animations or transitions.
+
+79
+00:06:33,096 --> 00:06:35,639
+Presentations must be spoken word.
+
+80
+00:06:35,639 --> 00:06:37,841
+No rap, no poems, no singing.
+
+81
+00:06:39,203 --> 00:06:42,166
+No props, no sound effects or video files.
+
+82
+00:06:42,166 --> 00:06:47,231
+Just the speaker, their slide, and their ability to engage us.
+
+83
+00:06:48,132 --> 00:06:51,896
+Each presentation cannot be longer than three minutes.
+
+84
+00:06:51,896 --> 00:06:55,898
+Exceeding the time limit will result in disqualification.
+
+85
+00:06:55,898 --> 00:07:01,165
+we extend our sincere gratitude to the 10 graduate students competing today.
+
+86
+00:07:01,165 --> 00:07:04,350
+By stepping onto this stage, they have embraced the
+
+87
+00:07:04,350 --> 00:07:07,494
+challenge of sharing their research to the public.
+
+88
+00:07:08,516 --> 00:07:11,220
+A heartfelt thanks also goes to our esteemed panel
+
+89
+00:07:11,220 --> 00:07:14,785
+of judges who will evaluate today's presentations on
+
+90
+00:07:14,785 --> 00:07:22,075
+four key factors, comprehension, content, engagement, and communication.
+
+91
+00:07:23,658 --> 00:07:27,063
+We'll start with Walid Abdulladi, Executive Director of
+
+92
+00:07:27,063 --> 00:07:33,614
+the Cooperative Institute for Research in Environmental Studies and also Professor of Geography.
+
+93
+00:07:33,614 --> 00:07:34,836
+Thank you, Walid.
+
+94
+00:07:38,321 --> 00:07:41,887
+Next, we have Jared Bahir-Brauch, Director of Critical
+
+95
+00:07:41,887 --> 00:07:46,434
+Sports Studies and Assistant Teaching Professor in Ethnic Studies.
+
+96
+00:07:46,434 --> 00:07:47,235
+Thank you, Jared.
+
+97
+00:07:49,645 --> 00:07:55,392
+Sonia De Luca Fernandez, Senior Vice Chancellor for Leadership, Engagement and Support.
+
+98
+00:07:56,213 --> 00:07:56,893
+Thank you, Sonia.
+
+99
+00:08:00,297 --> 00:08:05,423
+And Robert Streeter, Site Supervisor at Polar Field Services.
+
+100
+00:08:05,423 --> 00:08:08,807
+Now, Robert is also a graduate of the CU Boulder
+
+101
+00:08:08,807 --> 00:08:13,693
+Graduate School and the winner of the 3MT competition in 2023.
+
+102
+00:08:15,234 --> 00:08:16,716
+Thank you, Robert.
+
+103
+00:08:19,902 --> 00:08:22,825
+While our judges will determine the first place winner
+
+104
+00:08:22,825 --> 00:08:28,071
+and the runner-up, you will decide the People's Choice Award winner.
+
+105
+00:08:28,071 --> 00:08:31,814
+As you watch today's presentations, consider which speaker
+
+106
+00:08:31,814 --> 00:08:40,343
+captures your imagination, makes their research accessible, and sparks your curiosity to learn more.
+
+107
+00:08:41,164 --> 00:08:44,448
+After the final speaker today, a QR code will be placed
+
+108
+00:08:44,448 --> 00:08:47,631
+on the screen where you can cast your vote.
+
+109
+00:08:48,505 --> 00:08:54,535
+At its core, 3MT is about storytelling, about sharing
+
+110
+00:08:54,535 --> 00:09:00,345
+new ideas, discoveries, and perspectives in a way that resonates with us all.
+
+111
+00:09:01,207 --> 00:09:06,316
+On this chilly day, we gather around the proverbial fire
+
+112
+00:09:06,316 --> 00:09:13,548
+to listen, learn, and be inspired by our next exciting generation of scholars.
+
+113
+00:09:13,548 --> 00:09:16,072
+Now, let's get started.
+
+114
+00:09:16,072 --> 00:09:20,039
+The presentation order has been already randomly assigned, so
+
+115
+00:09:20,039 --> 00:09:26,770
+first up, I'd like to invite Casey Hunt, PhD candidate at the Atlas Institute.
+
+116
+00:09:26,770 --> 00:09:29,855
+The title of their presentation is Building a Shared
+
+117
+00:09:29,855 --> 00:09:34,442
+Future, a Toolkit for Collaborative Robot Design.
+
+118
+00:09:42,168 --> 00:09:44,450
+Robots are the future.
+
+119
+00:09:44,450 --> 00:09:49,234
+They make work safer, reduce the cost of goods, and
+
+120
+00:09:49,234 --> 00:09:53,238
+support exploration into deep oceans and outer space.
+
+121
+00:09:53,238 --> 00:09:55,780
+And that's just a few of the things that they can do.
+
+122
+00:09:55,780 --> 00:09:58,343
+But what will our robot future look like?
+
+123
+00:09:58,343 --> 00:10:01,746
+Will it be user friendly and community focused?
+
+124
+00:10:01,746 --> 00:10:03,548
+That depends on who builds it.
+
+125
+00:10:04,388 --> 00:10:07,511
+To create a future filled with safe and relevant
+
+126
+00:10:07,511 --> 00:10:12,205
+robots, engineers must collaborate with the stakeholders of our designs.
+
+127
+00:10:12,205 --> 00:10:15,208
+Valuing stakeholder knowledge leads to robots that are
+
+128
+00:10:15,208 --> 00:10:21,155
+more trustworthy and require less fine-tuning, saving resources, and increasing adoption.
+
+129
+00:10:22,056 --> 00:10:25,360
+For example, a medical robot is more likely to
+
+130
+00:10:25,360 --> 00:10:28,784
+reflect the realities of hospitals if engineers prioritize
+
+131
+00:10:28,784 --> 00:10:32,628
+the perspectives of doctors, nurses, and patient advocates.
+
+132
+00:10:33,689 --> 00:10:39,070
+During my PhD, I've helped facilitate stakeholder-driven robot design.
+
+133
+00:10:39,070 --> 00:10:43,855
+What I learned is that these processes are invaluable, but they can be complicated.
+
+134
+00:10:43,855 --> 00:10:48,461
+One challenge is that when we imagine robots with stakeholders,
+
+135
+00:10:48,461 --> 00:10:53,647
+we have to use techniques that are accessible to everyone, like crafting and brainstorming.
+
+136
+00:10:53,647 --> 00:10:58,412
+We learn a lot from these exercises, but their simplicity can be limiting.
+
+137
+00:10:59,373 --> 00:11:01,516
+For instance, it's pretty hard to build a detailed
+
+138
+00:11:01,516 --> 00:11:08,213
+robot prototype with pipe cleaners, so even valuable outcomes can be limiting and vague.
+
+139
+00:11:08,213 --> 00:11:11,299
+My research asks, is it possible to design a
+
+140
+00:11:11,299 --> 00:11:15,887
+technique that leads to more fruitful collaborations with robot stakeholders?
+
+141
+00:11:15,887 --> 00:11:19,393
+And could this technique be inexpensive and easily remixed
+
+142
+00:11:19,393 --> 00:11:22,861
+to the many contexts where robots solve important problems?
+
+143
+00:11:22,861 --> 00:11:25,345
+To explore this question, I use a research
+
+144
+00:11:25,345 --> 00:11:28,350
+through design approach, surveying literature from robotics
+
+145
+00:11:28,350 --> 00:11:34,400
+education and design, interviewing experts, and creating hundreds of prototypes with my collaborators.
+
+146
+00:11:34,400 --> 00:11:37,745
+The result is a promising solution, a kit of 3D
+
+147
+00:11:37,745 --> 00:11:40,970
+printed joints and connectors that when combined with PVC
+
+148
+00:11:40,970 --> 00:11:45,237
+pipe, facilitate approachable and playful robot prototyping.
+
+149
+00:11:45,237 --> 00:11:49,464
+The kit is educational, teaching non-engineers about robots
+
+150
+00:11:49,464 --> 00:11:53,931
+as they create, while giving engineers the tools to convey precise technical ideas.
+
+151
+00:11:54,732 --> 00:11:58,238
+In testing, the kit has been transformative, supporting
+
+152
+00:11:58,238 --> 00:12:03,185
+stakeholders to create detailed prototypes of their ideas,
+
+153
+00:12:03,185 --> 00:12:06,951
+reducing ambiguity and fostering mutual understanding.
+
+154
+00:12:06,951 --> 00:12:09,757
+As a result, collaborations using the kit
+
+155
+00:12:09,757 --> 00:12:13,631
+give engineers clear foundations that they can build on.
+
+156
+00:12:13,631 --> 00:12:17,345
+Next, I'll explore the wide range of contexts the
+
+157
+00:12:17,345 --> 00:12:21,420
+kit could be used with elderly adults, firefighters, and children.
+
+158
+00:12:22,312 --> 00:12:24,517
+Although it sounds simple, this kit is a carefully
+
+159
+00:12:24,517 --> 00:12:28,024
+engineered solution to one of robotics most persistent challenges,
+
+160
+00:12:28,024 --> 00:12:30,930
+how to ensure all stakeholders have a voice.
+
+161
+00:12:30,930 --> 00:12:35,219
+By supporting engineers to create robots that align with
+
+162
+00:12:35,219 --> 00:12:40,290
+people's needs and values, I helped create a future that we can all be excited about.
+
+163
+00:12:40,290 --> 00:12:40,911
+Thank you.
+
+164
+00:12:49,818 --> 00:12:52,923
+As you heard from Dean Adler, CU Boulder is home
+
+165
+00:12:52,923 --> 00:12:58,611
+to nearly 6,000 graduate students, spread over 130 different programs.
+
+166
+00:12:58,611 --> 00:13:02,116
+As our judges need time to evaluate the presenters,
+
+167
+00:13:02,116 --> 00:13:05,681
+I'll be asking these incredible students some questions about what
+
+168
+00:13:05,681 --> 00:13:08,245
+they do when they're not doing their research.
+
+169
+00:13:08,245 --> 00:13:12,893
+So Casey, I understand that you like to go camping and hiking.
+
+170
+00:13:12,893 --> 00:13:16,178
+Where are your go-to spots for camping and hiking?
+
+171
+00:13:16,178 --> 00:13:18,623
+Yeah, well my family is from the San Luis Valley and
+
+172
+00:13:18,623 --> 00:13:21,287
+so we love to go camp in southern Colorado and one of the
+
+173
+00:13:21,287 --> 00:13:23,711
+places we like to camp is at Valley View Hot Springs.
+
+174
+00:13:23,711 --> 00:13:27,077
+So we'll go camp on the side of the mountain and we take a dip in the springs.
+
+175
+00:13:27,077 --> 00:13:29,421
+It's super awesome, yeah.
+
+176
+00:13:29,421 --> 00:13:30,483
+That sounds fantastic.
+
+177
+00:13:30,483 --> 00:13:33,628
+Yes, hot spring sounds really good on a day like today.
+
+178
+00:13:34,587 --> 00:13:39,955
+Like many people in this room, our graduate students are under a lot of stress.
+
+179
+00:13:39,955 --> 00:13:44,922
+And food and the idea of food can be very comforting.
+
+180
+00:13:44,922 --> 00:13:49,789
+Now Casey, I understand that one of your go-to foods is a tomato sandwich.
+
+181
+00:13:49,789 --> 00:13:53,875
+So can you give us your recipe for that perfect tomato sandwich?
+
+182
+00:13:53,875 --> 00:13:55,918
+Yeah, it's like the perfect late night snack.
+
+183
+00:13:55,918 --> 00:13:58,202
+It's toast with a little bit of mayonnaise.
+
+184
+00:13:58,202 --> 00:14:00,946
+You put some really good sliced tomato and then salt
+
+185
+00:14:00,946 --> 00:14:03,469
+and pepper and then obviously the second piece of bread.
+
+186
+00:14:03,469 --> 00:14:03,970
+It's so good.
+
+187
+00:14:05,182 --> 00:14:07,605
+You're going to hear a lot about food today.
+
+188
+00:14:07,605 --> 00:14:10,709
+There is a reception after all the presentations, so we're
+
+189
+00:14:10,709 --> 00:14:13,111
+not just tempting you and then saying, no food.
+
+190
+00:14:13,111 --> 00:14:14,153
+You will get food.
+
+191
+00:14:14,153 --> 00:14:18,478
+Unfortunately, no tomato sandwiches, but they'll be good stuff.
+
+192
+00:14:18,478 --> 00:14:22,843
+Now, some of us are very lucky to have inspiration to give focus and meaning to our work.
+
+193
+00:14:23,664 --> 00:14:26,545
+Would you please tell us about your great aunt?
+
+194
+00:14:26,545 --> 00:14:30,951
+Yeah, so when I first got interested in doing the PhD,
+
+195
+00:14:30,951 --> 00:14:34,236
+my grandma would not stop talking about my great Aunt Eva.
+
+196
+00:14:34,236 --> 00:14:37,400
+So Aunt Eva is the only person I share DNA with who
+
+197
+00:14:37,400 --> 00:14:45,671
+has gotten a PhD, and she helps teach English as a second language speakers in the San Luis Valley English.
+
+198
+00:14:45,671 --> 00:14:47,954
+So she developed new techniques for doing this, and
+
+199
+00:14:47,954 --> 00:14:50,117
+she was specifically focused on Spanish speakers because
+
+200
+00:14:50,117 --> 00:14:54,220
+there's a significant population of Spanish speakers in that area.
+
+201
+00:14:54,220 --> 00:14:55,462
+Great.
+
+202
+00:14:55,462 --> 00:14:56,624
+Thank you, Casey.
+
+203
+00:14:56,624 --> 00:14:57,445
+Thank you so much.
+
+204
+00:14:57,445 --> 00:15:10,544
+Thank you.
+
+205
+00:15:10,544 --> 00:15:16,093
+Our next presenter is Anna Turner, PhD candidate in media studies.
+
+206
+00:15:16,093 --> 00:15:20,920
+The title of their presentation is Building Bridges Through Popular Media.
+
+207
+00:15:26,620 --> 00:15:30,324
+How many of you have been to show on Netflix or any streaming service?
+
+208
+00:15:32,627 --> 00:15:38,153
+What if I told you that by watching television, you could actually be helping the United States?
+
+209
+00:15:39,655 --> 00:15:40,275
+I know, right?
+
+210
+00:15:40,275 --> 00:15:42,498
+I'm going to show you how.
+
+211
+00:15:42,498 --> 00:15:44,600
+But first, I'd like to tell you a story.
+
+212
+00:15:44,600 --> 00:15:47,944
+This is a story of two different people.
+
+213
+00:15:47,944 --> 00:15:51,342
+They actually have a lot in common, but they don't know it.
+
+214
+00:15:51,342 --> 00:15:58,199
+You would think that they should get along, but they have one big difference.
+
+215
+00:15:58,199 --> 00:16:01,487
+The first person is a member of team A, and the second
+
+216
+00:16:01,487 --> 00:16:05,557
+person is a member of the rival team, team B. So how do
+
+217
+00:16:05,557 --> 00:16:08,203
+we get the first person and the second person to get along?
+
+218
+00:16:09,702 --> 00:16:11,646
+This is where my research comes in.
+
+219
+00:16:11,646 --> 00:16:16,995
+Team A is actually the Democrats and Team B is the Republicans.
+
+220
+00:16:16,995 --> 00:16:19,139
+They have very different views on certain things and
+
+221
+00:16:19,139 --> 00:16:22,045
+they dislike each other because they're members of opposite teams.
+
+222
+00:16:23,227 --> 00:16:25,351
+This is a problem known as polarization.
+
+223
+00:16:25,351 --> 00:16:28,637
+One of the issues with polarization is that we're not
+
+224
+00:16:28,637 --> 00:16:32,703
+often exposed to other viewpoints or to people unlike ourselves.
+
+225
+00:16:32,703 --> 00:16:35,207
+The Republicans, for example, tend to be white living
+
+226
+00:16:35,207 --> 00:16:38,131
+in rural areas, whereas many Democrats are people of color
+
+227
+00:16:38,131 --> 00:16:42,378
+or members of the LGBTQ plus community living in urban areas.
+
+228
+00:16:42,378 --> 00:16:46,624
+And while there are exceptions to these generalizations, the fact
+
+229
+00:16:46,624 --> 00:16:51,251
+is that many of us on opposite sides of the political spectrum don't often interact.
+
+230
+00:16:52,633 --> 00:16:54,676
+The one place that we can interact with
+
+231
+00:16:54,676 --> 00:16:58,723
+people from different geographic locations, socioeconomic statuses, and
+
+232
+00:16:58,723 --> 00:17:01,647
+a number of other characteristics is through media.
+
+233
+00:17:03,567 --> 00:17:04,708
+but not news media.
+
+234
+00:17:05,770 --> 00:17:07,232
+The news polarizes us more.
+
+235
+00:17:08,213 --> 00:17:12,839
+But popular culture, like television, doesn't have the same baggage.
+
+236
+00:17:14,261 --> 00:17:16,704
+For my research design, I've run an experiment to
+
+237
+00:17:16,704 --> 00:17:20,830
+see whether exposure to people unlike ourselves can give us an experience that unites us.
+
+238
+00:17:21,871 --> 00:17:25,035
+Participants in my research watched a short clip of a
+
+239
+00:17:25,035 --> 00:17:31,478
+political drama on Netflix and then took a survey to measure their levels of polarization.
+
+240
+00:17:31,478 --> 00:17:34,422
+While the findings are not yet confirmed, I'm hoping
+
+241
+00:17:34,422 --> 00:17:38,126
+to show that diverse characters and dialogue can depolarize.
+
+242
+00:17:39,108 --> 00:17:42,372
+The key here is that networks and streaming services
+
+243
+00:17:42,372 --> 00:17:46,076
+must begin to consciously craft messages to allow for this exposure.
+
+244
+00:17:47,418 --> 00:17:51,463
+Similar to how media companies hire diversity officers,
+
+245
+00:17:51,463 --> 00:17:56,993
+they could also employ experts in political polarization and popular culture, like me,
+
+246
+00:17:56,993 --> 00:18:02,183
+to consult on diverse characters and dialogue that represent both sides of the aisle.
+
+247
+00:18:02,183 --> 00:18:06,552
+This is a slow and ongoing process, but if we can
+
+248
+00:18:06,552 --> 00:18:09,978
+get media companies on board, we could see bridges being built
+
+249
+00:18:09,978 --> 00:18:14,968
+through television and a more united Team A and Team B. Thank you.
+
+250
+00:18:21,547 --> 00:18:25,071
+So I understand that you're a runner.
+
+251
+00:18:25,071 --> 00:18:28,655
+What are some of your favorite trails or routes?
+
+252
+00:18:28,655 --> 00:18:35,283
+Oh, I am usually a treadmill runner because I am terrified of ice.
+
+253
+00:18:35,283 --> 00:18:36,805
+I'm terrified of ice and snow.
+
+254
+00:18:37,746 --> 00:18:42,432
+But the amazing thing about Boulder is all of the bike and running tasks.
+
+255
+00:18:42,432 --> 00:18:48,040
+So I can pick a different one every time I go in the summer when it's not snowing and slippery.
+
+256
+00:18:48,040 --> 00:18:50,324
+That was going to be my next question.
+
+257
+00:18:50,324 --> 00:18:52,487
+What temperature is your cutoff spot?
+
+258
+00:18:53,408 --> 00:18:59,778
+I'm from Florida, so probably like 60, 70 degrees really, like in the summer.
+
+259
+00:18:59,778 --> 00:19:00,419
+I'm with you.
+
+260
+00:19:00,419 --> 00:19:01,160
+I'm from Texas.
+
+261
+00:19:03,263 --> 00:19:06,789
+So we found out that Casey enjoys a good tomato sandwich.
+
+262
+00:19:06,789 --> 00:19:10,214
+I hear that you go with mac and cheese.
+
+263
+00:19:10,214 --> 00:19:12,800
+So any particular brand or recipe?
+
+264
+00:19:13,903 --> 00:19:17,552
+I really like Gouda in my mac and cheese but the best
+
+265
+00:19:17,552 --> 00:19:20,198
+thing about mac and cheese is that there are a million
+
+266
+00:19:20,198 --> 00:19:23,165
+different cheeses and you can make it different every time.
+
+267
+00:19:24,027 --> 00:19:28,017
+So that's why I like it so much and because cheese.
+
+268
+00:19:28,017 --> 00:19:31,120
+And we're going to hear more about cheese later too, so it's a thread.
+
+269
+00:19:32,321 --> 00:19:37,146
+So some people collect baseball cards, some people collect Disney characters.
+
+270
+00:19:37,146 --> 00:19:40,990
+I understand that you collect dogs.
+
+271
+00:19:40,990 --> 00:19:42,692
+Pugs, in particular.
+
+272
+00:19:42,692 --> 00:19:43,873
+Yeah, I collect pugs.
+
+273
+00:19:44,894 --> 00:19:48,597
+Not like figurines, like actual dog, pug dogs.
+
+274
+00:19:48,597 --> 00:19:51,560
+So I've had up to three at one time.
+
+275
+00:19:51,560 --> 00:19:54,123
+I fostered for the Florida Pug Rescue.
+
+276
+00:19:54,123 --> 00:20:01,892
+And I'm only down to one now, but he's 15 and he's still kicking and he is such a good boy.
+
+277
+00:20:01,892 --> 00:20:07,880
+So right now I'm only at one, but I have been known to have a grumble actually.
+
+278
+00:20:07,880 --> 00:20:12,305
+The collective noun for pugs is a grumble, so I used to have a grumble.
+
+279
+00:20:12,305 --> 00:20:16,710
+These things that you never would have known if you hadn't come today.
+
+280
+00:20:16,710 --> 00:20:20,093
+So what's the name of your pug?
+
+281
+00:20:20,093 --> 00:20:23,560
+So did you practice your 3MT presentation to her me?
+
+282
+00:20:23,560 --> 00:20:24,983
+Oh, he knows it like that.
+
+283
+00:20:27,048 --> 00:20:31,978
+So if we see a pug walking around talking about media, it's yours.
+
+284
+00:20:31,978 --> 00:20:33,087
+Yeah, mine.
+
+285
+00:20:33,087 --> 00:20:37,375
+So I understand you also like to binge watch.
+
+286
+00:20:38,196 --> 00:20:40,120
+What's the most recent binge?
+
+287
+00:20:40,120 --> 00:20:45,911
+I have been on this cop show kick, I guess, and firefighting kick.
+
+288
+00:20:45,911 --> 00:20:51,110
+So I'm watching Station 19 and The Rookie right now, both on Hulu.
+
+289
+00:20:51,110 --> 00:20:52,432
+Do you recommend them?
+
+290
+00:20:52,432 --> 00:20:56,059
+Yeah, I actually like both of them a lot, in fact.
+
+291
+00:20:56,059 --> 00:20:59,185
+SWOT is also actually a really good one, and it's one
+
+292
+00:20:59,185 --> 00:21:06,819
+I'd like to research later because they do a good job of showing both sides of opinions.
+
+293
+00:21:07,701 --> 00:21:08,222
+Very good.
+
+294
+00:21:08,222 --> 00:21:09,103
+Well, thank you so much, Anna.
+
+295
+00:21:09,103 --> 00:21:09,945
+Thank you, bud.
+
+296
+00:21:16,422 --> 00:21:19,728
+As you heard, unfortunately, one of our presenters today is
+
+297
+00:21:19,728 --> 00:21:24,696
+ill, so Heiko will not be presenting for us today.
+
+298
+00:21:24,696 --> 00:21:30,205
+But next, we do have Celeste Giles, PhD candidate in aerospace engineering.
+
+299
+00:21:30,205 --> 00:21:37,738
+The title of their presentation today is Bringing You Safely Home from Outer Space.
+
+300
+00:21:44,182 --> 00:21:48,992
+Imagine you're coming home after a luxurious sightseeing vacation on the moon.
+
+301
+00:21:48,992 --> 00:21:52,159
+As your spacecraft begins to enter Earth's atmosphere, you
+
+302
+00:21:52,159 --> 00:21:56,187
+start to hear strange noises, feel vibrations, and see pieces
+
+303
+00:21:56,187 --> 00:21:58,973
+of spacecraft fly by outside your tiny window.
+
+304
+00:21:58,973 --> 00:22:01,498
+Will you make it safely back to Earth?
+
+305
+00:22:02,457 --> 00:22:05,521
+My research is on entry vehicle heat shields, the
+
+306
+00:22:05,521 --> 00:22:09,726
+protective layer critical in ensuring your spacecraft survives that
+
+307
+00:22:09,726 --> 00:22:13,511
+high-speed entry as you get pulled by gravity back down to
+
+308
+00:22:13,511 --> 00:22:16,775
+Earth and that you stay nice and cool the entire time.
+
+309
+00:22:16,775 --> 00:22:21,000
+These heat shields have been used for over 70 years.
+
+310
+00:22:21,000 --> 00:22:24,023
+However, much is still not known about them.
+
+311
+00:22:24,023 --> 00:22:27,529
+As we continue to explore space and build heat shields,
+
+312
+00:22:27,529 --> 00:22:33,118
+it has been discovered that there are differences between the predictive models and actual flight data.
+
+313
+00:22:33,118 --> 00:22:34,781
+This is very concerning.
+
+314
+00:22:34,781 --> 00:22:37,666
+These heat shields need to reliably protect people from
+
+315
+00:22:37,666 --> 00:22:41,873
+the very hot plasma formed around the spacecraft as it
+
+316
+00:22:41,873 --> 00:22:45,980
+enters an atmosphere and make sure the spacecraft doesn't completely burn up.
+
+317
+00:22:47,262 --> 00:22:49,626
+So, how does my research come in?
+
+318
+00:22:50,500 --> 00:22:53,785
+I get to test heating up small pieces of heat shield
+
+319
+00:22:53,785 --> 00:23:00,355
+to 10 times the temperature of boiling water, see how they decompose, and what they decompose into.
+
+320
+00:23:01,697 --> 00:23:06,764
+Similar to wood, when it burns, these heat shields blacken and char when they're heated.
+
+321
+00:23:06,764 --> 00:23:11,631
+After testing many different heating scenarios, I measure
+
+322
+00:23:11,631 --> 00:23:17,348
+each sample's mass loss, density, and decomposition products.
+
+323
+00:23:17,348 --> 00:23:20,351
+My favorite part is I can even reconstruct the
+
+324
+00:23:20,351 --> 00:23:24,714
+actual chemical mechanisms involved in the decomposition of these heat shields.
+
+325
+00:23:25,976 --> 00:23:29,719
+After testing multiple different types of heat shields, I
+
+326
+00:23:29,719 --> 00:23:33,302
+discovered that the density of the heat shield matters a lot.
+
+327
+00:23:34,163 --> 00:23:38,707
+Similar to wood when it burns, these heat shields produce gases when they are heated.
+
+328
+00:23:38,707 --> 00:23:42,390
+If the heat shield is too dense, these gases build up
+
+329
+00:23:42,390 --> 00:23:46,255
+inside causing bubbles and cracks to form in the heat shield.
+
+330
+00:23:46,255 --> 00:23:48,778
+This is not good for an actual heat shield.
+
+331
+00:23:48,778 --> 00:23:52,643
+These bubbles and cracks can harm the structural integrity, cause
+
+332
+00:23:52,643 --> 00:23:57,910
+pieces to fly off, or cause the heat shield to completely fall apart.
+
+333
+00:23:57,910 --> 00:24:01,614
+Also, the very hot gases formed around the heat shield
+
+334
+00:24:01,614 --> 00:24:06,040
+can make its way through these cracks, closer to the spacecraft and people inside.
+
+335
+00:24:06,040 --> 00:24:08,952
+To improve,
+
+336
+00:24:08,952 --> 00:24:12,856
+Our understanding of the decomposition of these heat shields, I
+
+337
+00:24:12,856 --> 00:24:18,563
+share my data on the gas products and chemical mechanisms with the scientific community.
+
+338
+00:24:19,504 --> 00:24:23,468
+To improve the models involved with these heat shields, I
+
+339
+00:24:23,468 --> 00:24:26,972
+share my data with modelers who then improve their models,
+
+340
+00:24:26,972 --> 00:24:32,819
+making sure you can reliably and safely land after your moon vacation.
+
+341
+00:24:32,819 --> 00:24:36,082
+Or if you're super adventurous, help you visit Mars.
+
+342
+00:24:36,082 --> 00:24:36,563
+Thank you.
+
+343
+00:24:44,170 --> 00:24:48,419
+So we have to get this out of the way first, especially given the weather.
+
+344
+00:24:48,419 --> 00:24:51,144
+Please tell people where your hometown is.
+
+345
+00:24:51,144 --> 00:24:52,848
+I grew up in Honolulu, Hawaii.
+
+346
+00:24:53,730 --> 00:24:54,952
+I'm not used to the cold.
+
+347
+00:24:56,095 --> 00:24:57,918
+Can we all just be a teeny bit jealous?
+
+348
+00:24:57,918 --> 00:24:58,680
+OK.
+
+349
+00:24:58,680 --> 00:25:02,307
+What would be the temperature approximately in Honolulu right now?
+
+350
+00:25:02,307 --> 00:25:05,213
+Average is always nice 80.
+
+351
+00:25:05,213 --> 00:25:12,584
+I right now I can't even imagine 80 so I'm my gosh up like many of us
+
+352
+00:25:12,584 --> 00:25:15,989
+where we grow up affects the foods that we come to
+
+353
+00:25:15,989 --> 00:25:20,535
+love and I understand that your favorite is chicken katsu curry
+
+354
+00:25:20,535 --> 00:25:25,362
+and please tell us what's in chicken katsu curry chicken katsu
+
+355
+00:25:25,362 --> 00:25:33,239
+breaded deep-fried chicken, and the curry is a Japanese golden curry, very basic, but delicious.
+
+356
+00:25:33,239 --> 00:25:35,042
+And served with?
+
+357
+00:25:35,042 --> 00:25:36,385
+Some rice.
+
+358
+00:25:36,385 --> 00:25:37,247
+There we go.
+
+359
+00:25:37,247 --> 00:25:38,971
+Have to have the whole package there.
+
+360
+00:25:40,013 --> 00:25:42,057
+So we already talked about some collections.
+
+361
+00:25:42,057 --> 00:25:45,477
+Anna has Pugs, and you have a?
+
+362
+00:25:45,477 --> 00:25:47,140
+collections.
+
+363
+00:25:47,140 --> 00:25:48,602
+What kind of rocks do you collect?
+
+364
+00:25:48,602 --> 00:25:49,984
+Oh, all sorts.
+
+365
+00:25:49,984 --> 00:25:53,430
+It started with my great uncle who was a geologist for
+
+366
+00:25:53,430 --> 00:25:59,660
+the Bank of America and I inherited some of his collections and then added from there.
+
+367
+00:26:00,621 --> 00:26:02,063
+So do you have a favorite?
+
+368
+00:26:03,446 --> 00:26:06,651
+No, they're all precious.
+
+369
+00:26:06,651 --> 00:26:09,794
+Okay, do you have a favorite collection story?
+
+370
+00:26:09,794 --> 00:26:16,703
+Let's see, a good one is we used to collect agates from the West Coast beach.
+
+371
+00:26:16,703 --> 00:26:21,989
+They're like clear rocks you can look up in the sun and see through and they're very pretty.
+
+372
+00:26:22,790 --> 00:26:24,792
+Fabulous, love that.
+
+373
+00:26:24,792 --> 00:26:27,055
+I understand that you practice kendo.
+
+374
+00:26:27,055 --> 00:26:30,299
+Would you please tell folks who don't know what kendo is first?
+
+375
+00:26:30,299 --> 00:26:36,687
+Kendo is a Japanese stored martial art I started last semester here at CU actually.
+
+376
+00:26:36,687 --> 00:26:37,388
+Oh my goodness.
+
+377
+00:26:39,764 --> 00:26:43,032
+So beware, you know, out in the hallway.
+
+378
+00:26:43,032 --> 00:26:45,518
+So I understand you have two cats?
+
+379
+00:26:45,518 --> 00:26:46,039
+I do.
+
+380
+00:26:46,039 --> 00:26:49,066
+They've been helping me through grad school.
+
+381
+00:26:49,066 --> 00:26:51,291
+And have you practiced your presentation to them?
+
+382
+00:26:51,291 --> 00:26:51,873
+I have.
+
+383
+00:26:51,873 --> 00:26:54,419
+They just stare at me in disdain.
+
+384
+00:26:54,419 --> 00:26:57,486
+So does one like outer space more than the other one?
+
+385
+00:26:59,727 --> 00:27:04,618
+I believe my fluffy cat named Lily might like outer space more.
+
+386
+00:27:04,618 --> 00:27:07,244
+So we have Lily and... Noodle.
+
+387
+00:27:07,244 --> 00:27:08,046
+Noodle.
+
+388
+00:27:08,046 --> 00:27:10,231
+Are they siblings?
+
+389
+00:27:10,231 --> 00:27:13,438
+No, they're just rescue mama cats.
+
+390
+00:27:13,438 --> 00:27:15,042
+Fabulous, fabulous.
+
+391
+00:27:15,042 --> 00:27:16,565
+Thank you all very much.
+
+392
+00:27:16,565 --> 00:27:17,247
+Thank you.
+
+393
+00:27:23,808 --> 00:27:29,694
+Next up, we have Casey Middleton, PhD candidate in computer science.
+
+394
+00:27:29,694 --> 00:27:33,398
+The title of their presentation is Testing.
+
+395
+00:27:33,398 --> 00:27:34,639
+Testing.
+
+396
+00:27:34,639 --> 00:27:36,141
+One, two, three.
+
+397
+00:27:36,141 --> 00:27:43,608
+It's two days before grandma's birthday and you haven't seen her in ages.
+
+398
+00:27:43,608 --> 00:27:45,991
+But you're starting to feel a little sniffle coming on
+
+399
+00:27:45,991 --> 00:27:47,953
+and you really don't want to get grandma sick.
+
+400
+00:27:48,894 --> 00:27:52,580
+Luckily, you have a few COVID-19 rapid tests in your cabinet.
+
+401
+00:27:52,580 --> 00:27:53,581
+When should you use them?
+
+402
+00:27:54,682 --> 00:27:57,105
+Maybe you take one now so you can tell grandma your plans.
+
+403
+00:27:58,207 --> 00:27:59,268
+But what if it's negative?
+
+404
+00:28:00,109 --> 00:28:00,930
+Do you take another one?
+
+405
+00:28:01,951 --> 00:28:02,251
+When?
+
+406
+00:28:03,473 --> 00:28:07,898
+We know that even if you do have COVID-19, a test isn't guaranteed to detect you.
+
+407
+00:28:07,898 --> 00:28:11,963
+Rapid tests require us to have lots of virus in our system.
+
+408
+00:28:11,963 --> 00:28:15,167
+Too little virus and you'll test negative even if you really are sick.
+
+409
+00:28:16,148 --> 00:28:20,879
+And in fact, the amount of virus you have changes throughout your course of infection.
+
+410
+00:28:20,879 --> 00:28:22,802
+A typical infection might look something like this.
+
+411
+00:28:24,846 --> 00:28:27,630
+At that first inhale of virus, only a few virus particles
+
+412
+00:28:27,630 --> 00:28:32,598
+take root in the lungs, but that number grows super quickly as the virus replicates in the first few days.
+
+413
+00:28:33,760 --> 00:28:37,046
+Eventually, your immune system kicks in and starts to reduce the amount of virus.
+
+414
+00:28:38,248 --> 00:28:40,391
+If we knew when your symptoms started during this course
+
+415
+00:28:40,391 --> 00:28:44,177
+of infection, maybe we could tell you if you have enough virus to test positive.
+
+416
+00:28:45,259 --> 00:28:47,997
+This is the idea that sparked my research question.
+
+417
+00:28:47,997 --> 00:28:50,460
+can we predict the effectiveness of different testing
+
+418
+00:28:50,460 --> 00:28:54,947
+recommendations, considering what we know about how the virus behaves during an infection?
+
+419
+00:28:56,168 --> 00:28:59,793
+But we know that not everyone's infection looks exactly the same.
+
+420
+00:28:59,793 --> 00:29:02,737
+So first, I needed data from lots of infections.
+
+421
+00:29:03,578 --> 00:29:06,763
+To get this data, I dove into the literature, collecting
+
+422
+00:29:06,763 --> 00:29:10,949
+data from as many studies as I could find, focusing on three key ingredients.
+
+423
+00:29:12,090 --> 00:29:16,297
+One, how much virus do people typically have throughout their infection?
+
+424
+00:29:16,297 --> 00:29:18,659
+Two, when do their symptoms typically start?
+
+425
+00:29:19,580 --> 00:29:22,543
+And three, how much virus does our tests need to detect you?
+
+426
+00:29:23,784 --> 00:29:25,826
+Now I had a ton of data, but I still needed
+
+427
+00:29:25,826 --> 00:29:28,149
+some way to synthesize that data to answer my question.
+
+428
+00:29:28,969 --> 00:29:31,372
+To do this, I created a rigorous mathematical
+
+429
+00:29:31,372 --> 00:29:36,216
+framework combining probability theory and calculus to help us predict testing effectiveness.
+
+430
+00:29:37,197 --> 00:29:40,501
+Now, I find multivariable calculus really exciting.
+
+431
+00:29:40,501 --> 00:29:43,704
+But sadly, we don't have time for a whiteboarding session today.
+
+432
+00:29:44,605 --> 00:29:46,756
+But I can tell you what I found.
+
+433
+00:29:46,756 --> 00:29:49,479
+For any virus, it's typically best to test right before
+
+434
+00:29:49,479 --> 00:29:54,283
+you visit grandma, because a negative test today doesn't guarantee that you won't infect her tomorrow.
+
+435
+00:29:55,224 --> 00:29:57,646
+And I also found a surprising result for COVID-19.
+
+436
+00:29:58,507 --> 00:30:00,989
+If you only have a few rapid tests in your cabinet,
+
+437
+00:30:00,989 --> 00:30:03,732
+you should wait two days after your symptoms start to use them.
+
+438
+00:30:04,713 --> 00:30:08,296
+This is because our immune systems are primed and ready for COVID-19.
+
+439
+00:30:08,296 --> 00:30:11,379
+So symptoms start early, even when you haven't built up much virus yet.
+
+440
+00:30:12,380 --> 00:30:14,752
+And our lessons don't stop at COVID.
+
+441
+00:30:14,752 --> 00:30:16,655
+The beauty of the math is that it can help us
+
+442
+00:30:16,655 --> 00:30:20,502
+make better testing choices for other viruses, too, from flu
+
+443
+00:30:20,502 --> 00:30:24,029
+to RSV to even new viruses we haven't discovered yet.
+
+444
+00:30:24,029 --> 00:30:28,397
+The math I developed can help us make better testing choices for any virus.
+
+445
+00:30:28,397 --> 00:30:29,919
+And I like to think this helps us do a
+
+446
+00:30:29,919 --> 00:30:34,528
+better job protecting grandmas and three-minute thesis participants everywhere.
+
+447
+00:30:34,528 --> 00:30:39,156
+Thank you.
+
+448
+00:30:40,520 --> 00:30:42,081
+Thank you, Casey.
+
+449
+00:30:42,922 --> 00:30:49,729
+So I understand that your path to becoming a computer scientist has been anything but linear.
+
+450
+00:30:49,729 --> 00:30:50,369
+Indeed.
+
+451
+00:30:50,369 --> 00:30:54,893
+Would you share with us some of the jobs that you've had before you arrived in Boulder?
+
+452
+00:30:54,893 --> 00:30:55,694
+Yes.
+
+453
+00:30:55,694 --> 00:30:58,537
+I was a certified pharmacy technician.
+
+454
+00:30:58,537 --> 00:31:01,119
+I have been a Zumba instructor.
+
+455
+00:31:01,119 --> 00:31:06,704
+I've been a data scientist for a housing policy nonprofit,
+
+456
+00:31:06,704 --> 00:31:10,135
+and I've also been a high school geometry teacher.
+
+457
+00:31:10,135 --> 00:31:12,117
+Yeah.
+
+458
+00:31:12,117 --> 00:31:14,199
+So how long were you a high school teacher?
+
+459
+00:31:14,199 --> 00:31:15,780
+I was a high school teacher for one year.
+
+460
+00:31:15,780 --> 00:31:17,182
+It was the hardest job I've ever had.
+
+461
+00:31:18,223 --> 00:31:20,385
+I think we can all agree on that.
+
+462
+00:31:20,385 --> 00:31:21,806
+Yeah, mad respect.
+
+463
+00:31:21,806 --> 00:31:25,590
+So do you have a story take away from that experience?
+
+464
+00:31:25,590 --> 00:31:29,894
+I guess from being a high school teacher, it taught me a lot about empathy
+
+465
+00:31:29,894 --> 00:31:32,457
+and how you never know what people are going through
+
+466
+00:31:32,457 --> 00:31:35,940
+because I was trying to teach my kids geometry and they had
+
+467
+00:31:35,940 --> 00:31:39,143
+so many problems that were not just my geometry homework.
+
+468
+00:31:39,143 --> 00:31:41,547
+You had nothing to do with your geometry.
+
+469
+00:31:41,547 --> 00:31:43,110
+Yeah, they actually really didn't care.
+
+470
+00:31:44,933 --> 00:31:45,594
+There's that.
+
+471
+00:31:47,017 --> 00:31:54,770
+So you also have a very eclectic palette of sports that you participate in.
+
+472
+00:31:54,770 --> 00:31:55,932
+It's boulder.
+
+473
+00:31:55,932 --> 00:31:56,753
+It is boulder.
+
+474
+00:31:56,753 --> 00:31:58,857
+But even for boulder, this is pretty good.
+
+475
+00:31:58,857 --> 00:32:02,944
+Rock climbing, trail running, downhill, and backcountry skiing.
+
+476
+00:32:02,944 --> 00:32:03,565
+Got to do both.
+
+477
+00:32:05,333 --> 00:32:08,338
+So, do you have any favorite trails or?
+
+478
+00:32:08,338 --> 00:32:12,265
+Oh yeah, I will say that for hiking I really love
+
+479
+00:32:12,265 --> 00:32:15,250
+Royal Arch and it's so incredible that that's just right in our backyard.
+
+480
+00:32:16,051 --> 00:32:18,976
+But this summer I was training for a trail marathon and
+
+481
+00:32:18,976 --> 00:32:22,602
+I went to Golden Gate State Canyon when the leaves were just
+
+482
+00:32:22,602 --> 00:32:27,530
+at peak changing and it was so beautiful and that was really fun and hard.
+
+483
+00:32:27,530 --> 00:32:29,313
+And hard, yes.
+
+484
+00:32:29,313 --> 00:32:32,829
+So we've heard about tomato sandwiches, mac and cheese.
+
+485
+00:32:32,829 --> 00:32:36,653
+I don't remember what I put for this question, bud.
+
+486
+00:32:36,653 --> 00:32:38,135
+Oh, that sounds right, okay.
+
+487
+00:32:39,877 --> 00:32:43,261
+I have to remind her of her favorite food.
+
+488
+00:32:43,261 --> 00:32:44,762
+What is her favorite food?
+
+489
+00:32:44,762 --> 00:32:47,386
+Well, according to your paper, Bud, it is
+
+490
+00:32:47,386 --> 00:32:50,990
+homemade buttermilk biscuits with strawberry jelly because I'm from
+
+491
+00:32:50,990 --> 00:32:54,073
+Tennessee and that has to be my answer legally.
+
+492
+00:32:54,073 --> 00:32:59,139
+Yeah, and if your stomach is not growling by now, I don't know what is in store.
+
+493
+00:32:59,139 --> 00:33:01,182
+But like I said, we will have food later.
+
+494
+00:33:01,182 --> 00:33:01,782
+Thank you.
+
+495
+00:33:01,782 --> 00:33:04,045
+Thank you, Bud.
+
+496
+00:33:11,855 --> 00:33:17,423
+Next up, we have Nandi Pointer, PhD candidate in media studies.
+
+497
+00:33:17,423 --> 00:33:21,289
+The title of their presentation is Exit to Entry,
+
+498
+00:33:21,289 --> 00:33:26,016
+Black Expatriates Teaching English as a Fugitive Liberatory Practice.
+
+499
+00:33:35,090 --> 00:33:38,856
+Quote, when I'm in America, I'm black.
+
+500
+00:33:38,856 --> 00:33:41,656
+When I'm abroad, I'm American.
+
+501
+00:33:41,656 --> 00:33:48,488
+This comment by Troy Benson, a black English teacher from Wisconsin who lives
+
+502
+00:33:48,488 --> 00:33:52,996
+and works in Iraq, affected me deeply because it cuts at
+
+503
+00:33:52,996 --> 00:33:57,865
+the heart of a long history of black death and suffering in the U.S.
+
+504
+00:33:57,865 --> 00:34:01,214
+that dates back to the transatlantic slave trade.
+
+505
+00:34:01,214 --> 00:34:04,999
+From lynching photographs to cell phone videos of murder, this
+
+506
+00:34:04,999 --> 00:34:08,224
+history can be traced in the visual field, which has
+
+507
+00:34:08,224 --> 00:34:12,269
+made the state violence that black people experience hyper visible.
+
+508
+00:34:13,411 --> 00:34:17,396
+Reflecting on this history, Troy further told me, quote, I wish
+
+509
+00:34:17,396 --> 00:34:20,661
+there was a country I could go to where I could be invisible.
+
+510
+00:34:21,462 --> 00:34:25,247
+In America, we don't have that option, end quote.
+
+511
+00:34:26,088 --> 00:34:30,877
+My dissertation, Exit to Entry, investigates the largely
+
+512
+00:34:30,877 --> 00:34:35,246
+unstudied phenomenon of black men who leave the U.S.
+
+513
+00:34:35,246 --> 00:34:41,933
+to work as English as a second language or ESL instructors in Asia and the Middle East.
+
+514
+00:34:41,933 --> 00:34:47,863
+Focusing specifically on black expats in Iraq, Vietnam, and the Republic of Korea,
+
+515
+00:34:48,684 --> 00:34:52,490
+I seek to understand how and why these men have taken
+
+516
+00:34:52,490 --> 00:34:56,717
+the path of teaching abroad as a fugitive practice of liberation.
+
+517
+00:34:57,979 --> 00:35:00,843
+Drawing on my own personal experience as an ESL
+
+518
+00:35:00,843 --> 00:35:06,571
+instructor, my dissertation is based on interviews with 20 black male expats.
+
+519
+00:35:06,571 --> 00:35:12,857
+Multimodal and innovative in nature, it incorporates writing and documentary filmmaking
+
+520
+00:35:12,857 --> 00:35:19,103
+as a method to tackle questions about race and identity, moving beyond the persisting
+
+521
+00:35:19,103 --> 00:35:24,128
+and indeed harmful categories of classification, separation,
+
+522
+00:35:24,128 --> 00:35:28,131
+and representation that have violently marked the black body in the US.
+
+523
+00:35:29,553 --> 00:35:32,856
+Three primary questions motivate my dissertation project.
+
+524
+00:35:33,737 --> 00:35:34,803
+One.
+
+525
+00:35:34,803 --> 00:35:39,330
+How do black male expats re-articulate their identity, sense
+
+526
+00:35:39,330 --> 00:35:43,797
+of place and agency when located in context free of
+
+527
+00:35:43,797 --> 00:35:47,583
+the violent ruptures of anti-blackness found in the US?
+
+528
+00:35:48,505 --> 00:35:54,214
+Two, how does the context of education as an important historical vehicle
+
+529
+00:35:54,214 --> 00:35:57,379
+for the movement and liberation of the black mind
+
+530
+00:35:57,379 --> 00:36:01,786
+and body animate black teaching practices overseas?
+
+531
+00:36:01,786 --> 00:36:06,772
+And three, how do these expats navigate or potentially
+
+532
+00:36:06,772 --> 00:36:13,480
+experience other structures of racism when located in context shaped by US wars and empire?
+
+533
+00:36:14,521 --> 00:36:17,905
+In conclusion, I seek to better understand how these
+
+534
+00:36:17,905 --> 00:36:22,611
+ESL teachers open up new horizons for thinking about black
+
+535
+00:36:22,611 --> 00:36:26,525
+male identity and racial justice in the US today.
+
+536
+00:36:26,525 --> 00:36:29,769
+embracing life abroad as a way to free the black body
+
+537
+00:36:29,769 --> 00:36:35,376
+from what they perceive to be its limited expression and proximity to violence in the U.S.
+
+538
+00:36:35,376 --> 00:36:35,817
+Thank you.
+
+539
+00:36:43,066 --> 00:36:47,151
+So, Nandi, as you mentioned in your presentation, she was
+
+540
+00:36:47,151 --> 00:36:50,515
+a ESL, English as a Second Language instructor.
+
+541
+00:36:50,515 --> 00:36:52,457
+Where did you do this?
+
+542
+00:36:52,457 --> 00:36:56,528
+I taught English in the Republic of Korea, Vietnam, and Saudi Arabia.
+
+543
+00:36:56,528 --> 00:36:58,493
+And how did that come to be?
+
+544
+00:36:58,493 --> 00:37:01,461
+Well, I was actually inspired by my brother who was on one of the slides.
+
+545
+00:37:01,461 --> 00:37:04,289
+He taught in Japan and then in Korea.
+
+546
+00:37:04,289 --> 00:37:06,976
+And after working at MTV in New York, he was like,
+
+547
+00:37:06,976 --> 00:37:09,162
+what do you think about living overseas for a year?
+
+548
+00:37:09,162 --> 00:37:10,349
+And I was like,
+
+549
+00:37:10,349 --> 00:37:11,611
+where am I gonna get my hair done?
+
+550
+00:37:13,133 --> 00:37:14,094
+How am I gonna do that?
+
+551
+00:37:14,094 --> 00:37:17,118
+But yeah, life changing experience.
+
+552
+00:37:17,118 --> 00:37:19,862
+And so do you have a takeaway story from that experience?
+
+553
+00:37:19,862 --> 00:37:20,963
+From Korea?
+
+554
+00:37:20,963 --> 00:37:22,726
+Or Vietnam?
+
+555
+00:37:22,726 --> 00:37:25,469
+I have a funny one from Vietnam which is actually be
+
+556
+00:37:25,469 --> 00:37:29,515
+careful because I was staying in this little apartment and I went out on the balcony.
+
+557
+00:37:29,515 --> 00:37:32,198
+I had a little bitty balcony out in front of my little
+
+558
+00:37:32,198 --> 00:37:38,918
+place and I went all of a sudden like I closed the doors and I heard the little lock like go down.
+
+559
+00:37:38,918 --> 00:37:42,183
+And I guess the cleaning lady had locked it.
+
+560
+00:37:42,183 --> 00:37:43,825
+I always just kept it locked.
+
+561
+00:37:43,825 --> 00:37:46,188
+So me and my brother are out on the balcony.
+
+562
+00:37:46,188 --> 00:37:48,111
+And I'm like, three stories up.
+
+563
+00:37:48,111 --> 00:37:50,494
+How am I going to get back inside?
+
+564
+00:37:50,494 --> 00:37:51,676
+And he's starting to get tense.
+
+565
+00:37:51,676 --> 00:37:53,178
+And I'm like, I don't know.
+
+566
+00:37:53,178 --> 00:37:55,001
+I don't know what to yell out in Vietnamese.
+
+567
+00:37:55,001 --> 00:37:57,604
+It's like, help, or you know.
+
+568
+00:37:57,604 --> 00:37:59,607
+Luckily, I was able to get down and slap.
+
+569
+00:37:59,607 --> 00:38:02,636
+up and, you know, get back inside.
+
+570
+00:38:02,636 --> 00:38:05,064
+Yeah, clearly y'all got back inside.
+
+571
+00:38:05,064 --> 00:38:06,167
+Yeah, we got back inside.
+
+572
+00:38:06,167 --> 00:38:07,933
+It would have been a sadder story though.
+
+573
+00:38:07,933 --> 00:38:08,695
+Oh, that wouldn't help.
+
+574
+00:38:08,695 --> 00:38:09,614
+Not good.
+
+575
+00:38:09,614 --> 00:38:12,078
+So I understand you have a dog, Ginger.
+
+576
+00:38:12,078 --> 00:38:13,219
+Yes, Ginger.
+
+577
+00:38:13,219 --> 00:38:16,304
+So did you practice your 3MT presentation to Ginger?
+
+578
+00:38:16,304 --> 00:38:16,865
+I did.
+
+579
+00:38:16,865 --> 00:38:19,609
+Actually, last night, when I was trying to do it, I guess
+
+580
+00:38:19,609 --> 00:38:24,276
+her water bowl was a little low, and she gave me this aggressive bark.
+
+581
+00:38:24,276 --> 00:38:25,197
+And I was like, what?
+
+582
+00:38:25,197 --> 00:38:27,741
+You don't like my presentation?
+
+583
+00:38:27,741 --> 00:38:28,662
+She wanted some water.
+
+584
+00:38:28,662 --> 00:38:30,485
+It was OK.
+
+585
+00:38:30,485 --> 00:38:31,066
+We never know.
+
+586
+00:38:31,066 --> 00:38:32,528
+We never know.
+
+587
+00:38:32,528 --> 00:38:35,071
+So I understand you also play a musical instrument.
+
+588
+00:38:35,071 --> 00:38:36,453
+Yes, I play the flute.
+
+589
+00:38:36,453 --> 00:38:37,880
+And when did that start?
+
+590
+00:38:37,880 --> 00:38:40,806
+That started in the fifth grade when I was living in Decorah, Iowa.
+
+591
+00:38:40,806 --> 00:38:45,877
+We could take like little 30 minute lessons and part of our school day, like pretty amazing.
+
+592
+00:38:45,877 --> 00:38:47,500
+So yeah, that's when I first started playing.
+
+593
+00:38:47,500 --> 00:38:48,422
+Do you still play?
+
+594
+00:38:48,422 --> 00:38:49,104
+Yes, I do.
+
+595
+00:38:49,104 --> 00:38:50,266
+Oh, how exciting.
+
+596
+00:38:50,266 --> 00:38:54,755
+I just performed at the Cause Black History Month event with my brother and we played.
+
+597
+00:38:54,755 --> 00:38:55,437
+Fantastic.
+
+598
+00:38:55,437 --> 00:38:55,998
+Oh my gosh.
+
+599
+00:38:55,998 --> 00:38:56,459
+Yeah.
+
+600
+00:38:56,459 --> 00:39:02,636
+So many of the candidates wrote a fun fact about their
+
+601
+00:39:02,636 --> 00:39:10,432
+life and I have to admit my inner fangirl kind of went into hyperdrive when I read that you are the niece of
+
+602
+00:39:10,432 --> 00:39:11,393
+The Pointer Sisters.
+
+603
+00:39:12,755 --> 00:39:17,903
+And so, for anybody who maybe grew up under a rock, who were the Pointer Sisters?
+
+604
+00:39:17,903 --> 00:39:22,150
+Well, there's a legendary group during the 70s and 80s.
+
+605
+00:39:22,150 --> 00:39:25,795
+They actually won one of the first country Grammys for a
+
+606
+00:39:25,795 --> 00:39:29,761
+fairy tale written by my aunt Anita, May She Rest In Peace.
+
+607
+00:39:29,761 --> 00:39:32,024
+And so, yeah, it was pretty fun having them as
+
+608
+00:39:32,024 --> 00:39:35,670
+these pioneering black women with these amazing voices growing up.
+
+609
+00:39:35,670 --> 00:39:36,892
+Amazing voices.
+
+610
+00:39:36,892 --> 00:39:37,853
+Yeah, the harmonies.
+
+611
+00:39:37,853 --> 00:39:40,638
+Yeah, and I had to, of course, do a little research of
+
+612
+00:39:40,638 --> 00:39:43,323
+my own, not only winning the Grammy in the country category,
+
+613
+00:39:43,323 --> 00:39:48,132
+but they were the first female group to perform in the Grand Ole Opry.
+
+614
+00:39:48,132 --> 00:39:51,318
+So trailblazers, as well as being brilliant musicians.
+
+615
+00:39:51,318 --> 00:39:53,743
+Yes, very proud.
+
+616
+00:39:53,743 --> 00:39:54,464
+Thank you.
+
+617
+00:39:54,464 --> 00:39:57,550
+Thank you so much.
+
+618
+00:40:03,200 --> 00:40:09,690
+Next up, we have Marwa Yakuchi, PhD candidate in aerospace engineering.
+
+619
+00:40:09,690 --> 00:40:15,158
+The title of their presentation is Unveiling the Hidden Stories of Materials.
+
+620
+00:40:20,245 --> 00:40:25,728
+What does training an Olympic athlete have in common with sending materials to space?
+
+621
+00:40:25,728 --> 00:40:30,012
+Picture this, you are training an Olympic athlete for the competition of their life.
+
+622
+00:40:30,012 --> 00:40:35,396
+You analyze everything, the athlete's weaknesses and strengths to ensure a peak performance.
+
+623
+00:40:36,457 --> 00:40:39,440
+Imagine if you can foresee the challenges this athlete would
+
+624
+00:40:39,440 --> 00:40:42,663
+face before they even step onto the field.
+
+625
+00:40:42,663 --> 00:40:47,307
+You'd know how their body would react to each hill, rough terrain, and blazing sun.
+
+626
+00:40:48,868 --> 00:40:54,415
+Now, think about applying that kind of foresight to the materials that build our world.
+
+627
+00:40:54,415 --> 00:40:59,061
+Like athletes, materials have their own challenges, especially
+
+628
+00:40:59,061 --> 00:41:03,166
+in the space environment, from extreme temperatures to radiation.
+
+629
+00:41:04,108 --> 00:41:05,830
+What if I told you that we could predict
+
+630
+00:41:05,830 --> 00:41:11,097
+how materials respond under those extreme conditions before they are even created?
+
+631
+00:41:12,098 --> 00:41:14,040
+That is exactly what I'm working on.
+
+632
+00:41:14,040 --> 00:41:22,175
+My research asks, how can we use AI to design materials capable of thriving in space?
+
+633
+00:41:22,175 --> 00:41:24,938
+Think of it as mapping the story of the material
+
+634
+00:41:24,938 --> 00:41:31,505
+before it's created, ensuring every challenge it faces is accounted for before it ever leaves the lab.
+
+635
+00:41:32,866 --> 00:41:36,250
+Spacecraft heat shields, for example, inter-temperatures nearly have
+
+636
+00:41:36,250 --> 00:41:39,874
+as hot as this one, protecting astronauts and equipment.
+
+637
+00:41:39,874 --> 00:41:43,197
+While we have heat-resistant materials, we need ones that
+
+638
+00:41:43,197 --> 00:41:45,720
+are lighter, reusable, and faster to produce.
+
+639
+00:41:46,540 --> 00:41:50,004
+The challenge is finding the right material combination.
+
+640
+00:41:50,004 --> 00:41:51,301
+So to do this,
+
+641
+00:41:51,301 --> 00:41:54,787
+I've developed computational models, mathematical tools that
+
+642
+00:41:54,787 --> 00:41:56,870
+combine physics with artificial intelligence.
+
+643
+00:41:57,852 --> 00:42:02,900
+First, I gather data on material properties like strength and heat resistance.
+
+644
+00:42:02,900 --> 00:42:06,566
+Then I use AI to uncover patterns within that data.
+
+645
+00:42:07,367 --> 00:42:10,933
+So instead of spending months physically testing thousands
+
+646
+00:42:10,933 --> 00:42:17,123
+of material combinations, AI helps us identify the most promising candidates in minutes.
+
+647
+00:42:18,031 --> 00:42:19,514
+But here is the twist.
+
+648
+00:42:19,514 --> 00:42:21,958
+AI doesn't replace physical testing.
+
+649
+00:42:22,800 --> 00:42:26,326
+It guides us to smarter choices faster.
+
+650
+00:42:26,326 --> 00:42:32,662
+We take AI's predictions to the lab, refining materials to meet the required standards.
+
+651
+00:42:32,662 --> 00:42:37,870
+What once took months of trial and error can now begin with AI-powered guidance.
+
+652
+00:42:39,272 --> 00:42:41,595
+One of the most surprising things I've found throughout
+
+653
+00:42:41,595 --> 00:42:46,222
+this journey is that, like people, materials have hidden stories.
+
+654
+00:42:46,222 --> 00:42:49,948
+They respond differently under pressure sometimes and in unexpected ways.
+
+655
+00:42:49,948 --> 00:42:53,152
+And machine learning helps me uncover these stories, teach us
+
+656
+00:42:53,152 --> 00:42:57,417
+lessons that could one day lead to breakthroughs in material design.
+
+657
+00:42:57,417 --> 00:43:02,106
+So next time you watch an Olympic athlete deliver a flawless performance, remember,
+
+658
+00:43:02,106 --> 00:43:06,133
+behind that success is careful preparation and foresight, just
+
+659
+00:43:06,133 --> 00:43:12,004
+like the work we do to ensure materials not just survive in space, but thrive.
+
+660
+00:43:12,004 --> 00:43:12,365
+Thank you.
+
+661
+00:43:18,917 --> 00:43:19,879
+Thank you, Marwa.
+
+662
+00:43:19,879 --> 00:43:20,620
+Thank you.
+
+663
+00:43:20,620 --> 00:43:23,563
+To give yourself a break from your rigorous graduate
+
+664
+00:43:23,563 --> 00:43:28,408
+studies, I understand that you enjoy reading of horror novels.
+
+665
+00:43:28,408 --> 00:43:29,789
+Yes, I do.
+
+666
+00:43:29,789 --> 00:43:32,993
+So any titles or authors that you recommend?
+
+667
+00:43:32,993 --> 00:43:35,355
+Oh, that's a tough question.
+
+668
+00:43:35,355 --> 00:43:40,501
+It definitely should be a Stephen King book.
+
+669
+00:43:40,501 --> 00:43:42,423
+I recommend The Pet Sematary.
+
+670
+00:43:42,423 --> 00:43:44,445
+I like that one.
+
+671
+00:43:44,445 --> 00:43:47,047
+I assume you've read this multiple times, it sounds like.
+
+672
+00:43:47,047 --> 00:43:47,708
+Yeah, I love it.
+
+673
+00:43:48,953 --> 00:43:54,800
+So I understand you like reading horror novels but not watching horror movies.
+
+674
+00:43:54,800 --> 00:43:55,180
+Exactly.
+
+675
+00:43:56,062 --> 00:43:58,404
+There is a movie for the bit symmetry act.
+
+676
+00:43:58,404 --> 00:43:59,846
+I've never watched it.
+
+677
+00:43:59,846 --> 00:44:00,887
+I don't know.
+
+678
+00:44:00,887 --> 00:44:02,049
+I can't handle that.
+
+679
+00:44:02,049 --> 00:44:06,614
+Just the jump scares and everything in a horror movie.
+
+680
+00:44:06,614 --> 00:44:07,055
+No.
+
+681
+00:44:07,055 --> 00:44:08,176
+That's enough for me.
+
+682
+00:44:08,176 --> 00:44:10,339
+Your own imagination is enough.
+
+683
+00:44:10,339 --> 00:44:12,321
+That's more manageable.
+
+684
+00:44:12,321 --> 00:44:13,102
+Right.
+
+685
+00:44:13,102 --> 00:44:14,644
+We have control over that.
+
+686
+00:44:14,644 --> 00:44:17,748
+Now, I know people in aerospace engineering have a lot
+
+687
+00:44:17,748 --> 00:44:22,473
+of different interests, but I think the fact that you're a painter makes you unique in my book.
+
+688
+00:44:22,473 --> 00:44:23,534
+What do you enjoy painting?
+
+689
+00:44:23,534 --> 00:44:26,438
+Oh, like there are two types.
+
+690
+00:44:26,438 --> 00:44:32,165
+I like basically drawing portraits and also natural sceneries.
+
+691
+00:44:33,186 --> 00:44:37,030
+Yeah, I mean, I just like, all the time looking for sunset pictures.
+
+692
+00:44:37,030 --> 00:44:38,973
+I just like throwing that, yeah.
+
+693
+00:44:38,973 --> 00:44:43,080
+I feel like that's kind of my way to get away from research.
+
+694
+00:44:44,142 --> 00:44:47,247
+So that's very like soothing and calming.
+
+695
+00:44:47,247 --> 00:44:50,652
+I think your coping skills are... I'm going to take notes.
+
+696
+00:44:51,454 --> 00:44:57,263
+As a native of Morocco, you note that one of your favorite Moroccan dishes is chicken pastilla.
+
+697
+00:44:57,263 --> 00:45:00,470
+Could you please explain what that is?
+
+698
+00:45:00,470 --> 00:45:05,935
+So it is made of chicken with some Moroccan spices.
+
+699
+00:45:05,935 --> 00:45:13,101
+It has cinnamon and with the crispy phyllo dough.
+
+700
+00:45:13,101 --> 00:45:15,784
+It is like a mixture of sweet and salty.
+
+701
+00:45:15,784 --> 00:45:18,586
+I don't know if anyone here has ever visited Morocco.
+
+702
+00:45:18,586 --> 00:45:20,868
+Oh, there are a few people.
+
+703
+00:45:20,868 --> 00:45:22,190
+OK, that's amazing.
+
+704
+00:45:22,190 --> 00:45:28,115
+If you ever have the chance to go to Morocco, I really recommend trying Moroccan pastillas.
+
+705
+00:45:28,115 --> 00:45:28,695
+They're delicious.
+
+706
+00:45:28,695 --> 00:45:30,117
+Do you make chicken pastillas?
+
+707
+00:45:30,117 --> 00:45:30,457
+No.
+
+708
+00:45:30,457 --> 00:45:37,590
+So we don't ordinarily do product placements, but have
+
+709
+00:45:37,590 --> 00:45:41,257
+you found any good Moroccan food in Boulder, Denver?
+
+710
+00:45:41,257 --> 00:45:42,319
+Unfortunately, no.
+
+711
+00:45:42,319 --> 00:45:46,186
+I'm still looking.
+
+712
+00:45:46,186 --> 00:45:48,951
+If any Moroccan is interested in opening a Moroccan restaurant,
+
+713
+00:45:48,951 --> 00:45:50,834
+I guess that would be great, like business.
+
+714
+00:45:52,197 --> 00:45:53,038
+Thank you, Marwa.
+
+715
+00:45:53,038 --> 00:45:54,000
+Oh, thank you.
+
+716
+00:46:01,068 --> 00:46:08,656
+Next up, we have Anna Deese, PhD candidate in Educational Foundations, Policy and Practice.
+
+717
+00:46:08,656 --> 00:46:11,760
+The title of their presentation is, When Students and
+
+718
+00:46:11,760 --> 00:46:16,665
+School Voters Differ, The Promise and Peril of Local Control.
+
+719
+00:46:16,665 --> 00:46:21,350
+Hi, everyone.
+
+720
+00:46:21,350 --> 00:46:26,482
+My name is Anna, and I study the local democratic control of American schools.
+
+721
+00:46:26,482 --> 00:46:31,090
+Local control means that resident citizens of an area can
+
+722
+00:46:31,090 --> 00:46:34,156
+vote on things like increasing taxes to support their
+
+723
+00:46:34,156 --> 00:46:40,708
+schools, or electing school board representatives who can create and oversee district policies.
+
+724
+00:46:41,509 --> 00:46:46,498
+Most of the time, local control is a good thing for both education and democracy.
+
+725
+00:46:47,423 --> 00:46:51,471
+But it can be problematic, and a really awful example
+
+726
+00:46:51,471 --> 00:46:56,059
+out of East Ramapo, New York is what inspired my research.
+
+727
+00:46:56,059 --> 00:47:00,027
+There, the local schools served mostly black and Latino
+
+728
+00:47:00,027 --> 00:47:03,994
+students, but the elected school board was dominated by
+
+729
+00:47:03,994 --> 00:47:09,023
+white officials whose own children attended private religious schools.
+
+730
+00:47:09,023 --> 00:47:16,269
+These white officials regularly enacted policies that hurt the education of the students of color,
+
+731
+00:47:16,269 --> 00:47:18,611
+all so that the white community could save money on
+
+732
+00:47:18,611 --> 00:47:22,635
+taxes and direct those savings back to the private schools.
+
+733
+00:47:23,596 --> 00:47:27,680
+What's worse is the legal voter suppression techniques were
+
+734
+00:47:27,680 --> 00:47:34,846
+used to prevent candidates of color from earning seats on the school board to reverse those policies.
+
+735
+00:47:35,887 --> 00:47:38,723
+This is a story not from the 1950s,
+
+736
+00:47:38,723 --> 00:47:40,125
+but within the last decade.
+
+737
+00:47:41,306 --> 00:47:45,771
+The goal of my research is to identify school
+
+738
+00:47:45,771 --> 00:47:51,057
+districts where local control might be harming students in racialized ways.
+
+739
+00:47:52,098 --> 00:47:56,143
+If these districts can be identified, then protections within
+
+740
+00:47:56,143 --> 00:48:00,588
+the Voting Rights Act could be used to help fix things.
+
+741
+00:48:01,629 --> 00:48:03,327
+To do this,
+
+742
+00:48:03,327 --> 00:48:06,610
+To find my problematic districts, I first do a very
+
+743
+00:48:06,610 --> 00:48:12,235
+technical squishing of lots of maps and demographic data in
+
+744
+00:48:12,235 --> 00:48:16,298
+order to calculate what I call the representation index.
+
+745
+00:48:16,298 --> 00:48:18,960
+My index is a measure of how different the race and
+
+746
+00:48:18,960 --> 00:48:22,804
+ethnicity of the eligible voters in an area are from the
+
+747
+00:48:22,804 --> 00:48:25,346
+race and ethnicity of the students using the schools.
+
+748
+00:48:26,247 --> 00:48:29,609
+Districts with large differences, districts like those up
+
+749
+00:48:29,609 --> 00:48:33,061
+there in red, districts like East Ramapo,
+
+750
+00:48:33,061 --> 00:48:36,525
+are places where local advocates might wanna step up
+
+751
+00:48:36,525 --> 00:48:40,991
+their monitoring or where the Voting Rights Act could be used to fix harms.
+
+752
+00:48:42,393 --> 00:48:46,698
+Of course, it would be way better if no harm came to students in the first place.
+
+753
+00:48:48,160 --> 00:48:51,764
+So in addition to calculating my index, I add in a
+
+754
+00:48:51,764 --> 00:48:55,829
+variety of other measures that are related to education
+
+755
+00:48:55,829 --> 00:49:01,630
+policies that previous research suggests might have a racialized impact.
+
+756
+00:49:01,630 --> 00:49:06,637
+This way, local decision makers can use my index,
+
+757
+00:49:06,637 --> 00:49:09,601
+those measures, and their knowledge of what's happening on
+
+758
+00:49:09,601 --> 00:49:12,345
+the ground to make more equity-oriented decisions.
+
+759
+00:49:13,166 --> 00:49:17,392
+Local control can be a good thing, but hasn't served communities of color well.
+
+760
+00:49:17,392 --> 00:49:18,554
+I want to fix that.
+
+761
+00:49:18,554 --> 00:49:18,935
+Thank you.
+
+762
+00:49:24,983 --> 00:49:27,267
+Hi, Bud.
+
+763
+00:49:27,267 --> 00:49:30,200
+So before coming to CU Boulder,
+
+764
+00:49:30,200 --> 00:49:34,084
+Anna had a lot of very different types of jobs.
+
+765
+00:49:34,084 --> 00:49:36,326
+Would you tell us about some of those?
+
+766
+00:49:36,326 --> 00:49:40,610
+I can see my cohort here from the School of Ed
+
+767
+00:49:40,610 --> 00:49:45,055
+all laughing because they are well aware of how weird my background is.
+
+768
+00:49:45,055 --> 00:49:47,577
+So I was a corporate consultant.
+
+769
+00:49:47,577 --> 00:49:49,159
+I was in the military.
+
+770
+00:49:49,159 --> 00:49:54,784
+I've been a teacher in both inner city and in rural settings.
+
+771
+00:49:54,784 --> 00:49:56,766
+I've been an elected school board member.
+
+772
+00:49:56,766 --> 00:49:59,869
+I don't know what else I have on there.
+
+773
+00:50:00,777 --> 00:50:02,319
+You have a licensure.
+
+774
+00:50:02,319 --> 00:50:04,483
+Oh, I have my principal's licensure.
+
+775
+00:50:04,483 --> 00:50:06,065
+Yeah, yeah.
+
+776
+00:50:06,065 --> 00:50:08,469
+I have a lot of things.
+
+777
+00:50:08,469 --> 00:50:14,398
+So do you have a story from your experience teaching in Oregon and Chicago?
+
+778
+00:50:14,398 --> 00:50:19,606
+Um, I mean, there's lots of, there are lots of stories.
+
+779
+00:50:19,606 --> 00:50:22,210
+I guess one of my favorites was I taught anatomy and
+
+780
+00:50:22,210 --> 00:50:26,377
+physiology and I always wanted to start by having, um,
+
+781
+00:50:26,377 --> 00:50:29,704
+My students do a dissection right away.
+
+782
+00:50:29,704 --> 00:50:30,966
+And we didn't have a lot of money.
+
+783
+00:50:30,966 --> 00:50:32,650
+Schools need more money, y'all.
+
+784
+00:50:32,650 --> 00:50:33,491
+Vote for those things.
+
+785
+00:50:35,455 --> 00:50:39,142
+So I bought the cheapest things I could, which were these sharks.
+
+786
+00:50:40,104 --> 00:50:44,922
+And they were messed up when they were putting in all the
+
+787
+00:50:44,922 --> 00:50:46,144
+stuff to preserve them.
+
+788
+00:50:46,965 --> 00:50:53,213
+And so, like, you just, like, find random blobs of, like, whatever dye they were using.
+
+789
+00:50:53,213 --> 00:51:00,222
+And my kids thought it was great, so I had them write up practice, like, forensic files and stuff.
+
+790
+00:51:00,222 --> 00:51:04,648
+But, yeah, it was really weird, but it was better than the pickles we did the year before.
+
+791
+00:51:04,648 --> 00:51:04,888
+So.
+
+792
+00:51:06,290 --> 00:51:07,712
+Messed up sharks to pickles.
+
+793
+00:51:07,712 --> 00:51:08,833
+Yeah.
+
+794
+00:51:08,833 --> 00:51:09,935
+Only in public school.
+
+795
+00:51:09,935 --> 00:51:10,724
+Yes.
+
+796
+00:51:10,724 --> 00:51:14,227
+So it sounds like your experience as an elected school
+
+797
+00:51:14,227 --> 00:51:19,051
+board member in Montana was kind of a direct path to your dissertation research.
+
+798
+00:51:19,051 --> 00:51:19,952
+Definitely.
+
+799
+00:51:19,952 --> 00:51:23,736
+Because you realize when you're an elected member, you do
+
+800
+00:51:23,736 --> 00:51:26,999
+have so much control, so much power, so much potential.
+
+801
+00:51:27,799 --> 00:51:30,682
+But also in a lot of ways, you don't.
+
+802
+00:51:30,682 --> 00:51:33,244
+And you're really shaped by so many other things.
+
+803
+00:51:33,244 --> 00:51:39,730
+And so that's been a question that's been going through my mind for the last many years.
+
+804
+00:51:39,730 --> 00:51:40,711
+Sorry to my advisors.
+
+805
+00:51:40,711 --> 00:51:42,293
+Getting out of here soon, though.
+
+806
+00:51:42,293 --> 00:51:45,657
+No, no, no, no dates, no dates.
+
+807
+00:51:45,657 --> 00:51:48,501
+Like Marwa, you enjoy reading as an escape.
+
+808
+00:51:48,501 --> 00:51:49,141
+I do.
+
+809
+00:51:49,141 --> 00:51:50,944
+What types of books do you read?
+
+810
+00:51:50,944 --> 00:51:55,529
+I read really, like, junky crime novels, like the ones
+
+811
+00:51:55,529 --> 00:52:01,917
+that you will buy at the airport, and you're like, why are there 15 books by this person right here?
+
+812
+00:52:01,917 --> 00:52:03,700
+Like, this can't be that good.
+
+813
+00:52:03,700 --> 00:52:06,192
+But I will go through them like nothing else.
+
+814
+00:52:06,192 --> 00:52:08,615
+So do you have any titles or authors you'd recommend?
+
+815
+00:52:08,615 --> 00:52:10,277
+No, because that would be embarrassing.
+
+816
+00:52:10,277 --> 00:52:11,378
+No.
+
+817
+00:52:11,378 --> 00:52:12,780
+No.
+
+818
+00:52:12,780 --> 00:52:14,382
+No one's taking any notes.
+
+819
+00:52:14,382 --> 00:52:15,663
+And yeah, we're safe.
+
+820
+00:52:15,663 --> 00:52:19,428
+You can come look at my Libby later on while we're eating.
+
+821
+00:52:19,428 --> 00:52:20,529
+That's it.
+
+822
+00:52:21,510 --> 00:52:25,875
+So in addition to your work at CU as a graduate student, you're also a mom.
+
+823
+00:52:25,875 --> 00:52:26,416
+Yes.
+
+824
+00:52:26,416 --> 00:52:29,800
+So did you practice your 3MT presentation to your son?
+
+825
+00:52:29,800 --> 00:52:30,601
+He does.
+
+826
+00:52:30,601 --> 00:52:32,503
+Did I practice my speech to you?
+
+827
+00:52:33,648 --> 00:52:36,471
+Yes.
+
+828
+00:52:36,471 --> 00:52:41,377
+So, Des, did you have any recommendations for your mom?
+
+829
+00:52:42,739 --> 00:52:45,822
+Good answer.
+
+830
+00:52:45,822 --> 00:52:46,443
+Thank you, Anna.
+
+831
+00:52:46,443 --> 00:52:47,584
+Thank you so much.
+
+832
+00:52:54,673 --> 00:53:00,530
+Next up, we have Hunter Ray, PhD candidate in aerospace engineering.
+
+833
+00:53:00,530 --> 00:53:07,884
+The title of their presentation is Drones to the Rescue, from Tools to Teammates in Public Safety.
+
+834
+00:53:15,979 --> 00:53:18,524
+As a first responder, having the right tools and the
+
+835
+00:53:18,524 --> 00:53:22,771
+right teammates is what's going to make the difference when trying to save your life.
+
+836
+00:53:22,771 --> 00:53:25,754
+One of the best tools we can carry is a drone,
+
+837
+00:53:25,754 --> 00:53:28,837
+because they can quickly cover large areas, and they keep my
+
+838
+00:53:28,837 --> 00:53:31,600
+teammates and I safe and aware of changing situations.
+
+839
+00:53:32,802 --> 00:53:35,745
+Imagine 14-year-old Taylor went for a walk a few hours
+
+840
+00:53:35,745 --> 00:53:40,710
+ago that hasn't come back yet, but it's getting dark and there's a storm coming.
+
+841
+00:53:40,710 --> 00:53:47,155
+When you call 911, I might be one of the first responders to arrive to help you find your child.
+
+842
+00:53:47,155 --> 00:53:50,540
+But even though we constantly train for this exact scenario,
+
+843
+00:53:50,540 --> 00:53:53,405
+it still takes two to three people to manage a single drone.
+
+844
+00:53:54,727 --> 00:53:56,670
+And that's because as a pilot, I need to be
+
+845
+00:53:56,670 --> 00:54:00,275
+laser-focused on flying the drone around trees and buildings, so
+
+846
+00:54:00,275 --> 00:54:03,901
+I need my teammates' help in looking at the video and talking on the radio.
+
+847
+00:54:04,943 --> 00:54:09,169
+All this people adds complexity, which adds training, so that
+
+848
+00:54:09,169 --> 00:54:13,336
+when the time comes, we know that we can find Taylor.
+
+849
+00:54:13,336 --> 00:54:15,421
+And so that's where my research comes in.
+
+850
+00:54:15,421 --> 00:54:18,747
+I aim to turn drones from simply tools into teammates
+
+851
+00:54:18,747 --> 00:54:21,813
+by helping them understand the context of the mission and giving
+
+852
+00:54:21,813 --> 00:54:25,319
+them the ability to give feedback to make sure those goals are aligned.
+
+853
+00:54:26,562 --> 00:54:30,229
+So the first step towards that is helping the drone understand context.
+
+854
+00:54:30,229 --> 00:54:34,557
+Instead of flying the drone left and right and up, I want to be able to say, go over there.
+
+855
+00:54:35,558 --> 00:54:38,003
+Search up the stream to the trail that leads to the farm.
+
+856
+00:54:39,097 --> 00:54:41,980
+And so to do that, I built a user interface and
+
+857
+00:54:41,980 --> 00:54:47,645
+wrote some software that provided a foundation for helping the drone understand that mission context.
+
+858
+00:54:48,566 --> 00:54:50,928
+But when we tested it, something wasn't quite right.
+
+859
+00:54:50,928 --> 00:54:53,191
+Even though we could give the drone a lot of
+
+860
+00:54:53,191 --> 00:54:58,175
+information, its goals weren't always aligned with their pilot.
+
+861
+00:54:58,175 --> 00:54:59,997
+And so what we thought we needed, we needed a way of
+
+862
+00:54:59,997 --> 00:55:03,621
+giving feedback for the drone to show what it thought it understood.
+
+863
+00:55:03,621 --> 00:55:07,868
+And to test that idea, we ran a simulated experiment.
+
+864
+00:55:07,868 --> 00:55:13,236
+where we see how pilots worked with drones, and the drone actually gave feedback.
+
+865
+00:55:13,236 --> 00:55:15,980
+In this case, it would simply ask a question as to
+
+866
+00:55:15,980 --> 00:55:19,185
+whether they thought the victim was near a certain landmark.
+
+867
+00:55:19,185 --> 00:55:19,786
+And this worked.
+
+868
+00:55:20,687 --> 00:55:26,315
+Not only did the team find more missing people, the pilots actually trusted the robot more.
+
+869
+00:55:27,197 --> 00:55:29,740
+And that's because whereas tools do exactly what you
+
+870
+00:55:29,740 --> 00:55:35,290
+do, sometimes they're detriment, a teammate works with you to accomplish a shared task.
+
+871
+00:55:35,290 --> 00:55:39,175
+And adding feedback fundamentally changes this dynamic.
+
+872
+00:55:39,175 --> 00:55:41,457
+This reduces the number of people we need per
+
+873
+00:55:41,457 --> 00:55:45,382
+aircraft, magnifying the impact of the team, simplifying our
+
+874
+00:55:45,382 --> 00:55:49,106
+operations, and reducing the training time we need.
+
+875
+00:55:49,106 --> 00:55:53,692
+All to make sure that when the time comes, we can find Taylor.
+
+876
+00:55:53,692 --> 00:55:55,774
+So whether we're fighting fire, looking for a
+
+877
+00:55:55,774 --> 00:55:59,999
+missing person, recovering after disaster, this research gives
+
+878
+00:55:59,999 --> 00:56:02,898
+first responders a safe and reliable teammate.
+
+879
+00:56:02,898 --> 00:56:06,262
+that works with them to support and protect their communities.
+
+880
+00:56:07,063 --> 00:56:09,826
+So that in these matters of life and death, like the
+
+881
+00:56:09,826 --> 00:56:13,871
+search for Taylor, you know that these robots will have your back.
+
+882
+00:56:13,871 --> 00:56:14,211
+Thank you.
+
+883
+00:56:20,038 --> 00:56:20,679
+Thanks, Hunter.
+
+884
+00:56:22,180 --> 00:56:24,883
+So some of your colleagues have shared with us the types
+
+885
+00:56:24,883 --> 00:56:29,240
+of food they enjoy, and I understand you have a go-to food.
+
+886
+00:56:29,240 --> 00:56:31,964
+I think cheese is one of the best foods in the world.
+
+887
+00:56:33,326 --> 00:56:36,430
+It comes in different flavors, shapes, sizes, smells.
+
+888
+00:56:36,430 --> 00:56:38,513
+You know, you really can never get bored.
+
+889
+00:56:38,513 --> 00:56:41,277
+So do you have like a top three?
+
+890
+00:56:41,277 --> 00:56:46,966
+Well, I did grow up in France, and they have this great cheese that translates to Golden Mountain.
+
+891
+00:56:46,966 --> 00:56:53,033
+And it's so creamy, it smells like a barnyard, but it's a real symphony in your mouth.
+
+892
+00:56:53,033 --> 00:56:54,536
+We'll let it go there.
+
+893
+00:56:54,536 --> 00:56:57,804
+Although, have you talked to Anna Turner about her mac and cheese?
+
+894
+00:56:57,804 --> 00:57:00,991
+Because she, I think, might be open to cheese recommendations.
+
+895
+00:57:00,991 --> 00:57:02,314
+Yeah, that might be a bit much.
+
+896
+00:57:05,161 --> 00:57:06,304
+So yeah, we'll let that one go.
+
+897
+00:57:06,304 --> 00:57:09,992
+Like Casey, you also enjoy skiing.
+
+898
+00:57:09,992 --> 00:57:11,798
+What kind of skiing do you do?
+
+899
+00:57:11,798 --> 00:57:13,140
+You can always find me in the trees.
+
+900
+00:57:13,941 --> 00:57:16,984
+I love flying through the trees on a nice day.
+
+901
+00:57:18,106 --> 00:57:19,467
+Maybe to my detriment sometimes.
+
+902
+00:57:20,348 --> 00:57:22,912
+But every, every time down the trees you're always exploring
+
+903
+00:57:22,912 --> 00:57:27,377
+a new way, and you're, you're really enjoying yourself in nature, and I really love that.
+
+904
+00:57:27,377 --> 00:57:28,899
+Do you have any go-to?
+
+905
+00:57:28,899 --> 00:57:30,161
+Well, steamboat's great.
+
+906
+00:57:30,161 --> 00:57:34,946
+I mean, flying through the aspens and, and those trees out there is really something special.
+
+907
+00:57:34,946 --> 00:57:35,447
+Wow.
+
+908
+00:57:35,447 --> 00:57:36,228
+Okay.
+
+909
+00:57:36,228 --> 00:57:37,870
+I'll let you do that.
+
+910
+00:57:37,870 --> 00:57:42,537
+Before coming to see you, Boulder, Hunter also had quite a range of jobs that you did.
+
+911
+00:57:42,537 --> 00:57:44,660
+Can you tell us about some of them?
+
+912
+00:57:44,660 --> 00:57:48,545
+Yeah, so I worked as an aerospace engineer building spacecraft systems.
+
+913
+00:57:48,545 --> 00:57:54,573
+So I was working on moon landers and instruments that would be going across the solar system.
+
+914
+00:57:54,573 --> 00:57:58,559
+And that was a really exciting place to be as a young engineer.
+
+915
+00:57:58,559 --> 00:58:01,804
+But I got really interested in how people play a part,
+
+916
+00:58:01,804 --> 00:58:04,267
+and that's where I decided to come here and do my
+
+917
+00:58:04,267 --> 00:58:09,674
+PhD, understanding how people and machines can really work together in a better way.
+
+918
+00:58:09,674 --> 00:58:12,438
+And how long have you been a first responder?
+
+919
+00:58:12,438 --> 00:58:15,823
+Just four years now, and that's been a really rewarding experience.
+
+920
+00:58:15,823 --> 00:58:19,348
+You know, the people that we work with and the people
+
+921
+00:58:19,348 --> 00:58:24,135
+that we show up to, we're often engaging with them on their very worst day, right?
+
+922
+00:58:24,135 --> 00:58:26,234
+It's oftentimes the worst day of their lives.
+
+923
+00:58:26,234 --> 00:58:30,362
+So it's a real honor to be able to help them in that situation.
+
+924
+00:58:30,362 --> 00:58:33,047
+But there's also a huge amount of responsibility that comes
+
+925
+00:58:33,047 --> 00:58:37,054
+from that and actually being able to help them execute the mission with your team.
+
+926
+00:58:37,054 --> 00:58:38,116
+Absolutely.
+
+927
+00:58:38,116 --> 00:58:38,777
+That's amazing.
+
+928
+00:58:39,919 --> 00:58:43,366
+So you mentioned spending time in France as a youngster.
+
+929
+00:58:43,366 --> 00:58:44,708
+You also were in Japan.
+
+930
+00:58:44,708 --> 00:58:45,630
+That's right.
+
+931
+00:58:45,630 --> 00:58:46,872
+Very lucky.
+
+932
+00:58:46,872 --> 00:58:50,376
+So were you as tall then as you are now?
+
+933
+00:58:50,376 --> 00:58:51,338
+I sure was.
+
+934
+00:58:51,338 --> 00:58:57,045
+And I remember they have these signs in the subways that stop at six feet.
+
+935
+00:58:57,045 --> 00:58:59,608
+And I remember when I was younger, I started hitting
+
+936
+00:58:59,608 --> 00:59:02,551
+my head on those advertisements in the subway.
+
+937
+00:59:02,551 --> 00:59:04,714
+And that's when I realized I was really tall.
+
+938
+00:59:05,795 --> 00:59:06,476
+Thank you, Hunter.
+
+939
+00:59:06,476 --> 00:59:07,918
+Thanks, bud.
+
+940
+00:59:14,041 --> 00:59:21,650
+Next up, we have Aoife Henry, PhD candidate in electrical computer and energy engineering.
+
+941
+00:59:21,650 --> 00:59:27,197
+The title of their presentation is, directing wind turbines with foresight.
+
+942
+00:59:27,197 --> 00:59:30,761
+The shepherd and the sheep dog find a crystal ball.
+
+943
+00:59:32,684 --> 00:59:35,587
+In my research, I am a shepherd of wind turbines.
+
+944
+00:59:35,587 --> 00:59:37,370
+You see, wind turbines are like sheep.
+
+945
+00:59:37,370 --> 00:59:40,193
+They're sturdy, they're obedient, but they're also kind of
+
+946
+00:59:40,193 --> 00:59:44,146
+simple creatures and they don't know how to handle themselves for the good of the group.
+
+947
+00:59:44,146 --> 00:59:49,113
+When the wind rolls in they need to be firmly instructed which way to face as conditions change.
+
+948
+00:59:49,113 --> 00:59:52,598
+Their default behaviour is to all very slowly rotate to face
+
+949
+00:59:52,598 --> 00:59:56,363
+the wind and to greasily lap up as much of its energy as they can.
+
+950
+00:59:56,363 --> 01:00:00,168
+But what the turbines don't know is that by doing this they're blocking the wind
+
+951
+01:00:00,168 --> 01:00:02,451
+for their less fortunate friends in the middle and at the
+
+952
+01:00:02,451 --> 01:00:06,455
+back of the pack and that the entire flock is producing less energy overall.
+
+953
+01:00:06,455 --> 01:00:08,418
+They also don't know that by the time they have
+
+954
+01:00:08,418 --> 01:00:13,206
+finally rotated to face the wind they measured, the wind direction has changed anyway.
+
+955
+01:00:13,206 --> 01:00:14,808
+Now, I'm a busy shepherd.
+
+956
+01:00:14,808 --> 01:00:17,652
+I don't have time to tell these turbines what to do every second of every day.
+
+957
+01:00:17,652 --> 01:00:20,677
+Instead, I design a wind farm controller.
+
+958
+01:00:20,677 --> 01:00:22,760
+This is like a sheepdog who's been trained to read
+
+959
+01:00:22,760 --> 01:00:25,785
+the situation and to direct the turbines accordingly.
+
+960
+01:00:25,785 --> 01:00:28,570
+This sheepdog looks at the wind speed and direction measurements,
+
+961
+01:00:28,570 --> 01:00:33,758
+and it barks at the turbines to rotate in a way that produces the most overall wind farm power.
+
+962
+01:00:33,758 --> 01:00:35,941
+The best research has come up with so far is to tell
+
+963
+01:00:35,941 --> 01:00:38,925
+the turbines at the front and the middle to face the wind at an angle.
+
+964
+01:00:38,925 --> 01:00:40,707
+This leaves more wind energy for their pals at the
+
+965
+01:00:40,707 --> 01:00:45,674
+back, achieving 10% more overall power in simulations.
+
+966
+01:00:45,674 --> 01:00:50,861
+The problem is that this result dwindles to 1% in real wind farms.
+
+967
+01:00:50,861 --> 01:00:56,303
+The focus of my work is to design a wind farm controller that can adapt to real wind conditions.
+
+968
+01:00:56,303 --> 01:00:58,245
+So what's wrong with this existing controller?
+
+969
+01:00:58,245 --> 01:01:02,209
+This sheepdog, he's a good boy, but the wind is disorderly and very unpredictable.
+
+970
+01:01:02,209 --> 01:01:06,453
+This sheepdog doesn't foresee how the wind will behave in the future.
+
+971
+01:01:06,453 --> 01:01:09,095
+It doesn't understand how much weaker, more turbulent, and
+
+972
+01:01:09,095 --> 01:01:13,199
+diverted the wind becomes as it blows in and around the turbines.
+
+973
+01:01:13,199 --> 01:01:15,922
+In simulations, the wind is well behaved, but out in the
+
+974
+01:01:15,922 --> 01:01:17,864
+Wild West of Texas, where most of the U.S.'
+
+975
+01:01:17,864 --> 01:01:19,806
+'s wind farms are, it's a different story.
+
+976
+01:01:20,687 --> 01:01:22,969
+My thesis is to create a crystal ball.
+
+977
+01:01:22,969 --> 01:01:24,485
+We'll call it a forecaster.
+
+978
+01:01:24,485 --> 01:01:26,968
+that can make predictions about how the wind will change
+
+979
+01:01:26,968 --> 01:01:30,412
+in the coming minutes once it's been agitated by the turbines.
+
+980
+01:01:30,412 --> 01:01:34,537
+I've trained a computer program to decrypt months' worth of wind farm data
+
+981
+01:01:34,537 --> 01:01:37,060
+and to learn the relationships between the wind speed
+
+982
+01:01:37,060 --> 01:01:40,204
+and direction, turbine power, and rotation measurements over time.
+
+983
+01:01:41,045 --> 01:01:44,870
+I've upgraded the existing sheepdog with this forecaster so
+
+984
+01:01:44,870 --> 01:01:46,852
+he can direct the turbines with foresight.
+
+985
+01:01:47,733 --> 01:01:51,357
+My sheepdog can start their sheepishly slow rotation early
+
+986
+01:01:51,357 --> 01:01:55,096
+so that their positioning is just right for the winds they will see in the future.
+
+987
+01:01:55,096 --> 01:02:00,343
+Finally, I will fine-tune its training with live feedback from the Windfarm ex-operating app,
+
+988
+01:02:00,343 --> 01:02:04,849
+so that both the forecaster's predictions and the controller's instructions get better and better.
+
+989
+01:02:05,951 --> 01:02:10,757
+By equipping a Windfarm controller with a forecaster, I have trained a very clever sheepdog.
+
+990
+01:02:11,639 --> 01:02:15,404
+This could enable real Windfarms to reclaim the 10% extra
+
+991
+01:02:15,404 --> 01:02:19,092
+energy yield lost on the path from academia to industry.
+
+992
+01:02:19,092 --> 01:02:21,816
+reducing the cost of green energy by a dollar for
+
+993
+01:02:21,816 --> 01:02:27,325
+every ten, and hopefully, kicking fossil fuels to the curb, no matter how the wind blows.
+
+994
+01:02:27,325 --> 01:02:33,455
+Thank you.
+
+995
+01:02:33,455 --> 01:02:34,136
+Thank you, Ethan.
+
+996
+01:02:35,718 --> 01:02:39,164
+So, I understand that you know two languages that
+
+997
+01:02:39,164 --> 01:02:44,843
+are commonly considered to be endangered languages, Irish Gaelic and Scots.
+
+998
+01:02:44,843 --> 01:02:46,245
+That's right.
+
+999
+01:02:46,245 --> 01:02:47,306
+How did that come to be?
+
+1000
+01:02:48,387 --> 01:02:49,548
+I was born in Scotland.
+
+1001
+01:02:49,548 --> 01:02:52,732
+I usually tell people I'm Irish because that's my dominating accent at the moment.
+
+1002
+01:02:52,732 --> 01:02:55,114
+We'll see how that changes in the next few years.
+
+1003
+01:02:55,114 --> 01:02:56,776
+But I was born in Scotland.
+
+1004
+01:02:56,776 --> 01:03:00,600
+My dad is Irish but was an enthusiast for dead languages.
+
+1005
+01:03:00,600 --> 01:03:05,786
+So he sent me to one of very few Scots-Galic speaking schools.
+
+1006
+01:03:05,786 --> 01:03:08,228
+And we were a half and half household.
+
+1007
+01:03:09,049 --> 01:03:12,593
+And we spoke Irish at home and then Scots-Galic at school.
+
+1008
+01:03:12,593 --> 01:03:12,653
+Wow.
+
+1009
+01:03:12,653 --> 01:03:18,061
+So I understand you and your father can do something when you're around other people.
+
+1010
+01:03:18,061 --> 01:03:18,421
+Sure.
+
+1011
+01:03:18,421 --> 01:03:20,945
+Yeah, it's kind of a secret language at this point.
+
+1012
+01:03:20,945 --> 01:03:23,748
+And actually, when I was in undergrad, I also lived in
+
+1013
+01:03:23,748 --> 01:03:28,876
+a house, a grand house where they pay you to live there as long as you spoke Irish with each other.
+
+1014
+01:03:28,876 --> 01:03:31,459
+But it appeared quite culty from the outside because we
+
+1015
+01:03:31,459 --> 01:03:34,223
+all wore matching hoodies and spoke the secret language to one another.
+
+1016
+01:03:36,667 --> 01:03:38,009
+But it wasn't a cult.
+
+1017
+01:03:38,009 --> 01:03:39,571
+Yeah, not a cult.
+
+1018
+01:03:39,571 --> 01:03:42,134
+So I understand that you try to run most days.
+
+1019
+01:03:42,134 --> 01:03:44,056
+I do, yeah.
+
+1020
+01:03:44,056 --> 01:03:44,937
+And where do you like to run?
+
+1021
+01:03:45,899 --> 01:03:47,200
+I'm kind of boring at the moment.
+
+1022
+01:03:47,200 --> 01:03:48,382
+I'm trying to graduate soon.
+
+1023
+01:03:48,382 --> 01:03:51,766
+So I try to use my brain as little as possible outside of work.
+
+1024
+01:03:51,766 --> 01:03:53,028
+So the less turns, the better.
+
+1025
+01:03:53,028 --> 01:03:55,130
+If I could run in a straight line and come back, I would.
+
+1026
+01:03:55,130 --> 01:03:59,115
+But usually routes around the boulder trails.
+
+1027
+01:03:59,115 --> 01:04:01,338
+No judgment.
+
+1028
+01:04:01,338 --> 01:04:04,201
+So were you a big runner before you came to Boulder?
+
+1029
+01:04:04,201 --> 01:04:06,403
+Yeah, I used to be more competitive.
+
+1030
+01:04:06,403 --> 01:04:08,806
+I used to do a lot of trail marathons but I've pulled
+
+1031
+01:04:08,806 --> 01:04:11,628
+back from that a little bit now because it's not a reasonable
+
+1032
+01:04:11,628 --> 01:04:14,912
+distance to run and I don't recommend it to anyone.
+
+1033
+01:04:14,912 --> 01:04:17,434
+So do you have a temperature cutoff that you won't run below?
+
+1034
+01:04:17,434 --> 01:04:21,659
+I actually relate a lot to Anna from earlier because I did run the ice
+
+1035
+01:04:21,659 --> 01:04:24,962
+and suffered a very unusual injury for a runner in that I
+
+1036
+01:04:24,962 --> 01:04:28,085
+tore two muscles in my arm a month ago from slipping on ice.
+
+1037
+01:04:28,085 --> 01:04:30,888
+Maybe a treadmill would be a safer bet.
+
+1038
+01:04:30,888 --> 01:04:33,190
+When it's cold and icy, yeah.
+
+1039
+01:04:33,190 --> 01:04:38,515
+So in addition to your research on winter blinds and coding, you also do stand-up comedy.
+
+1040
+01:04:39,496 --> 01:04:40,277
+When did that start?
+
+1041
+01:04:41,258 --> 01:04:47,043
+It had been something I'd wanted to do for a long time, and then my strategy, I was so nervous.
+
+1042
+01:04:47,043 --> 01:04:49,185
+My strategy was to go to a very small place, which was
+
+1043
+01:04:49,185 --> 01:04:55,051
+the Trident, where they do it once a month, and to kind of dominate the space with my friends.
+
+1044
+01:04:55,051 --> 01:04:58,078
+I duped about 11 people into going there.
+
+1045
+01:04:58,078 --> 01:04:59,642
+There was only about 25 people there.
+
+1046
+01:05:00,483 --> 01:05:02,167
+So I thought I'd at least get 11 laughs.
+
+1047
+01:05:03,029 --> 01:05:04,793
+And they're well-behaved friends.
+
+1048
+01:05:04,793 --> 01:05:07,840
+So is there a joke that you'd like to try out on us?
+
+1049
+01:05:07,840 --> 01:05:08,402
+Different audience.
+
+1050
+01:05:10,286 --> 01:05:14,710
+Safe, yeah.
+
+1051
+01:05:14,710 --> 01:05:18,495
+I understand that one of your favorite foods is wellness sushi.
+
+1052
+01:05:18,495 --> 01:05:21,440
+In Denver, what is wellness sushi?
+
+1053
+01:05:22,481 --> 01:05:27,408
+I'm ethically fussy in my diet, and it's an all vegan sushi place, which I love.
+
+1054
+01:05:27,408 --> 01:05:28,610
+It's well worth the drive.
+
+1055
+01:05:28,610 --> 01:05:30,773
+And I've been on dates there.
+
+1056
+01:05:30,773 --> 01:05:31,855
+I've taken friends there.
+
+1057
+01:05:31,855 --> 01:05:33,998
+I've been there to celebrate things and grieve things.
+
+1058
+01:05:33,998 --> 01:05:35,941
+So it's sushi for all occasions.
+
+1059
+01:05:35,941 --> 01:05:36,482
+It's good.
+
+1060
+01:05:36,482 --> 01:05:37,203
+Fabulous.
+
+1061
+01:05:37,203 --> 01:05:37,964
+Thank you, Eva.
+
+1062
+01:05:37,964 --> 01:05:38,845
+Thank you.
+
+1063
+01:05:45,322 --> 01:05:52,682
+Next up, we have Heather Kinney Dudelo, PhD candidate in ecology and evolutionary biology.
+
+1064
+01:05:52,682 --> 01:05:59,179
+The title of their presentation is Feathered Flinges, the Dating Lives of Barn Swallows.
+
+1065
+01:06:02,011 --> 01:06:07,180
+Finding a romantic partner is a big decision, and it's no easy task.
+
+1066
+01:06:07,180 --> 01:06:11,427
+You might turn to dating apps for help, but how do birds find a date?
+
+1067
+01:06:11,427 --> 01:06:14,352
+Understanding the dating habits of birds can actually help
+
+1068
+01:06:14,352 --> 01:06:16,796
+explain the amazing diversity of bird species.
+
+1069
+01:06:17,618 --> 01:06:20,623
+Many birds use their colorful feathers to attract mates.
+
+1070
+01:06:20,623 --> 01:06:26,480
+For example, in barn swallows, individuals with darker brown dress feathers are more attractive.
+
+1071
+01:06:26,480 --> 01:06:29,184
+traits that are favored for mating become common in
+
+1072
+01:06:29,184 --> 01:06:34,732
+the population, and this helps explain why different bird species are different colors.
+
+1073
+01:06:34,732 --> 01:06:38,478
+However, dating is about more than just good looks, right?
+
+1074
+01:06:38,478 --> 01:06:41,162
+It also requires being in the right place at the
+
+1075
+01:06:41,162 --> 01:06:44,688
+right time and forming a social bond with someone.
+
+1076
+01:06:44,688 --> 01:06:47,492
+My research explores this in barn swallows by
+
+1077
+01:06:47,492 --> 01:06:54,340
+asking how social interactions, movement patterns, and nest locations matter for mate choice.
+
+1078
+01:06:54,340 --> 01:06:57,007
+Barn swallows nest on barns and other human-made
+
+1079
+01:06:57,007 --> 01:07:00,416
+structures which makes them accessible for research.
+
+1080
+01:07:00,416 --> 01:07:03,264
+Multiple barn swallows can nest together in the same barn,
+
+1081
+01:07:03,264 --> 01:07:05,329
+which we can think of as a nest neighborhood.
+
+1082
+01:07:06,170 --> 01:07:08,794
+First, I used backpack tags like the one pictured on
+
+1083
+01:07:08,794 --> 01:07:13,761
+the left to record social interactions of birds within a single neighborhood.
+
+1084
+01:07:13,761 --> 01:07:17,946
+The tags detect which birds got close to each other and how long they spent together.
+
+1085
+01:07:17,946 --> 01:07:22,252
+Using these data, I can find out how strong a social bond
+
+1086
+01:07:22,252 --> 01:07:26,892
+needs to be in order for two birds to mate and produce offspring.
+
+1087
+01:07:26,892 --> 01:07:31,698
+Next, I used backpack tags again to record GPS locations
+
+1088
+01:07:31,698 --> 01:07:35,522
+to see if some birds fly farther in search of mates than others.
+
+1089
+01:07:35,522 --> 01:07:37,985
+Think of your friend who sets their dating app's match
+
+1090
+01:07:37,985 --> 01:07:42,811
+radius to 100 miles and the other friend who sets it to only five miles.
+
+1091
+01:07:42,811 --> 01:07:45,094
+On the map, you can see that the female shown in
+
+1092
+01:07:45,094 --> 01:07:49,019
+purple covered a larger area than the female shown in black.
+
+1093
+01:07:49,019 --> 01:07:54,297
+Females that flew farther were more likely to have babies with multiple males.
+
+1094
+01:07:54,297 --> 01:07:57,241
+Finally, the nesting barns are often located close to
+
+1095
+01:07:57,241 --> 01:08:00,987
+each other, and the combined nest neighborhoods form a sort of town.
+
+1096
+01:08:01,868 --> 01:08:04,271
+I found that barn swallows are more likely to mate
+
+1097
+01:08:04,271 --> 01:08:08,077
+with neighbors from the same barn than with birds from the barn down the road.
+
+1098
+01:08:08,077 --> 01:08:13,805
+Instead of looking everywhere for Mr. Right, females often choose Mr. Right here.
+
+1099
+01:08:15,508 --> 01:08:18,191
+Studying the breeding biology of swallows can help
+
+1100
+01:08:18,191 --> 01:08:22,462
+us improve conservation efforts for this declining group.
+
+1101
+01:08:22,462 --> 01:08:26,987
+And more than that, understanding how social interactions, movement patterns,
+
+1102
+01:08:26,987 --> 01:08:30,611
+and nest neighborhoods matter for barn swallows allows us
+
+1103
+01:08:30,611 --> 01:08:38,460
+to explain how large scale patterns of plumage evolution emerge from the mate choices of individual birds.
+
+1104
+01:08:38,460 --> 01:08:40,522
+I hope the next time you're outside and you see a
+
+1105
+01:08:40,522 --> 01:08:44,006
+bird, you take a moment to wonder about its social life.
+
+1106
+01:08:44,006 --> 01:08:45,528
+Where does it go and who does it meet?
+
+1107
+01:08:45,528 --> 01:08:48,952
+Dating is complex in the bird world too, and you might
+
+1108
+01:08:48,952 --> 01:08:52,263
+have more in common with that bird than you ever imagined.
+
+1109
+01:08:52,263 --> 01:08:52,724
+Thank you.
+
+1110
+01:08:59,852 --> 01:09:00,433
+Thank you, Heather.
+
+1111
+01:09:01,494 --> 01:09:03,697
+So like Casey, you enjoy hiking.
+
+1112
+01:09:04,978 --> 01:09:08,102
+Do you have any trails that you would recommend when the weather warms up?
+
+1113
+01:09:09,303 --> 01:09:09,644
+Yeah.
+
+1114
+01:09:09,644 --> 01:09:13,168
+So I live in North Boulder, and so we're near Wonderland Lake.
+
+1115
+01:09:13,168 --> 01:09:19,938
+And so we really like the trails around the lake and also up from Lee Hill.
+
+1116
+01:09:19,938 --> 01:09:21,180
+How far up Lee Hill?
+
+1117
+01:09:22,341 --> 01:09:23,522
+Not too far.
+
+1118
+01:09:23,522 --> 01:09:24,444
+There's a trailhead.
+
+1119
+01:09:25,465 --> 01:09:26,726
+Just a block in.
+
+1120
+01:09:26,726 --> 01:09:27,227
+All right.
+
+1121
+01:09:27,227 --> 01:09:28,048
+I haven't seen that one.
+
+1122
+01:09:28,048 --> 01:09:28,649
+I was like, OK.
+
+1123
+01:09:29,810 --> 01:09:32,394
+So Marwa and Anna enjoy reading novels.
+
+1124
+01:09:32,394 --> 01:09:34,036
+What sort of books do you enjoy reading?
+
+1125
+01:09:34,036 --> 01:09:38,201
+I enjoy sci-fi and fantasy novels.
+
+1126
+01:09:38,201 --> 01:09:41,585
+But unlike Marwa, I like cozy fantasy.
+
+1127
+01:09:42,526 --> 01:09:50,009
+So this is like a story where you might have an ogre, but they decide to open up a coffee shop.
+
+1128
+01:09:50,009 --> 01:09:53,374
+Clearly, I need to read more.
+
+1129
+01:09:53,374 --> 01:09:56,378
+Do you have any titles or authors you recommend?
+
+1130
+01:09:56,378 --> 01:10:00,203
+The author I really like is Becky Chambers.
+
+1131
+01:10:00,203 --> 01:10:03,508
+She has a book called The Long Way to a Small, Angry Planet.
+
+1132
+01:10:03,508 --> 01:10:04,750
+That's quite good.
+
+1133
+01:10:04,750 --> 01:10:05,551
+Great title.
+
+1134
+01:10:05,551 --> 01:10:07,013
+I love that.
+
+1135
+01:10:07,013 --> 01:10:10,318
+This afternoon, you've heard a lot of fantastic food
+
+1136
+01:10:10,318 --> 01:10:14,884
+stories from our graduate students, things that keep them fueled and inspired.
+
+1137
+01:10:15,826 --> 01:10:18,173
+What is your favorite food?
+
+1138
+01:10:18,173 --> 01:10:24,000
+The meal that came to mind when I was answering these questions is I really love
+
+1139
+01:10:24,000 --> 01:10:25,803
+when I go back and stay with my parents in
+
+1140
+01:10:25,803 --> 01:10:30,829
+Northern California to make like buttermilk waffles in the morning and
+
+1141
+01:10:30,829 --> 01:10:33,732
+we have a big blueberry patch in our backyard so
+
+1142
+01:10:33,732 --> 01:10:41,001
+putting fresh blueberries and my mom also grows strawberries and raspberries so just triple berry waffles.
+
+1143
+01:10:41,001 --> 01:10:43,084
+And when will you be home this summer?
+
+1144
+01:10:45,005 --> 01:10:49,070
+Because I think we'll all try to have a little look.
+
+1145
+01:10:49,070 --> 01:10:50,893
+Oh my gosh, that sounds amazing.
+
+1146
+01:10:52,354 --> 01:10:54,497
+So in addition to your graduate work in ecology
+
+1147
+01:10:54,497 --> 01:10:59,924
+and evolutionary biology, you have also undertaken to learn the language Telugu.
+
+1148
+01:10:59,924 --> 01:11:00,905
+Yeah, Telugu.
+
+1149
+01:11:00,905 --> 01:11:04,510
+Telugu, one of the 22 official languages in India.
+
+1150
+01:11:04,510 --> 01:11:07,273
+Is your husband able to join us this afternoon?
+
+1151
+01:11:07,273 --> 01:11:08,748
+He is here, yes.
+
+1152
+01:11:08,748 --> 01:11:13,074
+Well, keeping in mind that tomorrow is Valentine's Day, is
+
+1153
+01:11:13,074 --> 01:11:15,217
+there anything you would like to say to your husband?
+
+1154
+01:11:16,879 --> 01:11:21,125
+We're actually going to dinner tonight because he four years
+
+1155
+01:11:21,125 --> 01:11:27,173
+ago proposed to me on February 13th, and so we celebrate on the 13th now.
+
+1156
+01:11:28,175 --> 01:11:30,678
+Oh, my.
+
+1157
+01:11:30,678 --> 01:11:32,220
+You can't make these stories up.
+
+1158
+01:11:32,220 --> 01:11:33,943
+Thank you, Heather.
+
+1159
+01:11:33,943 --> 01:11:34,924
+Thank you.
+
+1160
+01:11:40,895 --> 01:11:46,551
+Let's give another huge round of applause to our ten amazing presenters.
+
+1161
+01:11:51,543 --> 01:11:56,833
+What an incredible showcase of talent, research, and communication skills.
+
+1162
+01:11:56,833 --> 01:12:03,024
+While our judges finalize their evaluations, it's your turn to make your decision.
+
+1163
+01:12:03,024 --> 01:12:06,130
+The People's Choice Award is in your hands.
+
+1164
+01:12:07,111 --> 01:12:09,756
+In just a not even a moment.
+
+1165
+01:12:09,756 --> 01:12:12,316
+Right here is
+
+1166
+01:12:12,316 --> 01:12:16,602
+You'll have exactly three minutes to cast your vote for
+
+1167
+01:12:16,602 --> 01:12:22,871
+a presenter that you felt delivered the clearest, most engaging, and most compelling talk.
+
+1168
+01:12:22,871 --> 01:12:26,336
+To vote, simply scan the QR code on the projection screen.
+
+1169
+01:12:27,438 --> 01:12:32,044
+And remember, each audience member only gets one vote.
+
+1170
+01:12:32,044 --> 01:12:34,328
+This is not Louisiana.
+
+1171
+01:12:34,328 --> 01:12:36,731
+You can't vote early and often.
+
+1172
+01:12:36,731 --> 01:12:38,053
+So only one vote.
+
+1173
+01:12:39,265 --> 01:12:43,512
+So we'll now take a short break while the judges compile their scores.
+
+1174
+01:12:43,512 --> 01:12:46,037
+There will be refreshments available.
+
+1175
+01:12:46,037 --> 01:12:51,806
+You feel free to chat with your fellow attendees, and we'll see you back here in about 15 minutes.
+
+1176
+01:12:51,806 --> 01:12:53,950
+Thank you all so much for being here today.
+
+1177
+01:13:20,069 --> 01:13:22,733
+Dear friends, we are back.
+
+1178
+01:13:22,733 --> 01:13:24,475
+Please stay in line.
+
+1179
+01:13:24,475 --> 01:13:27,178
+Please enjoy the beverages and great food.
+
+1180
+01:13:28,060 --> 01:13:29,261
+But we are back.
+
+1181
+01:13:30,202 --> 01:13:32,666
+The Graduate School here at CU Boulder is home to
+
+1182
+01:13:32,666 --> 01:13:36,170
+graduate students from around the world, each contributing
+
+1183
+01:13:36,170 --> 01:13:40,175
+their expertise, creativity, and dedication to research.
+
+1184
+01:13:40,175 --> 01:13:45,162
+Today, we had the privilege to hear from 10 of these remarkable scholars.
+
+1185
+01:13:45,162 --> 01:13:51,372
+Now, multiply that 10 by the brilliance you saw today by 545.
+
+1186
+01:13:51,372 --> 01:13:55,619
+That gets us up to the 6,000 graduate students who
+
+1187
+01:13:55,619 --> 01:13:58,824
+are currently enrolled here at CU Boulder to give you just
+
+1188
+01:13:58,824 --> 01:14:02,770
+a glimpse of the talent within our graduate community.
+
+1189
+01:14:02,770 --> 01:14:06,917
+So once again, let's give a big round of applause to our 10 finalists.
+
+1190
+01:14:10,205 --> 01:14:12,608
+Now it is my great pleasure to welcome back Dean of
+
+1191
+01:14:12,608 --> 01:14:17,375
+the Graduate School, Scott Adler, and we will announce and celebrate our winners.
+
+1192
+01:14:18,657 --> 01:14:24,425
+So first up, the People's Choice Award goes to, now everybody have to do a drum roll.
+
+1193
+01:14:26,527 --> 01:14:30,573
+The People's Choice Award winner is Heather Kinney Dudela.
+
+1194
+01:14:35,340 --> 01:14:36,381
+Come on down.
+
+1195
+01:14:51,818 --> 01:15:02,743
+Next up, drumroll.
+
+1196
+01:15:02,743 --> 01:15:08,376
+Our runner up today is Casey Middleton.
+
+1197
+01:15:26,750 --> 01:15:28,913
+And one last drum roll.
+
+1198
+01:15:28,913 --> 01:15:52,302
+The winner of today's 3MT 2025 competition is Aoife Henry.
+
+1199
+01:16:05,697 --> 01:16:08,862
+Well, that was absolutely phenomenal.
+
+1200
+01:16:08,862 --> 01:16:10,465
+Great presentations.
+
+1201
+01:16:10,465 --> 01:16:16,074
+Congratulations to all our winners and truly to every participant.
+
+1202
+01:16:17,076 --> 01:16:19,560
+Each of you showcased not only the depth of your
+
+1203
+01:16:19,560 --> 01:16:25,238
+research, but also the power of making knowledge accessible and engaging.
+
+1204
+01:16:25,238 --> 01:16:31,586
+A heartfelt thank you to our competitors, to our judges for their thoughtful evaluations,
+
+1205
+01:16:31,586 --> 01:16:34,509
+and of course, to all of you, our audience,
+
+1206
+01:16:34,509 --> 01:16:39,715
+for supporting and celebrating graduate research with us today.
+
+1207
+01:16:39,715 --> 01:16:44,081
+Now, stay, enjoy the refreshments, and join us in
+
+1208
+01:16:44,081 --> 01:16:47,685
+celebrating the winners, and have a wonderful evening.
+
+1209
+01:16:51,192 --> 01:17:10,652
+Oh, one more thing, if I could get all the competitors on the stage for a group photo.
+

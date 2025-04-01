@@ -1,0 +1,2660 @@
+1
+00:02:05,969 --> 00:02:06,581
+you
+
+2
+00:02:46,081 --> 00:02:46,765
+All right.
+
+3
+00:02:48,676 --> 00:02:49,783
+Welcome back, everyone.
+
+4
+00:02:51,573 --> 00:02:52,800
+We'll get started here.
+
+5
+00:02:59,345 --> 00:03:05,255
+I'm sure you are all very eager to get your lecture exam scores back.
+
+6
+00:03:06,317 --> 00:03:11,505
+I am still waiting on those to get back to me, so as soon as I know, you'll know.
+
+7
+00:03:13,048 --> 00:03:16,314
+But that does remind me to make sure we're kind of
+
+8
+00:03:16,314 --> 00:03:21,943
+shifting a little bit of the attention to the next big assessment, which is what?
+
+9
+00:03:23,037 --> 00:03:24,079
+Yeah, the lab exam.
+
+10
+00:03:24,079 --> 00:03:27,205
+So you have the lab exam in a couple of weeks.
+
+11
+00:03:27,205 --> 00:03:29,790
+So make sure you're staying on top of that.
+
+12
+00:03:29,790 --> 00:03:32,516
+So this week would be lab five.
+
+13
+00:03:32,516 --> 00:03:38,107
+That'll be the last lab that you'll be responsible for for lab exam one.
+
+14
+00:03:38,107 --> 00:03:41,191
+The nice thing is next week you'll have an entire lab
+
+15
+00:03:41,191 --> 00:03:45,777
+section to go over any of the previous labs as well as lab five.
+
+16
+00:03:45,777 --> 00:03:48,700
+You can work through some worksheets, maybe review the
+
+17
+00:03:48,700 --> 00:03:52,145
+quiz questions and anything that you've gotten wrong.
+
+18
+00:03:52,145 --> 00:03:56,330
+That way you have a better understanding of maybe what you need to focus on to study.
+
+19
+00:03:57,492 --> 00:04:03,539
+And then obviously get through some of the calculations that you might not have understood.
+
+20
+00:04:03,539 --> 00:04:04,621
+Did you have a question?
+
+21
+00:04:04,621 --> 00:04:04,941
+Yeah.
+
+22
+00:04:09,477 --> 00:04:12,880
+Yeah, because there won't be enough chairs in a lot
+
+23
+00:04:12,880 --> 00:04:17,144
+of the other sections, we're hoping that you go to your signed section.
+
+24
+00:04:17,144 --> 00:04:19,586
+But again, if it's like if something comes up and you
+
+25
+00:04:19,586 --> 00:04:24,110
+really can't go, then maybe you can reach out to see if they have some room in the other section.
+
+26
+00:04:24,110 --> 00:04:28,113
+But one of the other big things is your TA is going
+
+27
+00:04:28,113 --> 00:04:33,217
+to hand back your worksheet as well as your old quizzes that you can review.
+
+28
+00:04:33,217 --> 00:04:36,700
+So it works out a little bit better for everyone if you can.
+
+29
+00:04:36,700 --> 00:04:38,322
+But we understand that things come up.
+
+30
+00:04:38,322 --> 00:04:38,722
+Yeah.
+
+31
+00:04:38,722 --> 00:04:39,845
+Yeah, thanks for asking, though.
+
+32
+00:04:43,353 --> 00:04:49,909
+I'll have some more details next week on maybe what you should be looking for on the lab exam.
+
+33
+00:04:49,909 --> 00:04:52,275
+But for now, are there any broad questions?
+
+34
+00:04:56,204 --> 00:04:58,047
+Okay, very good.
+
+35
+00:04:58,047 --> 00:05:04,837
+So we are starting on the new unit, so this will be the second unit for your second lecture exam.
+
+36
+00:05:06,359 --> 00:05:13,906
+The exams are not cumulative, but you could imagine that if you don't really understand
+
+37
+00:05:13,906 --> 00:05:18,213
+energy production from a certain pathway that might hinder
+
+38
+00:05:18,213 --> 00:05:21,538
+your ability to understand some of these upcoming concepts.
+
+39
+00:05:21,538 --> 00:05:27,126
+So no, I will not directly ask you on, say, chapters three and four lecture slides,
+
+40
+00:05:28,669 --> 00:05:31,874
+but if we're using some of that base fundamental knowledge
+
+41
+00:05:33,155 --> 00:05:42,442
+to go over something in the skeletal muscle, it might be good to make sure you understand those concepts.
+
+42
+00:05:42,442 --> 00:05:45,968
+Exam two, we're gonna start with skeletal muscle.
+
+43
+00:05:45,968 --> 00:05:51,277
+We're gonna go through the structure as well as function and how it applies to exercise.
+
+44
+00:05:56,345 --> 00:05:58,088
+Okay, so.
+
+45
+00:05:59,418 --> 00:06:01,883
+Structure and function is where we're gonna start.
+
+46
+00:06:01,883 --> 00:06:04,268
+Just like I mentioned, we'll go through muscle
+
+47
+00:06:04,268 --> 00:06:08,617
+actions, neuromuscular junction, and muscular contraction.
+
+48
+00:06:08,617 --> 00:06:14,108
+We'll get into the oh-so-popular exercise-associated muscle cramp
+
+49
+00:06:14,108 --> 00:06:16,773
+topic, so that'll be kind of interesting.
+
+50
+00:06:16,773 --> 00:06:20,140
+We'll briefly go through muscle fiber types and the different.
+
+51
+00:06:20,140 --> 00:06:26,889
+the different types of muscle fibers as well as how we actually get to fiber typing.
+
+52
+00:06:26,889 --> 00:06:30,994
+So the different procedures in typing muscle fibers.
+
+53
+00:06:30,994 --> 00:06:33,277
+Force regulation in muscle.
+
+54
+00:06:33,277 --> 00:06:37,283
+And then another really popular topic with muscle soreness,
+
+55
+00:06:37,283 --> 00:06:43,210
+which I think you will probably have an idea where I'm going with that already.
+
+56
+00:06:44,492 --> 00:06:49,759
+So we'll just start with an easy question here just to get people going.
+
+57
+00:06:53,553 --> 00:06:55,329
+Muscle weighs more than fat.
+
+58
+00:06:56,297 --> 00:06:57,387
+True or false?
+
+59
+00:07:41,933 --> 00:07:45,199
+Okay, so we'll take a couple more seconds with this one.
+
+60
+00:07:47,022 --> 00:07:49,506
+If you need a little bit more time, let me know.
+
+61
+00:07:49,506 --> 00:07:51,910
+Yeah, no worries, no rush.
+
+62
+00:07:51,910 --> 00:07:54,174
+We'll take about another 30 seconds.
+
+63
+00:07:54,174 --> 00:08:00,665
+I'll check back in in 30 seconds here.
+
+64
+00:08:00,665 --> 00:08:06,675
+It's just a question to get you thinking about these different tissues.
+
+65
+00:08:21,674 --> 00:08:24,197
+Okay, does anyone need a little bit more time getting set up?
+
+66
+00:08:27,801 --> 00:08:30,565
+Okay, I'll close this down here in five seconds.
+
+67
+00:08:33,588 --> 00:08:36,091
+Three, two, one.
+
+68
+00:08:40,156 --> 00:08:46,344
+Okay, most of you are answering true, but like most
+
+69
+00:08:46,344 --> 00:08:49,113
+of these type of questions that I've shown you,
+
+70
+00:08:49,113 --> 00:08:50,195
+It depends, right?
+
+71
+00:08:50,195 --> 00:08:54,422
+So what's a better way that I could have worded this question?
+
+72
+00:08:56,366 --> 00:09:00,293
+Yeah, so which one is more dense?
+
+73
+00:09:00,293 --> 00:09:03,579
+That would probably be the better way to word this, but it
+
+74
+00:09:03,579 --> 00:09:07,507
+was just to get you to think about this concept that
+
+75
+00:09:07,507 --> 00:09:12,318
+Well, one pound of fat is the same thing as one pound of muscle.
+
+76
+00:09:13,139 --> 00:09:17,569
+The largest difference between these two tissues would be that
+
+77
+00:09:17,569 --> 00:09:21,999
+muscle is more dense and takes up less space.
+
+78
+00:09:21,999 --> 00:09:27,591
+If something's more dense for the same amount of weight, it just takes space.
+
+79
+00:09:29,191 --> 00:09:33,442
+So here on the left, this is always a fun picture to
+
+80
+00:09:33,442 --> 00:09:38,215
+look at, but if this is five pounds of fat, this would be five pounds of muscle.
+
+81
+00:09:43,408 --> 00:09:44,010
+Muscle.
+
+82
+00:09:45,847 --> 00:09:50,534
+weighs or takes up a large proportion of our total body weight.
+
+83
+00:09:50,534 --> 00:09:54,780
+Depending on each individual, it is different, but on average,
+
+84
+00:09:54,780 --> 00:09:58,946
+we're looking at more than 40 to 50% of your total body weight.
+
+85
+00:09:59,848 --> 00:10:03,033
+And there are over 600 skeletal muscles in the body.
+
+86
+00:10:03,974 --> 00:10:06,998
+Luckily, you do not need to worry about those
+
+87
+00:10:06,998 --> 00:10:11,986
+600 muscles because you've already taken anatomy, meaning you've already been tested on that, right?
+
+88
+00:10:11,986 --> 00:10:14,149
+I'm not gonna test you on all 600 here.
+
+89
+00:10:15,395 --> 00:10:19,419
+But let's look at the basic structure and function.
+
+90
+00:10:21,201 --> 00:10:27,587
+So anytime we start reviewing some of these concepts, remember that they are review.
+
+91
+00:10:27,587 --> 00:10:31,411
+You shouldn't spend a lot of time on them, but you should just know the basic understanding of it.
+
+92
+00:10:32,872 --> 00:10:37,157
+So skeletal muscles are attached to bones by tough connective tissues.
+
+93
+00:10:37,157 --> 00:10:38,778
+We call those tissues tendons.
+
+94
+00:10:41,001 --> 00:10:44,524
+One end of the muscle is attached to the bone that does not move.
+
+95
+00:10:45,483 --> 00:10:47,006
+we call that the origin.
+
+96
+00:10:48,208 --> 00:10:54,439
+The opposite end is fixed to a different bone and we call that the insertion.
+
+97
+00:10:55,381 --> 00:10:58,466
+And that one is moved during muscular contraction.
+
+98
+00:10:59,989 --> 00:11:07,542
+And so here we can look at the masseter muscle here and it's moving the mandible up and down here.
+
+99
+00:11:12,938 --> 00:11:16,642
+So this is kind of basic origin and insertion that
+
+100
+00:11:16,642 --> 00:11:21,628
+just helps us determine whether you're actually moving another bone.
+
+101
+00:11:21,628 --> 00:11:26,875
+We also want to get into the structure of the skeletal muscle.
+
+102
+00:11:26,875 --> 00:11:33,262
+So it's good to, or I recommend maybe starting here and then kind of working your way down.
+
+103
+00:11:33,262 --> 00:11:36,566
+You definitely can start lower and work your way up.
+
+104
+00:11:36,566 --> 00:11:38,268
+But if we are looking at
+
+105
+00:11:38,268 --> 00:11:41,030
+This little chart here, we go from muscle to fascicles
+
+106
+00:11:41,030 --> 00:11:46,295
+to cells or fibers, and then myofibrils, and then thick and thin filaments.
+
+107
+00:11:46,295 --> 00:11:48,998
+So here on the top, we have an entire muscle.
+
+108
+00:11:49,838 --> 00:11:55,583
+And then inside of this muscle bundle, we have our fascicle.
+
+109
+00:11:55,583 --> 00:11:58,546
+And then inside of the fascicle, we have a muscle fiber.
+
+110
+00:11:58,546 --> 00:12:01,669
+And then inside the fibers, we have myofibrils.
+
+111
+00:12:01,669 --> 00:12:07,414
+And then inside of there, we have our kind of contractile protein, the sarcomeres.
+
+112
+00:12:08,778 --> 00:12:12,325
+So these are kind of where we're actually generating the force.
+
+113
+00:12:18,477 --> 00:12:21,343
+We'll touch on this a little bit more, but the big
+
+114
+00:12:21,343 --> 00:12:24,850
+thing or I guess controversy that we kind of have or
+
+115
+00:12:24,850 --> 00:12:30,918
+debate in exercise physiology is can we increase the number of fibers?
+
+116
+00:12:30,918 --> 00:12:34,465
+And we'll touch on that, but in general, we typically
+
+117
+00:12:34,465 --> 00:12:38,393
+don't increase the number of fibers, we typically increase the
+
+118
+00:12:38,393 --> 00:12:42,080
+number of sarcomeres, and we do that in parallel.
+
+119
+00:12:42,080 --> 00:12:44,425
+But again, we'll touch on that when we get to that topic.
+
+120
+00:12:46,769 --> 00:12:52,619
+So, no, you don't have to memorize these, but if we start talking about
+
+121
+00:12:52,619 --> 00:12:58,989
+increase in muscle fibers or changes in muscle fibers, you know we're talking at this level.
+
+122
+00:12:58,989 --> 00:13:01,913
+If we're talking about sarcomeres, we're talking at this level here.
+
+123
+00:13:05,979 --> 00:13:10,065
+Okay, but we don't just have a bunch of muscle fibers or sarcomeres.
+
+124
+00:13:10,065 --> 00:13:15,133
+We have other structures that are very important in muscular contractions.
+
+125
+00:13:16,700 --> 00:13:18,843
+For example, we have mitochondria, we have the
+
+126
+00:13:18,843 --> 00:13:24,833
+transverse T-tubules, we have sarcoplasma, sarcolemma, we have all
+
+127
+00:13:24,833 --> 00:13:28,058
+kinds of things that are associated with the muscle fiber.
+
+128
+00:13:31,964 --> 00:13:34,688
+Some of the more important organelles that we will be
+
+129
+00:13:34,688 --> 00:13:42,420
+focusing on will be the mitochondria as well as some of the nuclei that are surrounding the muscle fiber.
+
+130
+00:13:44,257 --> 00:13:47,883
+So skeletal muscle fibers are very unique because they have
+
+131
+00:13:47,883 --> 00:13:55,094
+a lot of nuclei among or around the entire length of the muscle fiber.
+
+132
+00:14:00,582 --> 00:14:04,428
+And as far as the mitochondria, this also makes sense
+
+133
+00:14:04,428 --> 00:14:10,618
+to me because if these contractile proteins are in high demand of energy,
+
+134
+00:14:11,662 --> 00:14:16,087
+Well, we would need the organelles that are responsible for generating a lot of energy.
+
+135
+00:14:17,068 --> 00:14:22,795
+So we have a lot of mitochondria on the surface and within the muscle cells.
+
+136
+00:14:26,179 --> 00:14:33,408
+Two distinct mitochondria or subpopulations of mitochondria that we'll be focusing on.
+
+137
+00:14:33,408 --> 00:14:37,753
+One would be the subsarcolemia mitochondria or the SS mitochondria.
+
+138
+00:14:38,729 --> 00:14:44,617
+This is located directly underneath the cell membrane or the sarcolemma.
+
+139
+00:14:49,163 --> 00:14:54,110
+These mitochondria are more important or they kind of
+
+140
+00:14:54,110 --> 00:14:58,355
+supply the majority of the energy, the cellular energy to
+
+141
+00:14:58,355 --> 00:15:01,800
+maintain active transport of ions across the sarcolemma.
+
+142
+00:15:03,299 --> 00:15:07,945
+Does anyone remember, you don't need to know this, but sometimes it's nice to think about it,
+
+143
+00:15:07,945 --> 00:15:11,850
+but does anyone remember what those transporters are or
+
+144
+00:15:11,850 --> 00:15:16,896
+what they're called or what they're transporting or moving across the sarcolemma?
+
+145
+00:15:20,480 --> 00:15:21,001
+Any ideas?
+
+146
+00:15:23,804 --> 00:15:24,085
+Say again?
+
+147
+00:15:25,587 --> 00:15:32,395
+So yeah, not in this instance, but maybe just to establish the membrane potential.
+
+148
+00:15:33,877 --> 00:15:36,080
+Yeah, the sodium potassium pumps.
+
+149
+00:15:36,080 --> 00:15:38,143
+So that's essentially what they are powering here.
+
+150
+00:15:39,685 --> 00:15:45,834
+OK, the intermyofibular mitochondria or the IMF, these are
+
+151
+00:15:45,834 --> 00:15:52,283
+located near the myofibular proteins or those contractile proteins.
+
+152
+00:15:53,685 --> 00:15:58,872
+These are the mitochondria that are supplying the ATP needed for contraction.
+
+153
+00:16:03,627 --> 00:16:06,757
+This is just a longitudinal section of a skeletal
+
+154
+00:16:06,757 --> 00:16:12,675
+muscle that are showing the different mitochondria that are kind of dispersed along these cells.
+
+155
+00:16:16,587 --> 00:16:23,497
+OK, so how do we go from a single cell to these muscle fibers?
+
+156
+00:16:23,497 --> 00:16:25,580
+Well, we have these myoblasts.
+
+157
+00:16:25,580 --> 00:16:29,445
+They differentiate into satellite cells.
+
+158
+00:16:29,445 --> 00:16:31,228
+They get some nuclei.
+
+159
+00:16:31,228 --> 00:16:33,691
+And then you have an immature muscle fiber that then
+
+160
+00:16:33,691 --> 00:16:36,435
+eventually develops into this muscle fiber in itself.
+
+161
+00:16:39,335 --> 00:16:45,382
+So the key piece here which we'll talk about would be the myoblasts and then the satellite cells.
+
+162
+00:16:45,382 --> 00:16:50,569
+It's kind of the focus that this slide is trying to get you to look at here.
+
+163
+00:16:53,132 --> 00:16:55,154
+What are satellite cells?
+
+164
+00:16:55,154 --> 00:17:01,782
+Well, satellite cells are important cells that play a role in muscle growth and repair.
+
+165
+00:17:04,546 --> 00:17:09,431
+If an individual is in the process of creating more
+
+166
+00:17:09,431 --> 00:17:18,501
+muscle fibers or even, I guess, sarcomeres, we increase the number of satellite cells.
+
+167
+00:17:20,503 --> 00:17:23,426
+In addition, we increase the number of nuclei.
+
+168
+00:17:28,892 --> 00:17:33,777
+So, more nuclei allow for greater protein synthesis.
+
+169
+00:17:35,393 --> 00:17:40,239
+we are reliant on these nuclei for muscle growth.
+
+170
+00:17:42,141 --> 00:17:46,366
+Because of that, if we increase a lot of these nuclei,
+
+171
+00:17:48,649 --> 00:17:56,659
+we typically see a large change in those numbers as we experience hypertrophy or muscle growth.
+
+172
+00:17:58,175 --> 00:18:03,004
+The nice thing about that, these nuclei are slow
+
+173
+00:18:03,004 --> 00:18:06,811
+to degrade compared to the actual muscles themselves.
+
+174
+00:18:06,811 --> 00:18:14,686
+So the sarcomeres kind of reduce at a faster rate compared to the nuclei.
+
+175
+00:18:15,628 --> 00:18:19,575
+And so when you get some type of atrophy or loss of muscle,
+
+176
+00:18:20,500 --> 00:18:25,205
+you maintain the nuclei that are surrounding the fibers.
+
+177
+00:18:25,205 --> 00:18:31,171
+And so it takes a shorter time to get you back to the previous state of hypertrophy.
+
+178
+00:18:38,058 --> 00:18:39,700
+So here we have that untrained individual.
+
+179
+00:18:39,700 --> 00:18:43,884
+You get the satellite cell fusion that are going to increase the number of nuclei.
+
+180
+00:18:43,884 --> 00:18:47,973
+And that's going to really help with hypertrophy.
+
+181
+00:18:47,973 --> 00:18:57,007
+If you are under a state of detraining or atrophy, you will maintain the number of nuclei.
+
+182
+00:18:57,007 --> 00:19:01,554
+That way retraining becomes a lot easier or you decrease the
+
+183
+00:19:01,554 --> 00:19:04,177
+time to get to the same level of hypertrophy.
+
+184
+00:19:11,849 --> 00:19:13,812
+Okay, functions of skeletal muscle.
+
+185
+00:19:15,277 --> 00:19:19,604
+Ultimately, we think of skeletal muscle as force production cells
+
+186
+00:19:20,506 --> 00:19:23,991
+that really help us do work as far as mechanical work.
+
+187
+00:19:25,313 --> 00:19:30,602
+We also produce force in order for us to move air in and out of our lungs.
+
+188
+00:19:32,455 --> 00:19:36,787
+Everyone right now is experiencing some sort of postural support.
+
+189
+00:19:36,787 --> 00:19:39,334
+So me standing up right now, are you sitting, right?
+
+190
+00:19:39,334 --> 00:19:42,122
+We're able to maintain posture, and that's because our
+
+191
+00:19:42,122 --> 00:19:46,414
+muscles are using some sort of force production.
+
+192
+00:19:47,272 --> 00:19:50,175
+The one piece that I know we all know about but
+
+193
+00:19:50,175 --> 00:19:56,943
+we kind of forget sometimes would be that our muscles are extremely good at generating heat.
+
+194
+00:19:57,864 --> 00:20:00,347
+We kind of touched on this concept before because our
+
+195
+00:20:00,347 --> 00:20:04,913
+muscles or our body's ability to convert food energy into
+
+196
+00:20:04,913 --> 00:20:11,060
+actual kind of mechanical work, it's not very good at that, right?
+
+197
+00:20:11,060 --> 00:20:12,121
+We're not very efficient.
+
+198
+00:20:13,923 --> 00:20:15,925
+We actually generate
+
+199
+00:20:15,925 --> 00:20:21,811
+a substantial amount of heat when we are converting some of the energy in our bodies.
+
+200
+00:20:23,172 --> 00:20:24,334
+So this is the piece right here.
+
+201
+00:20:27,297 --> 00:20:30,500
+A more recent function of the skeletal muscle that I
+
+202
+00:20:30,500 --> 00:20:35,825
+kind of introduced in the previous unit would be muscle as an endocrine gland.
+
+203
+00:20:37,307 --> 00:20:42,372
+So skeletal muscles produce something called myokines during contraction.
+
+204
+00:20:44,427 --> 00:20:49,893
+Some of the signals that are believed to be sent are
+
+205
+00:20:49,893 --> 00:20:54,558
+dealing with glucose update as well as fatty acid oxidation.
+
+206
+00:20:57,501 --> 00:21:02,446
+These signals also promote blood vessel growth or capillary
+
+207
+00:21:02,446 --> 00:21:07,772
+density inside of the muscle or around the muscle.
+
+208
+00:21:07,772 --> 00:21:11,616
+And then they also promote liver glucose production and triglyceride breakdown.
+
+209
+00:21:13,705 --> 00:21:17,170
+There are other functions that we've kind of touched on.
+
+210
+00:21:17,170 --> 00:21:21,376
+One of those myokine signals were believed to help
+
+211
+00:21:21,376 --> 00:21:25,523
+with the glute four translocation to the surface of the membrane to bring glucose in.
+
+212
+00:21:29,388 --> 00:21:32,813
+Some other ones would be interleukin-6, IL-6.
+
+213
+00:21:33,695 --> 00:21:38,582
+This is just a pro and anti-inflammatory signal.
+
+214
+00:21:42,173 --> 00:21:48,963
+If we undergo kind of regular submaximal kind of moderate exercise intensity,
+
+215
+00:21:48,963 --> 00:21:55,052
+that can help promote an anti-inflammatory environment and
+
+216
+00:21:55,052 --> 00:21:59,539
+reduce some of that chronic inflammation and reduced risk of
+
+217
+00:21:59,539 --> 00:22:03,565
+heart disease and other types of metabolic disorders.
+
+218
+00:22:06,269 --> 00:22:11,080
+So we've kind of touched on this one already about
+
+219
+00:22:11,080 --> 00:22:15,284
+You know, this concept of inflammation and how acute
+
+220
+00:22:15,284 --> 00:22:18,787
+inflammation cannot necessarily always be a bad thing.
+
+221
+00:22:18,787 --> 00:22:21,770
+We always kind of label it as a bad thing, but it can be quite helpful.
+
+222
+00:22:22,931 --> 00:22:25,814
+Chronic inflammation is something that we try to reduce,
+
+223
+00:22:26,735 --> 00:22:29,778
+and regular exercise activity can help that.
+
+224
+00:22:33,602 --> 00:22:36,885
+Okay, muscle actions will be the next topic here.
+
+225
+00:22:39,346 --> 00:22:40,789
+This one's pretty straightforward, right?
+
+226
+00:22:40,789 --> 00:22:46,761
+We can either have some type of action where we're, if I'm looking at the joint angle,
+
+227
+00:22:46,761 --> 00:22:51,329
+my elbow here, I can flex and decrease the joint angle
+
+228
+00:22:51,329 --> 00:22:58,624
+here or I can extend and that's gonna increase the joint angle.
+
+229
+00:22:58,624 --> 00:23:02,431
+So these are two types of movements that we have.
+
+230
+00:23:02,431 --> 00:23:06,278
+But we also know we can produce quite a bit of
+
+231
+00:23:06,278 --> 00:23:13,129
+force without actually changing the length of the object or even the joint angle.
+
+232
+00:23:14,732 --> 00:23:20,743
+So static actions, static muscle actions are just when you
+
+233
+00:23:20,743 --> 00:23:27,915
+are trying to produce force, but you're not really changing any distance or muscle or joint angles.
+
+234
+00:23:30,747 --> 00:23:34,077
+So if I were to just press on this wall here, and
+
+235
+00:23:34,077 --> 00:23:37,227
+I'm trying to move the wall, well, the wall wouldn't move, but
+
+236
+00:23:37,227 --> 00:23:40,116
+I'm generating a lot of force and attempt to move the wall.
+
+237
+00:23:45,361 --> 00:23:48,965
+Okay, so now we have these three kind of
+
+238
+00:23:48,965 --> 00:23:55,913
+major muscle actions or force-generating pieces, right, flexion, extension, and static.
+
+239
+00:23:56,814 --> 00:24:03,902
+We wanna talk about going back to the flexion and extension, some type of dynamic movement.
+
+240
+00:24:03,902 --> 00:24:07,225
+So dynamic movement, we're just talking about movement, right?
+
+241
+00:24:07,225 --> 00:24:08,787
+If I have a static movement,
+
+242
+00:24:09,678 --> 00:24:13,922
+That's you can't really have static movement But if you have a static muscle
+
+243
+00:24:13,922 --> 00:24:21,190
+that muscles not moving if we have a dynamic muscle it is moving concentric Activities
+
+244
+00:24:21,190 --> 00:24:26,094
+or actions are when the muscle shortens during force production
+
+245
+00:24:30,799 --> 00:24:35,584
+So in this instance you would have an arm kind of holding a weight down here and
+
+246
+00:24:36,458 --> 00:24:40,124
+And moving it up, if we're talking about the bicep, the
+
+247
+00:24:40,124 --> 00:24:44,110
+bicep is flexing, and this is a concentric motion.
+
+248
+00:24:46,654 --> 00:24:48,738
+So muscle shortening during the force production.
+
+249
+00:24:49,859 --> 00:24:56,770
+Eccentric is where we have the force production, but the
+
+250
+00:24:56,770 --> 00:25:02,219
+joint angle, if we're talking about the bicep here, is getting larger.
+
+251
+00:25:02,219 --> 00:25:04,002
+So the length is increasing here.
+
+252
+00:25:06,631 --> 00:25:12,656
+These eccentric movements are extremely important when an individual
+
+253
+00:25:12,656 --> 00:25:15,979
+is trying to focus on muscle growth.
+
+254
+00:25:17,100 --> 00:25:19,783
+The reason being is it causes the majority of the
+
+255
+00:25:19,783 --> 00:25:27,209
+muscle fiber injury, then your body responds to that stress by hypertrophy or growing and repairing those.
+
+256
+00:25:28,030 --> 00:25:30,552
+But it is also associated with the majority of the
+
+257
+00:25:30,552 --> 00:25:35,136
+soreness that we experience during any type of weight-bearing exercise.
+
+258
+00:25:37,377 --> 00:25:39,580
+So this will be important when we start talking
+
+259
+00:25:39,580 --> 00:25:42,524
+about these concepts of muscle injury and soreness.
+
+260
+00:25:42,524 --> 00:25:46,330
+It's the eccentric motions that are causing the most damage.
+
+261
+00:25:50,596 --> 00:25:53,239
+Okay, this is a little summary slide of everything that
+
+262
+00:25:53,239 --> 00:25:55,863
+we just kinda went over on the muscle actions.
+
+263
+00:25:55,863 --> 00:26:00,870
+So if you would like to kind of review things, this might be a good table to look at.
+
+264
+00:26:01,897 --> 00:26:04,920
+So if in a couple weeks you can look at the slide
+
+265
+00:26:04,920 --> 00:26:13,588
+and you can define all these terms here, you're gonna be in good shape.
+
+266
+00:26:13,588 --> 00:26:18,152
+Okay, muscles just can't contract on their own.
+
+267
+00:26:18,152 --> 00:26:22,896
+They need to be sent a signal to tell the muscles to contract.
+
+268
+00:26:23,997 --> 00:26:29,642
+This is where we get into this neural muscular junction and contraction topic here.
+
+269
+00:26:30,972 --> 00:26:33,639
+But before we do that, it's nice to talk about
+
+270
+00:26:33,639 --> 00:26:36,548
+the peripheral nervous system and the central nervous system here.
+
+271
+00:26:37,591 --> 00:26:41,782
+So the central nervous system is the brain and the spinal cord, right?
+
+272
+00:26:41,782 --> 00:26:46,315
+So we're just talking about the central or the center of the body.
+
+273
+00:26:47,729 --> 00:26:50,092
+This is also a good point to talk about, like if
+
+274
+00:26:50,092 --> 00:26:53,577
+you've ever heard, you may have seen this question already,
+
+275
+00:26:53,577 --> 00:26:58,623
+but if we talk about central versus peripheral fatigue, this is kind of what it's referring to.
+
+276
+00:26:58,623 --> 00:27:04,311
+Maybe central nervous system is responsible for some of that fatigue versus the periphery.
+
+277
+00:27:06,434 --> 00:27:08,917
+Okay, peripheral nervous system is over here.
+
+278
+00:27:09,958 --> 00:27:12,281
+We're gonna be looking at the motor division.
+
+279
+00:27:12,281 --> 00:27:17,834
+There are two branches, somatic as well as the autonomic.
+
+280
+00:27:17,834 --> 00:27:23,081
+we're gonna be focusing on the somatic nervous system for these skeletal muscles.
+
+281
+00:27:27,427 --> 00:27:30,932
+Okay, somatic motor neurons of the peripheral nervous
+
+282
+00:27:30,932 --> 00:27:36,779
+system are responsible for sending that signal from the spinal cord to the skeletal muscles.
+
+283
+00:27:37,821 --> 00:27:41,586
+So when I'm telling my arm to move, that signal's coming
+
+284
+00:27:41,586 --> 00:27:46,913
+from the brain moving all the way down and getting the arm to move through the somatic motor neurons.
+
+285
+00:27:49,913 --> 00:27:57,546
+Each one of these neurons, motor neurons, are synapsing on a number of different fibers.
+
+286
+00:28:00,330 --> 00:28:04,898
+We can compile or kind of categorize the motor neuron
+
+287
+00:28:04,898 --> 00:28:09,545
+and all the fibers that it happens to innervate as a motor unit.
+
+288
+00:28:10,767 --> 00:28:16,056
+So if we have this motor neuron here and it's synapsing on these different fibers,
+
+289
+00:28:17,048 --> 00:28:23,236
+Well, the neuron as well as the fibers in that junction is the motor unit.
+
+290
+00:28:29,384 --> 00:28:37,074
+Here's just another kind of figure showing that motor unit.
+
+291
+00:28:37,074 --> 00:28:41,740
+So we have the neuron here, and it's synapsing on these different fibers here.
+
+292
+00:28:46,934 --> 00:28:53,024
+This synapse here kind of forms a motor end plate.
+
+293
+00:28:54,025 --> 00:28:59,895
+So this pocket formed around the motor neuron by the sarcolemma here.
+
+294
+00:29:01,798 --> 00:29:08,368
+We can then zoom in on this area here to kind of just see the motor end plate.
+
+295
+00:29:14,221 --> 00:29:17,245
+So if you remember, we're going to just review some of this physiology.
+
+296
+00:29:17,245 --> 00:29:18,626
+You get that signal from the brain.
+
+297
+00:29:18,626 --> 00:29:19,948
+It goes all the way down.
+
+298
+00:29:19,948 --> 00:29:22,691
+We get to that motor end plate or that junction.
+
+299
+00:29:24,213 --> 00:29:27,417
+Calcium is rushing in kind of into the motor neuron.
+
+300
+00:29:27,417 --> 00:29:29,760
+And then from there, acetylcholine is released.
+
+301
+00:29:29,760 --> 00:29:31,542
+It then binds to the sarcolemma.
+
+302
+00:29:31,542 --> 00:29:34,586
+And then you get that signal to go down the T-tubule.
+
+303
+00:29:34,586 --> 00:29:36,128
+We're going to talk about all that.
+
+304
+00:29:36,128 --> 00:29:38,550
+And then you get into the sarcoplasmic reticulum.
+
+305
+00:29:38,550 --> 00:29:41,494
+Calcium comes out in that whole fun process.
+
+306
+00:29:43,347 --> 00:29:48,893
+But before we do that, we need to talk about what is that kind of functional unit.
+
+307
+00:29:51,637 --> 00:29:54,340
+This is the functional unit.
+
+308
+00:29:54,340 --> 00:29:58,384
+So sarcomeres are that functional unit that we're gonna be talking about.
+
+309
+00:29:58,384 --> 00:30:02,629
+They contain specialized arrangements of thin and thick filaments.
+
+310
+00:30:03,590 --> 00:30:05,573
+When we're talking about the thin filaments, we're
+
+311
+00:30:05,573 --> 00:30:08,356
+talking about the actin, tropomyosin, and troponin.
+
+312
+00:30:09,677 --> 00:30:11,920
+The thick filaments are the myosin.
+
+313
+00:30:15,258 --> 00:30:19,063
+To make sure we can kind of understand the movement of
+
+314
+00:30:19,063 --> 00:30:27,454
+the sarcomere, we need to make sure we remember or review some of the major components of a sarcomere.
+
+315
+00:30:27,454 --> 00:30:33,242
+So we have our Z line, our M line, kind of the I band, A band, and the H zone.
+
+316
+00:30:35,244 --> 00:30:37,728
+All of those can be found up here, right?
+
+317
+00:30:37,728 --> 00:30:42,514
+So we have our M line, which is basically this centerpiece right here.
+
+318
+00:30:44,738 --> 00:30:49,484
+And then if we want the Z disk, we're looking at this
+
+319
+00:30:49,484 --> 00:30:57,193
+kind of Z structure or Z pattern right here, which is also in this piece right here.
+
+320
+00:30:59,035 --> 00:31:08,718
+If we want to look at the I band, it would be kind of the spacing between the myosin.
+
+321
+00:31:08,718 --> 00:31:15,045
+So if we're looking at this spacing that's over the Z disc, that would be this I band.
+
+322
+00:31:18,028 --> 00:31:23,554
+And then the A band would be just the length of these thick filaments right here.
+
+323
+00:31:23,554 --> 00:31:25,396
+So if we're looking at the A band, we're over here.
+
+324
+00:31:26,658 --> 00:31:34,907
+And then the H zone would just be in this kind of in between the thin filaments.
+
+325
+00:31:34,907 --> 00:31:38,691
+So between this one and this one would be the H zone here.
+
+326
+00:31:39,768 --> 00:31:43,571
+And we're gonna basically be closing in on the H zone during contraction.
+
+327
+00:31:45,193 --> 00:31:47,495
+Or you would reduce the H zone.
+
+328
+00:31:50,258 --> 00:31:53,180
+So no worries if you don't remember this from anatomy,
+
+329
+00:31:53,180 --> 00:31:58,265
+physiology, but you'll just spend a little bit of time reviewing these pieces here.
+
+330
+00:32:03,190 --> 00:32:07,713
+Okay, so how do we actually get a muscular contraction?
+
+331
+00:32:07,713 --> 00:32:11,659
+Well, this is happening due to something called the sliding filament model.
+
+332
+00:32:14,122 --> 00:32:16,826
+So we can get that H zone to kind of
+
+333
+00:32:16,826 --> 00:32:23,196
+compress by shortening these sarcomeres, or these muscles, due to
+
+334
+00:32:23,196 --> 00:32:26,621
+the movement of the thin filament over the thick filament.
+
+335
+00:32:28,523 --> 00:32:31,768
+In order for those two to make a connection and
+
+336
+00:32:31,768 --> 00:32:35,914
+have that movement, we need to form something called a cross bridge.
+
+337
+00:32:39,742 --> 00:32:44,450
+Once you make that cross bridge, those myosin heads can
+
+338
+00:32:44,450 --> 00:32:51,242
+then pull on those thin filaments and again cause the sarcomere to kind of shorten or contract.
+
+339
+00:32:54,067 --> 00:33:02,442
+When that sarcomere does contract, we can see the spacing here changes.
+
+340
+00:33:06,050 --> 00:33:12,457
+So we're reducing the distance between the z lines of each sarcomere that's lined up.
+
+341
+00:33:12,457 --> 00:33:14,059
+So if we have one sarcomere on the other one.
+
+342
+00:33:22,288 --> 00:33:26,993
+If you are bringing the z lines closer to each other, you're also closing this gap here.
+
+343
+00:33:29,416 --> 00:33:34,622
+As you can see with these kind of subsequent figures.
+
+344
+00:33:43,225 --> 00:33:48,994
+Okay, let's take a few minutes, just in case, if you
+
+345
+00:33:48,994 --> 00:33:54,163
+haven't already, and label the diagram of the sarcomere with the appropriate terms.
+
+346
+00:33:55,765 --> 00:33:57,829
+So we'll take a couple minutes.
+
+347
+00:33:57,829 --> 00:34:01,234
+This will be a nice little break for you to review some of these pieces.
+
+348
+00:36:08,806 --> 00:36:10,148
+Okay, how are we doing with this one?
+
+349
+00:36:11,329 --> 00:36:12,892
+Doing okay?
+
+350
+00:36:12,892 --> 00:36:13,913
+Anyone need a little more time?
+
+351
+00:36:19,140 --> 00:36:23,887
+Okay, so I would say it would be good, we won't spend too much time on this
+
+352
+00:36:23,887 --> 00:36:27,672
+because I've already went through it, but it would be good
+
+353
+00:36:27,672 --> 00:36:33,179
+to make sure and fill in this chart or circle the correct answer.
+
+354
+00:36:36,203 --> 00:36:37,932
+That way,
+
+355
+00:36:37,932 --> 00:36:41,040
+you can prepare yourself for questions like this one.
+
+356
+00:36:45,974 --> 00:36:50,245
+During a bicep curl, the sarcomeres within the biceps brachii shorten.
+
+357
+00:36:51,128 --> 00:36:53,494
+What else will shorten within the sarcomere?
+
+358
+00:38:23,975 --> 00:38:33,229
+All right, let's take maybe 30 more seconds on this one, unless you need more time.
+
+359
+00:38:33,229 --> 00:38:34,631
+I'll check back in in 30 seconds.
+
+360
+00:38:40,620 --> 00:38:47,210
+Not that I need to remind you, but is there anything going on with the clicker questions?
+
+361
+00:38:47,210 --> 00:38:53,239
+Is there any unique advantage to getting the clicker questions right?
+
+362
+00:38:55,193 --> 00:38:55,595
+Say again?
+
+363
+00:38:56,841 --> 00:38:57,544
+Yeah, yeah.
+
+364
+00:38:57,544 --> 00:39:01,926
+So if we can get 100%, I'm gonna put it on the exam.
+
+365
+00:39:01,926 --> 00:39:04,056
+So just throwing that out there.
+
+366
+00:39:32,926 --> 00:39:48,336
+Thank you.
+
+367
+00:40:03,689 --> 00:40:07,753
+Okay, I'll close this one up here in 10 seconds.
+
+368
+00:40:11,157 --> 00:40:13,219
+Double check that you have something in.
+
+369
+00:40:16,222 --> 00:40:19,205
+All right, three, two, one.
+
+370
+00:40:23,490 --> 00:40:25,612
+Okay, nice job, nice job.
+
+371
+00:40:28,415 --> 00:40:32,599
+The correct answer is E.
+
+372
+00:40:35,093 --> 00:40:44,225
+And B. So if you remember, the H zone and the I band do shorten or you kind of close those areas.
+
+373
+00:40:44,225 --> 00:40:47,449
+The A band is just the length of the thick filaments.
+
+374
+00:40:47,449 --> 00:40:49,211
+So that'll never really change.
+
+375
+00:40:52,656 --> 00:40:56,741
+So here's that H zone here and then the I band over here.
+
+376
+00:40:58,123 --> 00:41:03,109
+The A band is just, again, the length of the thick filaments.
+
+377
+00:41:09,569 --> 00:41:12,976
+Okay, you probably knew this was coming, but we're
+
+378
+00:41:12,976 --> 00:41:19,769
+gonna talk about the relationships among troponin, tropomycin, mycin, and calcium.
+
+379
+00:41:19,769 --> 00:41:19,909
+Right?
+
+380
+00:41:22,254 --> 00:41:22,735
+So.
+
+381
+00:41:24,453 --> 00:41:28,037
+We already talked about this, but if you just remember,
+
+382
+00:41:28,037 --> 00:41:32,183
+calcium is gonna be released from the sarcoplasmic reticulum, and
+
+383
+00:41:32,183 --> 00:41:35,306
+then you're gonna get that calcium to bind to troponin.
+
+384
+00:41:35,306 --> 00:41:38,410
+That's gonna cause a conformational change in these
+
+385
+00:41:38,410 --> 00:41:41,995
+little strands right here called the tropomycin.
+
+386
+00:41:41,995 --> 00:41:45,639
+That's gonna reveal the actin binding site, and that's gonna
+
+387
+00:41:45,639 --> 00:41:51,166
+allow for these myosin heads here to then bind and form a cross bridge.
+
+388
+00:41:51,166 --> 00:41:57,258
+and then you'll have that movement or these heads pivot in order for us to get that power stroke.
+
+389
+00:42:01,607 --> 00:42:09,343
+To have all of this continue to cycle, we need energy during this process.
+
+390
+00:42:10,690 --> 00:42:17,061
+So ATP is required for muscular contraction, but I mean,
+
+391
+00:42:17,061 --> 00:42:20,788
+we know overall it's part of the contraction, but the actual
+
+392
+00:42:20,788 --> 00:42:29,543
+role for ATP, does anyone remember what the ATP directly does when it kind of gets to the myosin head?
+
+393
+00:42:34,636 --> 00:42:37,919
+Yeah, so that actually causes the release of the myosin
+
+394
+00:42:37,919 --> 00:42:40,161
+head and then you have the interactions to kind of get it
+
+395
+00:42:40,161 --> 00:42:43,464
+into the kind of high energy state a little bit later.
+
+396
+00:42:43,464 --> 00:42:45,466
+That way you don't waste any time.
+
+397
+00:42:45,466 --> 00:42:48,909
+So as soon as that actin site is available or that
+
+398
+00:42:48,909 --> 00:42:52,112
+binding site is available, then the myosin head will grab onto it.
+
+399
+00:42:52,112 --> 00:42:56,336
+So you don't have to waste time into getting into that kind of high energy state.
+
+400
+00:42:57,156 --> 00:43:03,982
+But myosin ATPase breaks down the ATP as the fiber contracts.
+
+401
+00:43:03,982 --> 00:43:06,606
+This is kind of that interaction that we've already
+
+402
+00:43:06,606 --> 00:43:10,032
+kind of touched on before, where you're breaking the ATP down
+
+403
+00:43:10,032 --> 00:43:15,801
+into ADP, but it releases a phosphate as well as some energy.
+
+404
+00:43:19,587 --> 00:43:22,772
+We don't need to spend time right now going
+
+405
+00:43:22,772 --> 00:43:28,120
+through the ATP sources for muscular contraction because we've already done that.
+
+406
+00:43:28,120 --> 00:43:31,305
+But this might be a quick review slide that might be helpful.
+
+407
+00:43:34,795 --> 00:43:38,240
+Even though I already did it for you, let's
+
+408
+00:43:38,240 --> 00:43:45,249
+place the five stages of the excitation-contraction coupling in the correct order.
+
+409
+00:43:46,651 --> 00:43:50,216
+Use one for the earliest event and five for the latest event.
+
+410
+00:43:51,217 --> 00:43:56,885
+If you need some reference on the order, the one is up
+
+411
+00:43:56,885 --> 00:44:02,693
+here and the five is down here, and start labeling the appropriate ones
+
+412
+00:44:03,618 --> 00:44:05,443
+for the descriptions down here.
+
+413
+00:45:34,692 --> 00:45:36,194
+Okay, are we doing pretty good with this one?
+
+414
+00:45:38,458 --> 00:45:39,960
+You're like, ah, it's too easy.
+
+415
+00:45:40,922 --> 00:45:42,845
+Well, let's see how easy it was.
+
+416
+00:45:50,116 --> 00:45:51,899
+Reading from top to bottom.
+
+417
+00:45:51,899 --> 00:45:57,207
+What are the five steps of the excitation contraction coupling?
+
+418
+00:46:38,159 --> 00:46:44,037
+OK, let's go another 20 seconds, 30.
+
+419
+00:46:46,164 --> 00:46:47,528
+We'll go 30 seconds from here.
+
+420
+00:47:12,196 --> 00:47:13,518
+Okay, does anyone need a little more time?
+
+421
+00:47:16,302 --> 00:47:20,748
+Okay, I'll close it down in three, two, one.
+
+422
+00:47:26,377 --> 00:47:27,779
+All right, nice job.
+
+423
+00:47:27,779 --> 00:47:30,563
+Most of us got this correct.
+
+424
+00:47:32,005 --> 00:47:40,397
+We are looking for D. No, oh, you wanna see, yeah.
+
+425
+00:47:44,748 --> 00:47:45,989
+87.
+
+426
+00:47:45,989 --> 00:47:47,191
+That's not bad, though.
+
+427
+00:47:47,191 --> 00:47:47,952
+That's good.
+
+428
+00:47:47,952 --> 00:47:48,372
+That's good.
+
+429
+00:47:49,293 --> 00:47:49,494
+OK.
+
+430
+00:47:50,315 --> 00:47:52,037
+So the first one we're going to be dealing
+
+431
+00:47:52,037 --> 00:47:57,743
+with, action potential stimulates acetylcholine release at the neuromuscular junction.
+
+432
+00:47:57,743 --> 00:48:02,008
+Acetylcholine produces that action potential that then propagates
+
+433
+00:48:02,008 --> 00:48:05,072
+across the sarcolemma down the T-tubule.
+
+434
+00:48:05,072 --> 00:48:10,338
+Action potential gets calcium to be released from the sarcoplasmic reticulum.
+
+435
+00:48:10,338 --> 00:48:12,541
+Calcium binds the troponin.
+
+436
+00:48:12,541 --> 00:48:16,807
+initiate tropomycin displacement, revealing those binding sites, and
+
+437
+00:48:16,807 --> 00:48:19,290
+then you get the mycin forming the cross bridge.
+
+438
+00:48:20,352 --> 00:48:25,820
+Okay, so then when you get the cross bridge, what happens?
+
+439
+00:48:27,522 --> 00:48:33,290
+So let's place the following seven stages of the cross bridge cycling in the correct order.
+
+440
+00:48:34,392 --> 00:48:37,536
+You probably know what's coming after this, so.
+
+441
+00:50:05,215 --> 00:50:10,562
+I guess technically you only had to do six stages, because you have the first one at least.
+
+442
+00:50:14,647 --> 00:50:29,586
+Okay, when you're ready, let's put them in order, rating from top to bottom here.
+
+443
+00:53:57,770 --> 00:54:05,441
+Okay, let's take a couple more seconds with this, unless someone needs a little more time.
+
+444
+00:54:09,667 --> 00:54:12,912
+We have, I think, one clicker missing.
+
+445
+00:54:15,856 --> 00:54:17,438
+I'll close it down in 10 seconds here.
+
+446
+00:54:22,546 --> 00:54:27,473
+Five, three, two, one.
+
+447
+00:54:29,663 --> 00:54:32,586
+Okay, how did we do?
+
+448
+00:54:32,586 --> 00:54:37,170
+We did great, nice job.
+
+449
+00:54:40,773 --> 00:54:48,079
+Okay, yes, the correct answer would be B. So we can,
+
+450
+00:54:48,079 --> 00:54:52,904
+you can kind of look through these and view them on your own time here.
+
+451
+00:54:52,904 --> 00:54:57,848
+So hopefully this was a little bit of review from physiology as well as anatomy.
+
+452
+00:54:59,077 --> 00:55:08,507
+But overall, these steps are pretty important for you to understand so we know
+
+453
+00:55:08,507 --> 00:55:12,691
+if there was an issue at one of these steps because
+
+454
+00:55:12,691 --> 00:55:17,877
+of exercise or because of something going on, it's nice
+
+455
+00:55:17,877 --> 00:55:21,361
+to know where in that process something's being disturbed.
+
+456
+00:55:23,663 --> 00:55:24,544
+For example,
+
+457
+00:55:28,203 --> 00:55:30,727
+I know I'm hitting you with a lot of clicker questions
+
+458
+00:55:30,727 --> 00:55:35,834
+today, but I'm trying to give some relevant type questions.
+
+459
+00:55:35,834 --> 00:55:40,741
+If an athlete takes a drug that increases calcium release from the sarcoplasmic reticulum,
+
+460
+00:55:40,741 --> 00:55:44,226
+but it does not enhance muscle contraction, it is
+
+461
+00:55:44,226 --> 00:55:47,150
+suspected that the drug accidentally bound to the thin filament,
+
+462
+00:55:48,172 --> 00:55:50,635
+blockade of which structure in the thin filament would
+
+463
+00:55:50,635 --> 00:55:53,299
+prevent calcium binding and skeletal muscle contraction.
+
+464
+00:56:59,918 --> 00:57:03,047
+OK, how are we doing with this one?
+
+465
+00:57:04,652 --> 00:57:05,273
+A little more time?
+
+466
+00:57:07,921 --> 00:57:09,164
+See one or two nods.
+
+467
+00:57:10,950 --> 00:57:13,236
+Let's go another 20 seconds then.
+
+468
+00:57:32,234 --> 00:57:37,442
+All right, I'll close this down in three, two, one.
+
+469
+00:57:38,563 --> 00:57:41,548
+Oh, we're getting more clickers.
+
+470
+00:57:41,548 --> 00:57:43,130
+Now I'll close it down.
+
+471
+00:57:43,130 --> 00:57:45,774
+Three, two, one.
+
+472
+00:57:48,658 --> 00:57:49,579
+Okay, how'd we do?
+
+473
+00:57:52,564 --> 00:57:54,086
+Oh, I thought we were, that's okay.
+
+474
+00:57:54,086 --> 00:57:54,687
+No, this is good.
+
+475
+00:57:55,608 --> 00:57:56,910
+This is good.
+
+476
+00:57:56,910 --> 00:57:57,191
+Okay.
+
+477
+00:57:59,634 --> 00:58:01,617
+So the correct answer is D.
+
+478
+00:58:03,908 --> 00:58:06,512
+Does the structure of this clicker question look familiar?
+
+479
+00:58:06,512 --> 00:58:09,317
+Does that seem like close to the exams?
+
+480
+00:58:09,317 --> 00:58:10,298
+Okay.
+
+481
+00:58:10,298 --> 00:58:15,987
+So, hopefully I can keep giving exam-style questions on
+
+482
+00:58:15,987 --> 00:58:19,754
+these clicker questions to get you thinking.
+
+483
+00:58:19,754 --> 00:58:24,498
+If someone was trying to enhance contractions by increasing
+
+484
+00:58:24,498 --> 00:58:27,821
+the amount of calcium that's being released, you first have
+
+485
+00:58:27,821 --> 00:58:33,667
+to recognize what calcium is doing in that entire process.
+
+486
+00:58:33,667 --> 00:58:37,570
+Calcium, getting released from the sarcoplasmic reticulum, is
+
+487
+00:58:37,570 --> 00:58:42,755
+binding to troponin, and that way you can initiate that
+
+488
+00:58:42,755 --> 00:58:45,898
+whole cross-bridge cycle to get that muscle contraction.
+
+489
+00:58:46,838 --> 00:58:50,298
+If I take a drug, or I take anything,
+
+490
+00:58:50,298 --> 00:58:55,386
+and inadvertently that drug also binds to something that
+
+491
+00:58:55,386 --> 00:59:01,356
+blocks any type of myosin head from binding to an area
+
+492
+00:59:01,356 --> 00:59:06,485
+or from tropomyosin from even moving, that would be a big problem.
+
+493
+00:59:06,485 --> 00:59:13,757
+In this one, the problem is that calcium cannot bind to something to move tropomyosin.
+
+494
+00:59:15,880 --> 00:59:18,806
+In that instance, the only thing that could be would
+
+495
+00:59:18,806 --> 00:59:21,632
+be the binding site for calcium, which is troponin.
+
+496
+00:59:23,496 --> 00:59:24,719
+Are we OK with this question?
+
+497
+00:59:25,781 --> 00:59:28,707
+Does anyone have any comments or concerns?
+
+498
+00:59:29,749 --> 00:59:30,952
+Or maybe even in the wording?
+
+499
+00:59:35,481 --> 00:59:35,762
+OK.
+
+500
+00:59:42,172 --> 00:59:45,797
+Okay, let's move on to exercise-associated muscle cramps.
+
+501
+00:59:47,860 --> 00:59:50,384
+This is just a clicker-filled day today.
+
+502
+00:59:51,645 --> 00:59:52,447
+True or false?
+
+503
+00:59:53,328 --> 00:59:56,412
+Salt tablets, bananas, pickle juice, and sports drinks
+
+504
+00:59:56,412 --> 01:00:00,518
+can prevent and relieve exercise-induced muscle cramps.
+
+505
+01:00:32,324 --> 01:00:34,566
+Okay, let's go 20 more seconds here.
+
+506
+01:00:42,315 --> 01:00:43,095
+Five clickers.
+
+507
+01:00:45,858 --> 01:00:48,761
+Three, two, one more.
+
+508
+01:00:51,765 --> 01:00:57,190
+Okay, I'll close this down in three, two, one.
+
+509
+01:01:00,594 --> 01:01:01,079
+Okay.
+
+510
+01:01:01,079 --> 01:01:05,567
+I like to show this only because it's nice to see where everyone's at, right?
+
+511
+01:01:06,548 --> 01:01:08,151
+Most people are saying true here.
+
+512
+01:01:09,533 --> 01:01:13,039
+I'm not gonna grade it because we're gonna talk about this here.
+
+513
+01:01:13,039 --> 01:01:17,367
+I hope I get a lot of feedback here from the group.
+
+514
+01:01:19,991 --> 01:01:21,113
+Okay, muscle cramps.
+
+515
+01:01:22,493 --> 01:01:27,759
+Muscle cramps could be kind of defined as a
+
+516
+01:01:27,759 --> 01:01:32,184
+kind of involuntary muscle contraction that's happening at maybe a
+
+517
+01:01:32,184 --> 01:01:37,209
+higher rate and you kind of feel your muscles tense up, right?
+
+518
+01:01:37,209 --> 01:01:40,012
+So you get that muscle cramp.
+
+519
+01:01:40,012 --> 01:01:45,278
+Often, people associate this with prolonged high-intensity exercise.
+
+520
+01:01:46,372 --> 01:01:50,376
+There is a theory that most of you believe,
+
+521
+01:01:50,376 --> 01:01:54,381
+which is the electrolyte depletion and dehydration theory.
+
+522
+01:01:54,381 --> 01:02:02,270
+This theory states that water and sodium loss via sweating causes spontaneous muscle contractions.
+
+523
+01:02:04,773 --> 01:02:08,537
+These contractions are more likely to occur in a hot environment.
+
+524
+01:02:11,000 --> 01:02:15,805
+This is where we're gonna ruffle some feathers here.
+
+525
+01:02:16,662 --> 01:02:21,331
+To date though, few, if not any studies support
+
+526
+01:02:21,331 --> 01:02:26,721
+the concept that exercise induced muscle cramps result from the electrolyte imbalance.
+
+527
+01:02:28,965 --> 01:02:33,514
+This has been well established in the exercise physiology community.
+
+528
+01:02:35,557 --> 01:02:38,603
+But I like to throw it out to the group.
+
+529
+01:02:40,287 --> 01:02:43,192
+What are some of the limitations of the electrolyte
+
+530
+01:02:43,192 --> 01:02:46,217
+depletion and dehydration theory to explain muscle cramps?
+
+531
+01:02:47,259 --> 01:02:50,304
+So based on what you've heard, what you've learned maybe in
+
+532
+01:02:50,304 --> 01:02:56,354
+the past, to get you to answer true, 98% of us answer
+
+533
+01:02:56,354 --> 01:03:04,388
+true, but I just told you that very few studies support this concept or this theory.
+
+534
+01:03:06,022 --> 01:03:11,094
+So try to go onto the other side and poke holes into your existing belief.
+
+535
+01:03:11,094 --> 01:03:13,340
+What are some limitations of the electrolyte depletion
+
+536
+01:03:13,340 --> 01:03:17,570
+and dehydration theory in explaining muscle cramps?
+
+537
+01:03:17,570 --> 01:03:19,595
+So try to chat with your classmates for a little bit
+
+538
+01:03:19,595 --> 01:03:22,883
+and let's come up with a few maybe limitations of this theory.
+
+539
+01:04:21,824 --> 01:04:24,390
+Okay, what are we thinking?
+
+540
+01:04:26,916 --> 01:04:30,244
+Can I get some ideas from this side of the room here?
+
+541
+01:04:30,244 --> 01:04:31,788
+Not that I'm picking on this side at all.
+
+542
+01:04:32,810 --> 01:04:36,098
+But put on your like, your researcher hat, right?
+
+543
+01:04:38,183 --> 01:04:40,117
+You want to...
+
+544
+01:04:40,117 --> 01:04:43,906
+come up or provide some evidence to support your
+
+545
+01:04:43,906 --> 01:04:47,815
+previous claim, right, true versus false, that there needs to
+
+546
+01:04:47,815 --> 01:04:52,988
+be some type of electrolyte solution that is going to help reduce cramps.
+
+547
+01:04:53,930 --> 01:04:58,797
+If that is the case, right, because we need to be careful with associations.
+
+548
+01:04:58,797 --> 01:05:03,106
+Just because something's associated doesn't mean there's a causal relationship.
+
+549
+01:05:03,106 --> 01:05:05,211
+So how do we parse this out?
+
+550
+01:05:05,211 --> 01:05:09,159
+So one, either come up with some limitations, or two,
+
+551
+01:05:09,159 --> 01:05:12,687
+maybe come up with a study design really quick.
+
+552
+01:05:12,687 --> 01:05:14,190
+So what are we thinking on this side?
+
+553
+01:05:14,190 --> 01:05:18,780
+How could we prove this, or how could we look at this, or what are some limitations here?
+
+554
+01:05:24,818 --> 01:05:29,744
+Yeah, yeah, so that's one of the easiest and the first studies that were done.
+
+555
+01:05:29,744 --> 01:05:33,529
+Just get two individuals or two groups of individuals, have
+
+556
+01:05:33,529 --> 01:05:41,099
+them go out, one has electrolytes and one does not, and see whether one group cramps more than the other.
+
+557
+01:05:41,920 --> 01:05:43,382
+So that's a good one.
+
+558
+01:05:43,382 --> 01:05:43,703
+What else?
+
+559
+01:05:51,513 --> 01:05:52,294
+Any ideas?
+
+560
+01:05:53,253 --> 01:05:56,017
+What are some limitations or ways we can look at this?
+
+561
+01:06:05,672 --> 01:06:09,798
+Say that one more time.
+
+562
+01:06:09,798 --> 01:06:13,624
+Yeah, so we just spent a lot of time on these clicker questions.
+
+563
+01:06:14,853 --> 01:06:18,499
+Tell me where on there that we're having a really
+
+564
+01:06:18,499 --> 01:06:25,650
+big issue with blood concentrations of these electrolytes and in the muscle contractions.
+
+565
+01:06:30,257 --> 01:06:31,999
+Yeah, yeah.
+
+566
+01:06:31,999 --> 01:06:36,206
+I will say a lot of that still kind of local
+
+567
+01:06:36,206 --> 01:06:43,439
+inside of the muscle in the sarcoplasmic reticulum does a perfectly fine job of providing enough calcium.
+
+568
+01:06:43,439 --> 01:06:49,670
+Now, there could be issues with the re-uptake of calcium, or if I have acetylcholine
+
+569
+01:06:49,670 --> 01:06:52,555
+and acetylcholine esterase isn't there to clear that up, so
+
+570
+01:06:52,555 --> 01:06:58,766
+you're sending that signal on and on and on, but that has nothing to do with eating a banana.
+
+571
+01:07:01,571 --> 01:07:02,713
+Any other limitations?
+
+572
+01:07:06,018 --> 01:07:09,423
+So one of the things we can think about is the same concept for lactate.
+
+573
+01:07:10,385 --> 01:07:16,054
+If we did that study, we could also add another arm to that study or a group
+
+574
+01:07:16,054 --> 01:07:21,583
+and say, well, let's look at two different groups or everybody and who cramps
+
+575
+01:07:21,583 --> 01:07:24,327
+and doesn't cramp, then I could just take some blood
+
+576
+01:07:24,327 --> 01:07:29,495
+samples and look at the differences between electrolyte and dehydration.
+
+577
+01:07:29,495 --> 01:07:31,278
+And they have done those studies.
+
+578
+01:07:31,278 --> 01:07:34,081
+And there is no difference.
+
+579
+01:07:34,081 --> 01:07:39,369
+and when someone is severely dehydrated versus hydrated or
+
+580
+01:07:39,369 --> 01:07:43,134
+not dehydrated, and the number of cramps that they're experiencing.
+
+581
+01:07:44,556 --> 01:07:51,226
+In addition, they've done a lot of studies where they've electrically stimulated muscles, right?
+
+582
+01:07:51,226 --> 01:07:56,778
+Very similar to something you might see at like a, maybe at like a,
+
+583
+01:07:56,778 --> 01:07:58,721
+I don't know, physical therapy clinic where they're putting
+
+584
+01:07:58,721 --> 01:08:01,244
+on some electrodes and they stimulate the muscle.
+
+585
+01:08:01,244 --> 01:08:03,788
+Well, they do that at a much higher current and frequency
+
+586
+01:08:03,788 --> 01:08:10,718
+and they see at what point in time will someone start cramping and then look at some of these factors.
+
+587
+01:08:10,718 --> 01:08:14,924
+And they have not found anything associated with electrolytes.
+
+588
+01:08:17,207 --> 01:08:24,878
+Another issue would be where are electrolytes in the blood distributed?
+
+589
+01:08:31,456 --> 01:08:32,517
+Do you have blood everywhere?
+
+590
+01:08:34,019 --> 01:08:34,620
+Yeah.
+
+591
+01:08:34,620 --> 01:08:36,462
+Where do you normally have a cramp?
+
+592
+01:08:36,462 --> 01:08:37,143
+Your whole body?
+
+593
+01:08:38,305 --> 01:08:41,028
+When you're dehydrated, yeah, like one single muscle.
+
+594
+01:08:41,028 --> 01:08:43,691
+When you're dehydrated, are you just dehydrated in that muscle?
+
+595
+01:08:44,853 --> 01:08:49,539
+No, your whole body's dehydrated, but we don't just go into a full body cramp, right?
+
+596
+01:08:49,539 --> 01:08:51,401
+And same thing with electrolytes.
+
+597
+01:08:51,401 --> 01:08:52,302
+They've measured those.
+
+598
+01:08:52,302 --> 01:08:54,285
+They've changed those concentrations.
+
+599
+01:08:55,166 --> 01:09:00,312
+And that systemic kind of blood concentration of these electrolytes aren't really causing issues.
+
+600
+01:09:00,312 --> 01:09:03,798
+In addition, what if I get a cramp or you see
+
+601
+01:09:03,798 --> 01:09:06,763
+on television an athlete having a cramp, what's the first thing
+
+602
+01:09:06,763 --> 01:09:09,668
+you see maybe the athletic trainer trying to help out with?
+
+603
+01:09:11,311 --> 01:09:11,892
+Does anyone know?
+
+604
+01:09:13,455 --> 01:09:14,176
+Yeah.
+
+605
+01:09:14,176 --> 01:09:16,721
+They'll try to stretch it or maybe massage it.
+
+606
+01:09:16,721 --> 01:09:22,418
+And if you've had a cramp, do you feel like massaging and stretching sometimes helps?
+
+607
+01:09:22,418 --> 01:09:25,922
+Probably most of you would agree that, yeah, some
+
+608
+01:09:25,922 --> 01:09:29,586
+sort of manipulation of that area, physical manipulation of that
+
+609
+01:09:29,586 --> 01:09:32,649
+area does help, whether it's massaging or stretching.
+
+610
+01:09:35,973 --> 01:09:38,276
+I'm not saying that it's impossible, but as of right
+
+611
+01:09:38,276 --> 01:09:47,866
+now, we don't have any evidence to support this dehydration electrolyte theory in muscle cramps.
+
+612
+01:09:47,866 --> 01:09:48,527
+Why are, what do electrolytes do?
+
+613
+01:09:50,937 --> 01:09:56,048
+Yeah, that's where the debate comes, where some would
+
+614
+01:09:56,048 --> 01:10:02,643
+argue that there are large industry groups that are promoting something to make sales.
+
+615
+01:10:03,444 --> 01:10:07,694
+But I don't want to introduce that piece.
+
+616
+01:10:07,694 --> 01:10:13,581
+The other thing though is electrolytes are very important, not necessarily for cramping though.
+
+617
+01:10:13,581 --> 01:10:16,185
+If I go out and I don't have some type
+
+618
+01:10:16,185 --> 01:10:23,614
+of solution that is replacing electrolytes and carbohydrates and fluid,
+
+619
+01:10:23,614 --> 01:10:27,999
+I'm gonna run into a lot of issues, especially with dehydration, right?
+
+620
+01:10:27,999 --> 01:10:32,104
+So that's a separate issue as far as from
+
+621
+01:10:32,104 --> 01:10:35,929
+a thermoregulatory standpoint, but not a cramping standpoint.
+
+622
+01:10:37,192 --> 01:10:39,096
+So then the next question should be, well, if
+
+623
+01:10:39,096 --> 01:10:45,147
+it's not the electrolyte theory, electrolyte dehydration theory, what else can we look at?
+
+624
+01:10:46,570 --> 01:10:50,757
+Well, to date, the altered neuromuscular control theory is
+
+625
+01:10:50,757 --> 01:10:58,592
+the only one where we have substantial evidence supporting the contribution of this theory and cramps.
+
+626
+01:10:59,399 --> 01:11:03,188
+So there's an abnormal spinal reflex activity due to fatigue.
+
+627
+01:11:04,049 --> 01:11:07,537
+This results in increased excitatory activity of the muscle
+
+628
+01:11:07,537 --> 01:11:12,789
+spindles and a reduction in the inhibitory effect of the Golgi tendon organ.
+
+629
+01:11:13,972 --> 01:11:16,918
+Whoa, muscle spindles and Golgi tendon organ.
+
+630
+01:11:16,918 --> 01:11:19,193
+You probably haven't heard of those.
+
+631
+01:11:19,193 --> 01:11:20,776
+in a long time.
+
+632
+01:11:20,776 --> 01:11:21,558
+So let's look at this.
+
+633
+01:11:22,480 --> 01:11:26,048
+If we have increased muscle spindle activity, the muscle
+
+634
+01:11:26,048 --> 01:11:30,999
+spindles, their goal is to detect stretches in the muscle.
+
+635
+01:11:32,482 --> 01:11:38,549
+The sensory neurons conduct action potentials in the spinal cord, and that helps with
+
+636
+01:11:38,549 --> 01:11:42,655
+the muscle to contract and resist being stretched.
+
+637
+01:11:42,655 --> 01:11:45,059
+So if you stretch your muscle too much, the muscle
+
+638
+01:11:45,059 --> 01:11:47,522
+spindle is basically like, whoa, whoa, whoa, whoa, too much.
+
+639
+01:11:48,504 --> 01:11:51,648
+We don't wanna cause damage, so we wanna activate and kind
+
+640
+01:11:51,648 --> 01:11:54,132
+of get it to come back, not to stretch it too much.
+
+641
+01:11:55,534 --> 01:12:00,421
+That means in this theory, there's just an increase in this activity.
+
+642
+01:12:01,483 --> 01:12:04,567
+If you increase this activity, it's gonna cause additional
+
+643
+01:12:04,567 --> 01:12:07,071
+contractions when you don't really want it.
+
+644
+01:12:08,384 --> 01:12:14,730
+In a lot of animal models, yeah.
+
+645
+01:12:14,730 --> 01:12:18,354
+Well, yeah, and so those are very similar to this
+
+646
+01:12:18,354 --> 01:12:21,957
+piece where they think there's an overactivation of something.
+
+647
+01:12:23,238 --> 01:12:26,782
+One of those somethings would be the muscle spindle.
+
+648
+01:12:26,782 --> 01:12:35,671
+So in many animal models, they've induced cramps and they cut this signal and the cramps go away.
+
+649
+01:12:35,671 --> 01:12:36,813
+which kind of makes sense, right?
+
+650
+01:12:36,813 --> 01:12:45,426
+If I cut that neuron and I sever the connection, then there's nothing telling it to over-activate.
+
+651
+01:12:45,426 --> 01:12:47,349
+And then on the flip side, if you stimulate the
+
+652
+01:12:47,349 --> 01:12:52,317
+muscle spindles excessively, you induce a cramp, yeah.
+
+653
+01:12:52,317 --> 01:12:57,364
+And then on the flip side to the muscle spindle, the Golgi tendon organ activity decreases.
+
+654
+01:12:58,166 --> 01:13:03,076
+So the Golgi tendon organ detects tension when applied to a tendon.
+
+655
+01:13:03,076 --> 01:13:06,700
+Inhibition of the alpha motor neuron causes muscle
+
+656
+01:13:06,700 --> 01:13:10,564
+relaxation, relieving the tension applied to the tendon.
+
+657
+01:13:11,725 --> 01:13:14,748
+So this is if I have too much, then you get
+
+658
+01:13:14,748 --> 01:13:19,613
+this inhibitory action of the goldie tendon organ to try to get the muscle to relax.
+
+659
+01:13:20,454 --> 01:13:24,298
+If you decrease that inhibitory action, you are going
+
+660
+01:13:24,298 --> 01:13:26,880
+to increase the chances of getting a contraction.
+
+661
+01:13:28,402 --> 01:13:30,484
+So the two are kind of in play here.
+
+662
+01:13:33,721 --> 01:13:40,916
+Okay, now that I've probably caused some tension here with
+
+663
+01:13:40,916 --> 01:13:48,391
+your salt tablet pickle juice habits, I think this might be a good point to take a break here.
+
+664
+01:13:48,391 --> 01:13:50,355
+I'll see you on Thursday.
+
+665
+01:13:50,355 --> 01:13:54,784
+Enjoy the rest of your nice, cool evening.
+

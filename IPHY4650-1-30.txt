@@ -1,0 +1,613 @@
+All right.
+Let's get started.
+Good to see you all.
+Not sure if we are gonna get a big snowstorm today, but we'll see how that weather goes.
+Hopefully you're doing okay and that the second week of labs was good.
+It was a little bit of probably
+not a wake-up or anything like that, but it was a lot of calculations.
+You're gonna have a very similar calculation-based lab next week.
+And then after that, the amount of calculations, especially like the Haldane equation, goes way down.
+So don't worry, not every lab is gonna be like that.
+You should have plenty of time in the future labs to complete the majority, if not all, of the lab and turn it in during that time.
+So just hang tight.
+We gotta get through these calculations before we move on to the fun stuff.
+Second piece, what's in two weeks, two Thursdays from now?
+Yeah, your first exam.
+So your first lecture exam is in two Thursdays from today, so February 13th.
+So please try to keep that in mind.
+One of the big things that I like to say right off the bat would be,
+I don't know if you're struggling unless you tell me.
+And so you want to get some things cleared up now before you find out on the exam if you struggle on the exam.
+So I highly recommend if there are any slides or concepts or thought questions or study guide questions that are not making sense that we need to talk about it so we can clear that up.
+Are we okay with that?
+All right, and that does remind me since we are getting closer to the exams, this is spring semester, I know many of you are trying to graduate, and I know all of you care about your grade, but one thing I like to say is,
+So I don't curve the class, because typically, like if it was below a certain amount, like the syllabus says, yeah, we will curve it.
+But we don't round grades up.
+We don't do anything like that.
+But if people are on the edge, some of the things that I do look for are like participation or at least attendance in lecture, as well as participation or attendance in lab.
+So I do check those.
+And so it's really good.
+And I know sometimes it's hard because there are bigger groups this semester, but it's very easy to kind of tuck away and kind of hide in the background.
+But I'm going to tell you right now, all your TAs can see that.
+So all these small little things do add up.
+And if you are on the edge,
+Right, we typically don't round, but those do make a big factor in some of those decisions.
+So try to keep that in mind.
+You're already in lab, you might as well try to learn something and try to enjoy the lab.
+Same with lecture.
+Are we okay there?
+Okay, nice.
+All right, so we're gonna try to finish off bioenergetics and exercise metabolism.
+Quick review, we learned on Tuesday that exercise duration and fuel selection, if we're just looking at expanding the duration, so the duration of the exercise itself, as the duration increases, we shift from carbohydrate utilization towards fat utilization.
+So we ran through some clicker questions.
+We looked at that.
+Now we want to know why.
+So most of this is due to an increased rate of lipolysis.
+And lipolysis, again, is the breakdown of triglycerides.
+We are mainly not really worried too much about this glycerol, but the pre-fatty acids.
+These different lipases are freeing up these free fatty acids from the triglycerides so then we can undergo beta oxidation, get them into acetyl-CoA and then run them through the Krebs cycle and then eventually to the ETC.
+The rate of lipolysis increases as we increase the concentration of hormones like epinephrine and norepinephrine.
+Here, if we have duration and percent change of the hormone of interest, which is epinephrine or epinephrine, we could see that they substantially increase over time at the same exercise intensity.
+So we're not changing the exercise intensity here, just increasing the duration.
+So then what does this look like?
+Well, it looks something like this.
+This is a nice little piece here to add in.
+We are looking at submaximal exercise, not maximal exercise.
+Anytime we are doing any kind of substrate utilization, it needs to be primarily oxidative phosphorylation, submaximal, constant work rate.
+Okay.
+This is your substrate utilization in percent, exercise duration over here.
+As exercise duration increases, we see a decrease in carbohydrate utilization and an increase in fat utilization.
+One of those mechanisms is because we're increasing lipolysis due to the increased secretion of epinephrine.
+From a storage standpoint, so number two, second reason, from a storage standpoint,
+Which one of these do we have more or less an unlimited source?
+Fats.
+Yeah, so what about carbohydrates?
+No.
+What do we store carbohydrates in?
+Or as?
+What form?
+Glycogen.
+Another large factor to this decrease in carbohydrate utilization as we increase in exercise duration is we are depleting those glycogen stores.
+Glycogen depletion during exercise does depend on intensity, but it also is impacted by time.
+Since we are on the duration piece, we'll kind of focus on the duration for now, but just kind of keep in mind that it works at every single intensity.
+So here in these little boxes, we have intensity.
+So this is 120% of max, 90%, 75, 60, and 30.
+And this is glycogen depletion here on the y-axis and then duration or time on the x-axis.
+We can see that at every intensity it decreases.
+as far as glycogen content with exercise duration.
+But we see the largest magnitude in decrease at the 75% intensity.
+But I guess the point is, is as you increase in duration, you are depleting those glycogen stores.
+If you run out of glycogen or deplete them to a certain level,
+you have to rely on other energy stores, which would be this fat utilization over here.
+Okay.
+So this does not change our model of as exercise intensity increases, we prefer carbohydrates.
+It's just we're running out of those carbohydrates with duration.
+This is kind of telling the same story, declining the gas drop muscle for glycogen content for three hours of treadmill exercise running at 70% VO2 max.
+We see the muscle glycogen decreases, and as we have that decrease in muscle glycogen, it seems like we are working harder, or the perceived exertion here on this y-axis is much higher.
+It is interesting though that until about 50 millimoles per kilogram, there wasn't a large or a change in this increase of the rating of perceived exertion.
+And I think most of us who have exercised for this long of a duration, maybe one hour to two hour, you may have felt this if you weren't feeding.
+So you're exercising, you're feeling pretty good, and then all of a sudden you're like, whoa, I'm in really bad shape here.
+I need to feed.
+But by that time, you're kind of out of luck, and you have to really decrease that exercise intensity.
+Sometimes that's called hitting the wall, or you're bonking, and you really, no matter what, you can try to feed.
+But at that point in time, you have to decrease that exercise intensity.
+Another kind of figure of the same concept.
+Oh, yeah.
+Yeah, yeah.
+And we'll talk about feeding.
+But yeah, as you feed, that really makes a very large difference in this model.
+Well, if you are supplying carbohydrates, then you can almost spare some of the glycogen molecules.
+You can push this curve a little bit further.
+So instead of muscle glycogen ending at four hours, maybe it'll end over here at six, but maybe you're not even exercising for six hours.
+So you would never run into that problem.
+It's a great question.
+So here if we have the two major substrates but broken down in kind of locations, we have muscle triglycerides, plasma-free fatty acids, and then blood glucose and muscle glycogen.
+So we can think of this 50% here just like what we saw on that previous figure of fat utilization and carbohydrate utilization right around 50-50, because all of this would be carbohydrate.
+They all decrease here, but as we start to deplete our glycogen levels, we are more and more becoming reliant on our glucose levels, which is generally not a great thing because we need to tightly regulate our blood glucose levels.
+But they have to pull that energy from somewhere.
+No surprise, we're becoming more reliant on the free fatty acids, the plasma free fatty acids.
+And so we kind of talked about this a little bit based on your classmates question.
+But if muscle glycogen levels are limited during prolonged low intensity exercise, what can an athlete do to delay the fatigue in a race?
+We don't have to break off into groups because we just kind of talked about it.
+But remind me, what can we do?
+There's a few things.
+Yeah, you can feed, right?
+You can eat and try to maintain some of these blood glucose and glycogen levels.
+What else could we do, but if it's an athlete they really don't wanna do it?
+Slow down, yeah.
+Eventually you can't maintain that exercise intensity, so maybe you have to slow down so you're relying on more fats to produce the energy to sustain that exercise as opposed to carbohydrates.
+That's good, good.
+OK, I know I'm just almost repeating the same thing over and over, but this is how important these concepts are.
+But again, exercise duration on muscle fuel source.
+We start to deplete those glycogen levels, so we need to rely more and more on plasma-free fatty acids.
+And that's why this one comes way up.
+Okay, so are we kinda stuck where we're at?
+No, not really, because if we can train or undergo repeated bouts over time of endurance exercise training, we can shift this curve.
+And how this curve shifts, if we're just looking at fat oxidation here on the y-axis, so I've kinda taken away carbohydrate to make this a little bit easier to look at, if we start at this bottom curve,
+after training, we shift the curve up and to the left.
+So up and to the left over here.
+So that's what this arrow is indicating.
+The nice thing about this would be now I can take any duration
+draw a line straight up, so say three hours.
+This was my old line and I was at 48% oxidation.
+And I come back up to here after training, I'm at 50 or 60, 58, 60% oxidation.
+So if you're ever like, oh, man, I kind of forgot after training, where does the curve shift?
+Well, if I drew the curve down below and you just drew a line up, you would see you're burning less fat after training if you drew it incorrectly on the bottom.
+And so it's pretty straightforward as far as if you have the underlying concept and you draw the curve correctly, or if you have the curve incorrect and you have the underlying concept, you can correct that pretty quickly.
+So I think draw the curve, draw a line straight up, and you can kind of see which one is improving after training.
+Any questions on substrate utilization as we are increasing duration or time?
+Yeah.
+like the output level of the athletes?
+So you're saying that as I train, if I'm utilizing more fat, I'm at a disadvantage?
+Is that kind of what you're getting at?
+Yeah.
+So in this instance, one thing, and this is a great question, because we're at the same exercise intensity here.
+So at the same exercise intensity, we see an increase in fat utilization with training.
+But that just means with training I can run faster.
+So then I'd be at a higher absolute speed and I'd be able to maintain the same rate of fat oxidation versus carbohydrate if I push myself on a higher intensity scale.
+So what this ends up doing is it actually spares your glycogen molecules at a much higher rate for an endurance trained athlete.
+I guess, like what's the duration of the training like before that?
+Yeah, it depends a little bit, but most of the studies have six to eight weeks of training and they publish those results.
+There are individuals who need a little bit less and especially if someone was already endurance trained and then they took a big break and then they went back.
+We'll talk about how athletes kind of bounce back a little bit faster.
+But in general, six to eight weeks would be where the majority of the research lands in this kind of area, yeah.
+Well, so when you say switch, they're always utilizing fat.
+They're just doing it at a higher percentage after training compared to before training at the same exercise intensity.
+But if you put them at a higher exercise intensity, well, that changes because on that spectrum, you're still going to have an increase in carbohydrate utilization.
+Great question.
+I think there was another one above.
+And it's OK if you don't have it again?
+Yep.
+Yeah, so not necessarily aerobic versus anaerobic, but we would almost say the rate of perceived exertion would be lower.
+It'd feel a little bit easier.
+And I think we've all experienced this with some sort of training.
+You run at five miles per hour every day.
+Maybe the first day is kind of hard, but then two months later, you're like, oh, five miles per hour is not that bad anymore.
+And so that kind of happens.
+The whole time, you're still primarily oxidative, as long as you're getting past a certain duration, which we kind of talked about on Tuesday, where that halfway point is around two to three minutes.
+After that, you're primarily using oxidative sources.
+Yeah, that's good.
+Okay, great.
+Okay, so this is duration.
+Now let's look at what happens with intensity.
+We've kind of already talked about this as we were talking about duration.
+But for graded exercise, when I say graded exercise, we're talking about an incremental increase in exercise intensity.
+Just because we are increasing the exercise intensity does not necessarily mean we're talking about anaerobic versus aerobic, but with a lot of these exercise intensities, we are trying to say, well, at least they're exercising for around four to 10 minutes, which is why ATP produced is primarily from aerobic or oxidative metabolism.
+Once you reach a certain point where you plateau, which is kind of this next slide here, so as I increase the workload here on the X axis, we are increasing our oxygen consumption on the Y. Well, that makes sense because we need more oxygen to then undergo metabolism to produce more ATP, but eventually,
+We reach a point where even if I increase the workload or the power, there's no increase in oxygen consumption.
+We'll touch on where the barriers are that are limiting your body's ability to uptake more oxygen.
+But some of the more easier ones to think about is, well, my lungs are just the size that I have.
+My heart can't really get that much bigger.
+Well, they don't get bigger on the outside.
+You can have some hypertrophy inside of the ventricles.
+But you have the lungs that you are born with, and you have the heart that you're born with.
+And so at a certain point in time, I can't bring enough oxygen in, or maybe I can't pump enough blood.
+So those are a couple limitations, but eventually your body cannot absorb or consume more oxygen, no matter the power that I kind of put that individual on.
+And so they reach a physiological ceiling.
+So some of those factors, maximum ability of cardiorespiratory system to deliver oxygen to the muscles, or the ability of the muscles to use the oxygen and produce ATP aerobically.
+So you can imagine if I had
+a well-developed heart, lungs, blood, and all of that, but then all of a sudden I take away half your mitochondria, well, that could be a problem for you to actually consume that oxygen.
+So that's what that bottom one's kind of talking about.
+Okay, exercise intensity and fuel selection at low intensity exercise.
+Fats are the primary fuel that is being utilized.
+At high exercise intensity, carbohydrates are the primary fuel.
+We kinda talked about this before, so this should be a little bit of review, and I think you've seen this in your labs as well.
+Which is why I know this question's gonna be on your exam then.
+You're going to get 100 here, and we're going to put this on the exam here.
+What happens to R or RER as exercise intensity increases?
+OK, let's go maybe 30, 45 seconds more.
+Does anyone need more help setting this up or setting your clicker up?
+All right, 30 more seconds.
+Make sure you have something clicked in.
+All right, 10 seconds here.
+I'll close this down in three, two, one.
+All right, so I'm gonna show this.
+We did pretty good.
+I'll take that.
+I know some of you were like, oh, 86%, if there was an 86% average on the exam, oh man, I'd throw everyone a party in here.
+Like, I'd take that all day long.
+So don't worry, 86, yeah, that's not 100, but I'm okay with that.
+That's pretty good.
+Let's talk about this really quick.
+Right, if I increase exercise intensity, what are we trying to utilize more of?
+Carbs, yep, just like what we talked about.
+On the RER chart, if I'm at 100% carbohydrate, what's that RER value?
+One, and then if I'm at 100% fat, what are we at?
+0.7, good.
+So if we look at this chart over here, and if I'm moving from 0% carbohydrate to 100, we're getting closer to ones who are increasing the RER.
+Okay, so as carbohydrates are increasing with exercise intensity and fats are kind of decreasing, well eventually you're gonna have these two lines kind of cross, which you can kind of imply from this table right here.
+Where these two lines cross is called the crossover concept.
+So this, pretty much this crossover point is the point at which our body switches over from primarily fat oxidation to primarily carbohydrate oxidation.
+As soon as we kind of move over from here,
+Then again, we can kind of tell in individuals maybe at a certain intensity point.
+So the next question you might ask yourself, what's causing this crossover concept or this crossover to occur?
+Well, there are a few things.
+We're gonna go over two of them.
+One would be the recruitment of fast muscle fibers that are better equipped to metabolize carbohydrates than fats.
+No.
+We're gonna get into that in a second.
+Yeah, can we hold on to that thought?
+Okay, cool, cool.
+OK, so recruitment of different muscle fibers.
+And we'll get into this.
+But if you remember from anatomy, you're kind of shifting from that type 1 to type 2 fiber recruitment as you are increasing exercise intensity.
+And so we start to rely more on carbohydrates for that.
+You also have increasing blood levels of epinephrine to stimulate glycogenolysis.
+So very similar to what we saw with exercise duration, epinephrine and norepinephrine also increase with intensity.
+So epinephrine and norepinephrine both increase with intensity and duration.
+The magnitude is a little bit different, but don't worry about which one's more or which one's less.
+They just both increase, yeah.
+Yeah, yeah, so you're bringing up a really great question.
+So if we have an increase in epinephrine, we just talked about how that's going to help with breakdown of triglycerides.
+Hang on to that thought.
+We're going to touch into that.
+Well, I guess we can.
+Where do we store most of our adipose tissue?
+You don't have to say like exact location, but in the muscle or not in the muscle?
+Not in the muscle.
+When you are increasing exercise intensity, where do you want to send most of the blood?
+to the muscle and so as you increase in exercise intensity, you start to divert a lot of the blood to the muscle and so that's less blood flow to going to the liver or some of the adipose tissue and so it actually reduces or blunts some of the ability for you to sequester some of the triglycerides or free fatty acids from the triglycerides.
+But we'll touch on a few other mechanisms that are kind of impairing with that later.
+OK, so influence on exercise intensity on muscle fuel source.
+This is very similar to the figure we saw with the four kind of lines going out on that grid.
+Here we have exercise intensity 25, 65, and 85, the percent of fuel source used.
+We can see that plasma-free fatty acids are the primary energy source at these lower exercise intensities, like 25%.
+But as we increase in that exercise intensity, they start to get lower and lower and lower.
+And what we start to rely more and more on would be the muscle glycogen, which is this top blue bar.
+So as we increase in exercise intensity, we're increasing the utilization from glycogen.
+Just like fat oxidation as you increase the duration with training, you can shift the crossover concept as well with exercise intensity.
+So for this, if we have this fat oxidation here in this dark line,
+And then this dotted line over here, we have the carbohydrate utilization.
+With training, you shift the crossover point to the right.
+So it doesn't have it necessarily here, but if you go back to the other figure, the crossover point was around 30% to 40%.
+And then with training, you push it kind of to the right.
+And if I'm just looking at the estimated kind of R over here, no surprise, the R kind of shifts down and to the right.
+I like this curve a little bit better because you can draw one crossover concept, then draw an arrow to the right, maybe draw another crossover to that, and then you can see, well, how many carbohydrates or fat am I using at 60%?
+Well, this is around 40% over here, but if the old crossover was down here, then it would be closer to 20%.
+So the whole name of the game, then, would be both scenarios you're trying to oxidize or use more fat at higher intensities so that you can spare those glycogen molecules.
+Interestingly, regardless if you are trained or untrained, this crossover concept occurs really close to something called the lactate threshold.
+So that'll be our next concept here.
+Before I move on to this, are we okay with exercise intensity and substrate utilization?
+Anytime you see a problem that deals with substrate utilization, you need to almost like box off two concepts, duration and intensity.
+Once you have those two concepts kind of written or kind of straightened out, then you can try to answer the question.
+Because if you mix the two together and you try to apply, like you say, oh, as I increase with exercise duration, now I'm getting carbohydrate utilization to go up, well, that would be a problem.
+So just make sure you separate the two and then you look at them a little bit more separate.
+Yes, they kind of happen at the same time, but at least for this course, we're really gonna assess you on whether you can identify duration versus intensity.
+Okay, lactate threshold.
+Just to kind of bring you back over here, if we're in this space where we're looking at glycolysis and we're producing a little bit of pyruvate, that pyruvate kind of bounces into lactate dehydrogenase and then we get lactate.
+I like to start with this.
+You will not need to know these different terms.
+but there are a lot of terms out there when trying to describe this concept.
+Anaerobic threshold, onset of blood lactate accumulation, onset of plasma lactate accumulation, maximal steady state, critical power, lactate break point.
+There are a ton of researchers that use different terms.
+The reason why I like to put this up here is because depending on the paper or the book that you read, you could see one of these things.
+They all generally are referring to the same concept, but sometimes they kind of put them on different spectrums as far as intensity.
+So there's another one on here that's like one millimolar above lactate break point, things like that.
+So this is just more for your information.
+Don't worry, you'll never be tested on this.
+Just know that people set the lactate threshold at different lactate concentrations or powers.
+Okay, so lactate threshold.
+This is the work rate at which blood lactate rises systematically during a graded exercise test.
+What that means is if I have an exercise intensity down on the x-axis, whether that's in relative or absolute, so speed versus percent VO2 max, and then on the y we have lactate concentration, as I increase the intensity,
+your blood lactate actually does not change as the workloads are getting harder to a certain point.
+Then at that point, you start to get a systematic rise in blood lactate.
+So that's this inflection point here.
+Typically, we see this around 50 to 60% VO2 max in untrained individuals.
+and then we see it a little bit higher in trained subjects.
+This is the average range here, but we have sampled lactate or lactate levels or lactate threshold in the United States Olympic development team, like the runners, and some of them are in the low 90s, like 92%.
+And so what they are trying to do is they're trying to push this threshold as far to the right as possible.
+So this blue line would be trained individuals and the red line would be the untrained individuals.
+So they're trying to push this as far to the right as possible so they can maintain this flat lactate concentration for higher intensities.
+Okay, so hopefully you're okay with this concept and the next question in the back of your mind might be like, okay, well, this is nice to see that we have this flat piece, but what's actually causing the increase in this lactate concentration?
+Here are some potential mechanisms to explain the lactate threshold.
+One would be low muscle glycogen.
+I'm gonna try to emphasize as best as I can.
+This is not well accepted.
+There are probably only a few people out there as far as like exercise physiologists that actually believe this is true.
+The reason why it's still here on this chart though is because some people still have this idea that it's due to low muscle oxygen.
+And we'll get into that in just a little bit.
+The next would be accelerated glycolysis.
+No surprise if I'm creating more pyruvate while I'm increasing the chances that pyruvate's gonna bump into that enzyme and get converted to lactate.
+Seems reasonable to me.
+Recruitment of fast-twitch fibers, that also seems reasonable to me.
+But that doesn't necessarily tell me whether, all these are telling me is that I'm increasing in the lactate production.
+What we need to kind of keep in the back of our mind is, our body actually uptakes lactate.
+If we just had these three pieces here, then we wouldn't see this one.
+Because at every single one of these intensities here, especially for the train one, glycolysis is increasing at every single one of these points.
+And you are recruiting more fast-twitch fibers.
+So you are producing more lactate.
+But you're still not getting an increase in lactate concentration here.
+And so what we need to keep in the back of our mind is that we actually remove lactate from the blood.
+And another piece could be a reduced rate of lactate removal.
+If you take all of this as kind of in total,
+This is the take home message that you should probably look at.
+Blood lactate concentration is just this formula of rate of appearance minus the rate of disappearance or the rate of removal.
+How much are you putting into the blood?
+And then how much are you taking out?
+At these lower intensities, you're almost at like zero.
+So that's the biggest thing we need to kind of keep in mind of what's causing the lactate threshold.
+I don't know specifically if I'm removing less or just producing more.
+So if you think of like a bucket of water and I turn on a faucet to fill up the bucket and then I poke a hole in the bottom, well if I match the rate that the bucket is losing water with the faucet, the water level should not change.
+But if I turn on the faucet more, yeah, you're gonna get an accumulation of that water.
+Or instead of turning on the faucet and just leave the faucet at the same rate, I make the hole a little bit bigger or smaller, that will change the water level.
+So I don't know, we don't know as researchers if it's the rate of removal versus the rate of production.
+And it does depend on the individual as well as the type of exercise.
+All we know is it's this kind of rate of removal versus the rate of appearance.
+We don't need to break out into a group, but this is kind of just a fun thing.
+How do we actually get this?
+How do we measure blood lactate levels over time during graded exercise tests?
+Maybe some of you have already done it, but any ideas?
+Yeah.
+Yeah, you do a little finger stick.
+Sometimes you can actually poke the back of the earlobe.
+That one's a little bit easier.
+And some people are like, oh, I don't know if I like that.
+But for cycling, if your hands are on the handlebars, well, it's a little bit easier to access the ear.
+For running, typically we have them kind of put their hand out on the treadmill.
+We just poke the finger.
+The nice thing about this is if I can get someone's lactate threshold, we can do some pretty cool stuff.
+We can predict endurance performance pretty well.
+We do need to combine this with running economy and some of the better predictions also include things like kinetics, critical power, as well as VO2 max.
+The other nice thing would be we can plan some training programs.
+If the idea is let's push the lactate threshold to the right as far as possible, well then we need to spend the most amount of our training inside of that lactate threshold range.
+So a little bit above, maybe right at it to try to push that curve and stress the body to get it to move to the right.
+You'll be working with this formula in lab, so I won't spend too much time with this.
+But essentially, your 10K race time does a really good job for your ability to run 10 kilometers is very closely linked to where your lactate threshold occurs as far as pacing.
+So we can then predict performance in 10K race.
+We need to determine the lactate threshold.
+And then we can measure VO2 max.
+We input these into a different formula that you won't be responsible for, but we can estimate the 10K running time using this formula here.
+So what does that look like?
+Okay, well, we'll draw kind of one line over this way on the lactate threshold.
+So if you have oxygen uptake or intensity on the X axis and then blood lactate on the Y, we draw one line to establish that baseline lactate.
+And then once we see that systematic rise, we'll draw another line.
+And wherever those points intersect, we pretty much drop that towards the intensity and we know where their lactate threshold is around.
+You will not be taking lactate samples in lab.
+We'll instead use something called the ventilatory threshold, which behaves very similarly.
+It's not a direct measure of lactate threshold, but it gives us a good idea of where lactate threshold might be around.
+And then you can plug in these values here.
+And then for this particular individual, we are predicting them to finish the 10K time in about 48.78 minutes.
+Any questions on this?
+All right, nice.
+So then we get into this next concept about lactate.
+and fatigue.
+How many of you have heard that lactate is either some sort of contributor or influencing an individual's to fatigue?
+So lactate causes fatigue, lactate causes soreness or discomfort, right?
+We've all probably heard that term before.
+So then, what could we do then to test this?
+What's like the most extreme example as to how we could test this?
+Yeah, you could inject lactate, but then you wouldn't know though that maybe still the lower concentrations are still contributing.
+What's the extreme way, we can't really do this, but what's the extreme way on the reverse side of that?
+Yeah, so what if we just eliminated lactate production altogether?
+Well, that seems pretty nice, right?
+Because if I eliminate lactate production at all from exercise, then they shouldn't have any type of fatigue, and they shouldn't have the muscle soreness or the burning, right?
+That seems reasonable, but we can't do that.
+Or can we?
+No, we can't.
+But there is something called McArdle's disease.
+So McArdle's disease is a very interesting genetic mutation.
+So there's an error in the muscle glycogen where these individuals cannot synthesize the enzyme glycogen phosphorylase, which means they cannot break down glycogen and glycolysis does not occur.
+Whoa.
+That's a tough deal for them, but this gave researchers a pretty interesting idea.
+What if we check these lactate levels and see what happens during exercise?
+So here on this top curve, we have blood lactate, and then we have percent of relative VO2 max.
+The dark or the solid lines are McArdle's patients and the dotted lines are controls, normal healthy controls.
+As we increase exercise intensity all the way to 100, no surprise that the levels of lactate do not change in these McArdle's patients.
+But the controls do have a lactate threshold.
+Nice, at least the experimental model worked.
+We're seeing no change in lactate in these Mercadil's patients, but we're seeing an exponential increase in lactate concentration in the controls.
+Well, maybe something else was going on with ventilation.
+No, they're still having an increase in ventilation.
+So there's an excess buildup of hydrogen ions.
+They're undergoing the bicarb buffering system, and they're having some hyperventilation.
+And they also see the same in controls.
+But, McCardell's patients, they do not tolerate exercise very well.
+There's a big issue with these individuals or these patients that the main complaint during any type of exercise activity is the soreness, the burning, and the fatigue.
+So it's quite interesting that they are experiencing the same issues that we experience albeit at a lower intensity with no lactate.
+There's also those pieces where we talked about, I think someone had mentioned infusing lactate.
+Well, if I infuse lactate at a higher concentration, it's not like our whole body starts to burn.
+And then someone can argue, well, maybe it's because there's a higher lactate concentration inside of the muscle compared to the blood.
+And that's true, but then you still can't get past this.
+So then if they can't break down carbohydrate sources, what are they using?
+to do the exercise or any type of activity.
+There's only one other option.
+Fats, right?
+So not surprisingly, McArdle's patients use more fat as a fuel compared to control subjects during submaximal exercise.
+However, this is pretty interesting.
+Despite the rising levels of fatty acids in the blood, McArdle's patients are not able to oxidize more fat.
+What?
+What's going on?
+These poor micartos patients, they're just struggling the whole way through.
+This introduced this idea of how fats need to burn in the flame of a carbohydrate.
+So carbohydrate availability limits fat oxidation even during steady state exercise in these patients.
+The idea is that if you reduce
+some of the important substrates of the Krebs cycle.
+So maybe you're not just producing some of the four carbons in a higher quantity when you're burning carbohydrates as opposed to only fats.
+And you start limiting the ability to produce or run through the Krebs cycle.
+And so this idea that fats must burn in the flame of carbohydrates came from these researchers.
+So glycogen is depleted during prolonged high-intensity exercise, and so we're reducing the rate of glycolysis and production of pyruvate.
+You're also reducing a lot of the Krebs cycle intermediaries.
+So alpha-ketoglutaric acid might be in high demand, but low availability.
+And that overall, this idea is you're reducing fat oxidation.
+This isn't like, there's still a lot of research that needs to go on in this area to really confirm whether this is happening, but the theory seems reasonable.
+Any questions here?
+Okay.
+So then that gets us into another one, right?
+We're gonna tackle a few things all today.
+Lactate threshold.
+We're having trouble burning fat.
+We're going to talk about this concept called the fat burning zone.
+There's no right or wrong answer.
+Well, there is a right or wrong answer.
+But just answer maybe what you previously thought or what you currently believe now.
+This is a low stakes question.
+As you increase exercise intensity, you shift from primarily burning fats to burning carbohydrates.
+Therefore, to lose the most weight, you should exercise at low intensities.
+True or false?
+Feel free to discuss with your classmates and we'll take like a minute.
+Okay, let's go maybe 30 more seconds.
+Double check you have an answer in.
+We're missing I think like 15 clickers here.
+There we go, five more.
+Okay, I'll close this down in three, two, one.
+Okay, I like showing this poll here because it used to be like maybe 70, 30 on this end.
+So maybe this isn't as much of a myth as once thought.
+But can I get some ideas?
+So what are we thinking here?
+So it's a safe space, it's okay if you put yes or no.
+Tell me what you're thinking.
+Yeah, yeah, and where did that come from, I guess, because of this top concept?
+Yeah, no, I would agree.
+Any counter arguments to that?
+if you're trying to use cardio to lose weight, even though the percentages of carbs to fat or calories being burned might be or fats to carbs might be higher at lower intensities, you're going to end up burning more calories regardless at a higher intensity.
+So you might as well just do higher intensity.
+Yeah, yeah, no, I like that thought too.
+So it's basically, even though you're getting a larger contribution from fats at a lower intensity, so a higher percent, if you exercise at a higher intensity, you're getting an increase in total energy expenditure.
+So I really like that one.
+But the true piece, you're not alone.
+How many, this is even in your textbook, how many of you have seen this before?
+If you want to lose weight, in particular, burn fat, fat burning, you need to stay in the light to very light zone.
+We need to be in the low intensity to maximize the fat oxidation or the fat burning, which brought us into this fat burning zone myth.
+Where did they get this?
+from probably what most of you are thinking right here.
+If I look at this teal curve, if I wanna burn the most fat as far as a percent here, just looking at this curve, if someone showed me this curve, I would say I need to be at the lowest intensity to burn the most fat.
+But that's not necessarily what ends up happening because if I am walking around campus for an hour,
+and I burn 100 calories.
+Maybe 99% of the calories of the 100 are coming from fat, right?
+That seems great, but what if I ran or jogged around campus for an hour?
+Well, now I'm burning maybe 600 calories, and even though I'm only taking 50%, well, that 50% is from a larger piece of a pie, so now I'm burning 300 calories from fat.
+And so we'll get into this here, where at low intensities, say 20% VO2 max, maybe the total energy expenditure is three kcals per minute.
+If the R or the RER is 0.8, 67% of the energy is coming from fat.
+So a higher fat oxidation compared to a carbohydrate oxidation.
+Let's take some time, not too long, but let's calculate how many kcals are gonna come from fat here.
+It shouldn't take you too long.
+And then calculate how many kcals are coming from carbohydrates.
+So let's spend a couple minutes.
+It'll be a relatively straightforward calculation here, but let's just do that really fast.
+Okay, how are we doing with this one?
+Pretty good?
+You're just pretty much doing 67% of the total, right?
+And then, okay.
+So we're at 20% VO2 max.
+We'll go over these calculations in a bit, but we're gonna try one more.
+20% VO2 max, three kcal per minute.
+If I bump us up to 60% VO2 max, nine kcal per minute, and we get an R of .9, 33% energy from fat.
+Let's calculate how many kcal per minute are coming from fat and carbohydrates.
+And these are real numbers here, right?
+You will all see these numbers yourselves
+Well, not all of you, but whoever's volunteering to exercise next week.
+OK, don't worry if you're not there yet.
+But on that first one, was it like 67% of your carb, 67% of the energy that you just expended are coming from fats.
+Around how many kcal per minute would that be?
+Say again?
+Close to two, right?
+Yeah.
+So if you just took this, I know it's not exactly, but yeah, around 67 times 3, we're getting 2 kcals per minute from fat and 1 kcal per minute from carbohydrates.
+No one's going to argue that this lower intensity had a higher fat oxidation rate from a relative standpoint, the percentage.
+And then same deal, no one's gonna argue that as you increase exercise intensity, you're gonna have a decrease in the relative contribution from fat.
+But look at that, three Kcal per minute from fat versus two.
+Web of lies, right?
+We've just been fed all these lies, they're all lies.
+Just kidding, no, it's okay.
+Why is this happening?
+Well, if you were to actually plot this at every single exercise intensity,
+we actually get into something called the maximum fat oxidation rate.
+There are a lot of athletes that we build these curves for.
+This is something that athletes do like, and sometimes people who are undergoing any type of exercise training program.
+We can actually look and see if this here, this on the left y-axis is R, or RER, on the right is the absolute, so grams per minute fat oxidation here on the right y-axis.
+And then on the bottom here we have exercise intensity.
+As we increase in exercise intensity, the absolute fat oxidation rate increases up to a certain point where the exercise intensity starts to have such a small contribution from fat that we actually start to decrease in this fat oxidation rate.
+So I guess the,
+Moral of the story with this one is, well, there are some exercise intensities that are too high to have a high absolute fat oxidation rate, and some of them are too low.
+We need to kind of build this curve to find where that maximum fat oxidation rate is to try to capture in how much, or if someone is really trying to burn the most amount of fat.
+So this is pretty good, right?
+OK, I need to be maybe around 60%.
+Interestingly enough, that also occurs very close to one's lactate threshold.
+So at 60% intensity, you are actually burning the most fat compared to any other intensity in this given example here.
+All right, so maybe you're thinking, man,
+Are we really towing the line here between maximum fat oxidation from here to here because we're looking at point three versus point four?
+Well, yeah, that could add up over multiple sessions as you are exercising.
+Here's the other part.
+This is the nice part.
+Not only do you burn more fat during exercise,
+that you actually burn more after exercise.
+So this is the post-exercise resting metabolic rate, RMR, and how it becomes elevated after higher intensity exercise.
+So we're looking at 80 minutes of high intensity cycling.
+If I'm looking at different exercise intensity down here, so 30%, 50%, and 75%,
+And we're looking at, on the right side here, caloric expenditure post exercise.
+So don't worry too much about this black curve.
+This is just telling us how long it was elevated.
+Well, I guess that is pretty nice because that's 10 hours after exercise.
+But after all of that, just during rest, so they undergo 80 minutes of high intensity exercise,
+and then you take them off the bike and you lay them and have them quietly rest or sleep.
+You measure the caloric expenditure during rest and they are burning 151 calories after exercise compared to 7 and 29 at 30 and 50%.
+When I am resting, what percent would you say I would be utilizing from fat?
+around, we don't need an exact number, but 100.
+I'd say like 99.9, but yeah, 100, right?
+150 of those 151 calories are coming from fat.
+So not only did you burn more during exercise, but you start burning more after exercise.
+Whoa, right?
+That's pretty cool.
+So why is this happening?
+Well there's something that we need to look at which is the kind of epoch exercise post-oxygen consumption.
+Oxygen uptake remains elevated above rest while we are recovering from exercise.
+That again is called excess post-exercise oxygen consumption
+So previously termed as oxygen depth, sometimes you'll hear this term, but we don't really use that term for epoch anymore because we put it at the start of exercise basically.
+This means the O2 consumed is greater than the O2 demand.
+We have two separate portions that we're gonna talk about here in the next slide.
+It's the rapid portion and the slow portion, yep.
+This one right here?
+Okay.
+Yeah, but if I, so that's a good question.
+If I then push this to 90%, you are correct that things start to linger a bit more, but it becomes a little bit more problematic because you might not be able to sustain that exercise for 80 minutes.
+So as I increase in exercise intensity by default, if I told you to sprint as fast as you can, well, that's probably going to be like 15 seconds.
+And so you're not going to see this as large of an increase.
+And that's why that fat oxidation starts to curl down.
+So if you stay on that max fat oxidation intensity and you maintain that, you'll get kind of the dual benefit during exercise and post exercise.
+So that would be a combination of the two.
+Yeah, yeah, yeah, exactly, yeah.
+Okay, so these are the two parts, right?
+If we're looking at moderate exercise, so kind of the lower intensity exercise.
+We talked about this already, where if you jump on a treadmill and start exercising, you don't automatically have a heart rate, ventilation, and oxygen consumption that matches the energy demand.
+It takes a little bit of time for us to reach steady state.
+Anything that's shaded on the left of this
+Well, we had to use what kind of sources to keep us on the treadmill?
+Yeah, anaerobic or non-oxidative or those immediate energy sources.
+We had to rely on those to keep us running.
+And that's why that's deemed like O2 debt.
+We didn't use oxygen.
+The demand was much higher than what we actually utilized.
+Okay, and then we stop exercise at six minutes.
+And you all have probably experienced this before.
+Maybe you're running after the bus or you're running late to class or you're just kind of exercising and then you sit down.
+Well, you don't sit down and automatically your heart rate drops and your ventilation drops.
+No, it takes a little bit for you to settle down.
+That's what this piece is here.
+If I shade this in, you are not doing any work, but you are still consuming oxygen here.
+This initial slope here is the rapid component.
+And then once the slope starts to flatten out, that's the slow component.
+If then I bump you up to a harder exercise intensity, you will see a larger O2 debt and a larger epoch.
+Here we are almost saying they have reached VO2 max.
+In order for this individual to sustain the exercise from oxidative phosphorylation, they would need to consume 4.5 liters per minute.
+For whatever reason, they are unable to do that.
+And so the maximum oxygen consumption is 3.5.
+That means they are an O2 deficit all the way up to this 4.5 spot.
+Once you stop exercise, you can see the dramatic change in epoch.
+So this one kind of flattened out almost to baseline after, what is that, four minutes after exercise?
+Whereas this one,
+we're kind of delaying this all the way out to almost 14 minutes and it didn't even flatten off and this actually extends for quite a long time.
+And so you can see the rapid component and the slow component are much longer compared to moderate exercise.
+Though it's not the only contributing factor, a larger O2 debt will result in a larger epoch.
+So if I draw a larger area under the curve over here or under this line, then that will be, so larger O2 debt, larger epoch.
+So if I'm just shading this in,
+If you actually take this area, you take the integral of this and the integral of that, they actually don't equal one to one.
+So it's not 100%.
+But if I see a large O2 debt, I know there's going to be a large epoch.
+So then what are all the factors?
+Well, here are the factors contributing to epoch.
+This one over here, restoration of muscle and blood oxygen stores and the resynthesis of phosphocreatine are gonna contribute to the rapid portion of EPOC, whereas the conversion of lactate to glucose as well as all of these others are gonna contribute to the slow component.
+Any questions here?
+All right.
+Well, that's all I have for you.
+Enjoy your weekend.
+Have a good one.

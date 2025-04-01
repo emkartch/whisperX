@@ -1,0 +1,2716 @@
+1
+00:02:16,128 --> 00:02:17,489
+OK, welcome back.
+
+2
+00:02:19,371 --> 00:02:24,856
+Very briefly, before we get started, this Monday, March
+
+3
+00:02:24,856 --> 00:02:34,686
+3, I'm hosting a colloquium speaker that typically happens every Monday for this semester at 11.15.
+
+4
+00:02:36,448 --> 00:02:45,136
+But the speaker that I'm hosting on Monday, so Dr. Hokehammer, he
+
+5
+00:02:45,136 --> 00:02:47,738
+Did a post-doc here at CU, and we did some of
+
+6
+00:02:47,738 --> 00:02:51,842
+the original research together on those Nike, the first Nike
+
+7
+00:02:51,842 --> 00:02:56,386
+performance shoes, so those vapor flies that I think we had touched on.
+
+8
+00:02:56,386 --> 00:02:58,708
+So he's gonna be coming to give a talk on
+
+9
+00:02:58,708 --> 00:03:05,835
+the latest research on performance running shoes, and thought you might be interested.
+
+10
+00:03:05,835 --> 00:03:15,123
+No worries if you're not, but if you are, Humanities 250, Monday, March 3rd at 11.15 a.m.
+
+11
+00:03:15,123 --> 00:03:21,954
+That should be a pretty interesting talk.
+
+12
+00:03:21,954 --> 00:03:27,503
+All right.
+
+13
+00:03:27,503 --> 00:03:32,691
+So we're gonna pick up where we left off on Tuesday, circulatory responses to exercise.
+
+14
+00:03:32,691 --> 00:03:34,414
+So we're on that chapter nine.
+
+15
+00:03:36,757 --> 00:03:39,605
+We touched on, or I guess the last few slides that
+
+16
+00:03:39,605 --> 00:03:44,157
+we looked at were regarding kind of this idea of the Wiggers diagram.
+
+17
+00:03:44,157 --> 00:03:47,024
+It gives us a really good idea of how pressure changes
+
+18
+00:03:47,024 --> 00:03:52,940
+in the heart lead to blood kind of leaving or filling inside of the ventricles.
+
+19
+00:03:52,940 --> 00:03:57,126
+The Wiggers diagram is something that you all have seen before in physiology.
+
+20
+00:03:58,007 --> 00:04:00,410
+I had mentioned that we are no longer, or at least
+
+21
+00:04:00,410 --> 00:04:04,856
+for exercise physiology, we're not going to be really worried about the Wiggers diagram.
+
+22
+00:04:04,856 --> 00:04:07,039
+But since you know the Wiggers diagram a little bit
+
+23
+00:04:07,039 --> 00:04:14,789
+better, it's nice to kind of reference the Wiggers diagram to get to the ventricle pressure-volume loop.
+
+24
+00:04:14,789 --> 00:04:19,375
+So we're now going to be using the pressure-volume loop.
+
+25
+00:04:19,375 --> 00:04:21,478
+As a reminder, we're going
+
+26
+00:04:22,673 --> 00:04:26,638
+kind of up and then left down to the right.
+
+27
+00:04:26,638 --> 00:04:30,002
+So this is the direction of the pressure volume loop.
+
+28
+00:04:32,605 --> 00:04:37,792
+Let's start off with trying to fill in some of these pieces here.
+
+29
+00:04:37,792 --> 00:04:42,017
+So we first talked about how if the mitral valve closes
+
+30
+00:04:42,017 --> 00:04:46,903
+here and we have an increase in this pressure, well, the
+
+31
+00:04:46,903 --> 00:04:51,563
+pressure is increasing with no change in volume here.
+
+32
+00:04:51,563 --> 00:04:57,232
+And then when the aortic valve opens, you still get a little bit of an increase in pressure,
+
+33
+00:04:57,232 --> 00:05:01,458
+but if you have that aortic valve opening, you get a
+
+34
+00:05:01,458 --> 00:05:07,287
+decrease in the amount of blood inside the ventricle because it's leaving the ventricle now.
+
+35
+00:05:08,509 --> 00:05:13,296
+And then during relaxation, the pressure drops, but you don't
+
+36
+00:05:13,296 --> 00:05:18,043
+get any movement in blood or blood volume doesn't change.
+
+37
+00:05:19,019 --> 00:05:21,483
+And then the mitral valve opens again.
+
+38
+00:05:21,483 --> 00:05:27,474
+Left ventricle volume goes up because it's passive and actively
+
+39
+00:05:27,474 --> 00:05:30,720
+filling up with blood for the next cardiac cycle.
+
+40
+00:05:31,702 --> 00:05:34,828
+So what I would like you to do now is to fill
+
+41
+00:05:34,828 --> 00:05:43,423
+in the appropriate boxes on the pressure volume loop using what you know from the Wiger's diagram.
+
+42
+00:05:45,395 --> 00:05:51,226
+So keep in mind, on the x-axis, you have the left ventricular volume.
+
+43
+00:05:51,226 --> 00:05:54,773
+On the y-axis, you have left ventricular pressure.
+
+44
+00:05:56,236 --> 00:05:58,260
+So let's take some time to label those.
+
+45
+00:05:58,260 --> 00:06:02,408
+I'll walk around if you have any questions, and then we'll come back in a couple minutes.
+
+46
+00:08:58,158 --> 00:08:59,160
+OK, not too bad, right?
+
+47
+00:09:03,648 --> 00:09:04,670
+Let's try this out then.
+
+48
+00:09:07,856 --> 00:09:10,461
+Using the two diagrams, match the letters A through D
+
+49
+00:09:10,461 --> 00:09:14,168
+with the appropriate event in the left ventricle.
+
+50
+00:09:14,168 --> 00:09:18,917
+You pretty much have already done that, but let's put that in an order here.
+
+51
+00:09:29,410 --> 00:09:29,871
+Okay.
+
+52
+00:11:43,145 --> 00:11:58,723
+Yeah, just to make sure, these A, B, C, D are A, B, C, D, if that helps.
+
+53
+00:13:02,137 --> 00:13:05,324
+Okay, how are we doing here?
+
+54
+00:13:05,324 --> 00:13:08,090
+Anyone need a little more time?
+
+55
+00:13:08,090 --> 00:13:10,275
+I guess I do see people pointing, so that's good.
+
+56
+00:13:13,502 --> 00:13:18,593
+Let's go maybe another minute.
+
+57
+00:14:22,360 --> 00:14:24,123
+Okay, let's get something in.
+
+58
+00:14:24,123 --> 00:14:26,846
+Double check you have an answer.
+
+59
+00:14:29,370 --> 00:14:31,273
+We'll close it down in 10 seconds.
+
+60
+00:14:38,082 --> 00:14:41,527
+Okay, three, two, one.
+
+61
+00:14:45,012 --> 00:14:45,693
+Okay, how do we do?
+
+62
+00:14:45,693 --> 00:14:48,317
+I think we're a little bit between
+
+63
+00:14:50,238 --> 00:14:53,761
+D and C, this is the correct answer.
+
+64
+00:14:53,761 --> 00:14:54,762
+I won't grade that one.
+
+65
+00:14:56,144 --> 00:14:58,906
+OK, so let's take a look at this.
+
+66
+00:15:02,410 --> 00:15:04,031
+D is correct.
+
+67
+00:15:05,252 --> 00:15:09,937
+If you had went with C, more than likely you're going
+
+68
+00:15:09,937 --> 00:15:13,500
+the wrong way with some of these pieces here.
+
+69
+00:15:13,500 --> 00:15:19,010
+OK, so if we want to find isovolumetric contraction,
+
+70
+00:15:19,010 --> 00:15:21,338
+We actually want to be on this side.
+
+71
+00:15:22,563 --> 00:15:26,337
+So we know it's contraction for a couple reasons.
+
+72
+00:15:26,337 --> 00:15:26,758
+One,
+
+73
+00:15:27,886 --> 00:15:33,553
+you typically have contraction once the left ventricle is at its highest volume.
+
+74
+00:15:34,874 --> 00:15:38,919
+Because when we contract, we want to move the blood out of the heart.
+
+75
+00:15:39,800 --> 00:15:42,563
+So we have isovolumetric contraction.
+
+76
+00:15:42,563 --> 00:15:46,588
+And even if you forgot what isovolumetric was, you
+
+77
+00:15:46,588 --> 00:15:51,113
+would say the ventricles are contracting with no corresponding volume change.
+
+78
+00:15:51,934 --> 00:15:56,880
+So if you look here, I have an increase in pressure
+
+79
+00:15:58,058 --> 00:16:01,345
+But the volume down here on the x-axis is not changing.
+
+80
+00:16:02,387 --> 00:16:06,134
+That's why it's isovolumetric contraction.
+
+81
+00:16:06,134 --> 00:16:08,940
+The pressure is going up.
+
+82
+00:16:08,940 --> 00:16:13,909
+Then eventually, the pressure inside the ventricle overcomes the
+
+83
+00:16:13,909 --> 00:16:18,278
+pressure on the aortic valve, and the aortic valve opens.
+
+84
+00:16:19,557 --> 00:16:24,785
+As soon as that aortic valve opens, blood moves outside of
+
+85
+00:16:24,785 --> 00:16:28,370
+the ventricle and into the aorta to go to the rest of the body.
+
+86
+00:16:29,672 --> 00:16:32,576
+We know this from the pressure volume loop because the
+
+87
+00:16:32,576 --> 00:16:38,705
+volume is decreasing in the left ventricle, so it's going to the left over here, or to your right.
+
+88
+00:16:39,806 --> 00:16:41,910
+No, your left, sorry.
+
+89
+00:16:41,910 --> 00:16:43,692
+So it's going this way over here.
+
+90
+00:16:47,157 --> 00:16:47,758
+Then,
+
+91
+00:16:48,667 --> 00:16:52,772
+You can't maintain the contraction forever, so the heart relaxes.
+
+92
+00:16:55,215 --> 00:17:00,702
+As soon as it relaxes, that valve closes down, the aortic valve, right?
+
+93
+00:17:00,702 --> 00:17:02,664
+No blood can go back into the ventricle.
+
+94
+00:17:04,346 --> 00:17:09,132
+So the pressure's decreasing, but there's no change in volume.
+
+95
+00:17:10,614 --> 00:17:13,618
+So you'd get your isovolumetric relaxation.
+
+96
+00:17:16,301 --> 00:17:18,417
+And then you get the filling.
+
+97
+00:17:18,417 --> 00:17:18,637
+Right?
+
+98
+00:17:19,559 --> 00:17:22,182
+You're going from a lower volume to a higher volume here.
+
+99
+00:17:24,525 --> 00:17:25,907
+And then you start the cycle again.
+
+100
+00:17:29,773 --> 00:17:31,115
+Any questions on this one?
+
+101
+00:17:31,115 --> 00:17:40,107
+Yeah?
+
+102
+00:17:40,107 --> 00:17:47,277
+Yeah, so B would be right here, so it would be isovolumetric contraction for B.
+
+103
+00:17:48,691 --> 00:17:53,941
+And then isovolumetric relaxation would be D, which is down this way.
+
+104
+00:17:54,803 --> 00:17:57,147
+So I'd put D in the second line right here.
+
+105
+00:17:59,451 --> 00:18:04,481
+And then A, ventricle filling, would be right here.
+
+106
+00:18:04,481 --> 00:18:08,308
+This is A. And this represents the ventricle's filling.
+
+107
+00:18:09,210 --> 00:18:09,571
+We OK?
+
+108
+00:18:09,571 --> 00:18:09,771
+OK.
+
+109
+00:18:18,172 --> 00:18:19,436
+Any other questions on this one?
+
+110
+00:18:22,284 --> 00:18:28,683
+So it's a relatively straightforward kind of figure, but please
+
+111
+00:18:28,683 --> 00:18:32,755
+make sure you spend some time on this one to understand what's going on at each point.
+
+112
+00:18:38,725 --> 00:18:41,589
+Okay, cardiac output would be the next concept here.
+
+113
+00:18:42,530 --> 00:18:45,313
+Cardiac output you are already familiar with.
+
+114
+00:18:45,313 --> 00:18:49,398
+It's the amount of blood pumped by the heart each minute.
+
+115
+00:18:49,398 --> 00:18:52,422
+If I want to know the amount or the liters of blood
+
+116
+00:18:53,544 --> 00:18:59,151
+per minute, then there are two things that you really need to have in play here to get cardiac output.
+
+117
+00:19:00,172 --> 00:19:03,776
+Number one would be heart rate because that gives you the number of beats per minute.
+
+118
+00:19:05,098 --> 00:19:06,640
+And then stroke volume.
+
+119
+00:19:08,088 --> 00:19:12,373
+which is basically how much blood is leaving per beat.
+
+120
+00:19:15,497 --> 00:19:19,341
+Cardiac output does depend on training state as well as sex.
+
+121
+00:19:22,905 --> 00:19:24,507
+What does that look like?
+
+122
+00:19:24,507 --> 00:19:31,615
+Well, if we are looking at untrained male and females, the cardiac outputs are different.
+
+123
+00:19:32,692 --> 00:19:36,216
+So men tend to have higher cardiac outputs than women.
+
+124
+00:19:37,317 --> 00:19:43,204
+And trained individuals tend to have higher cardiac output than untrained individuals.
+
+125
+00:19:44,526 --> 00:19:47,870
+We also see differences between rest and max.
+
+126
+00:19:49,772 --> 00:19:55,138
+So we'll have the highest cardiac output during maximal exercise and the lowest during rest.
+
+127
+00:19:57,076 --> 00:19:59,699
+So a few things going on right here.
+
+128
+00:19:59,699 --> 00:20:01,901
+We're comparing sex, differences in sex.
+
+129
+00:20:02,722 --> 00:20:05,264
+We're also comparing differences in training status.
+
+130
+00:20:06,165 --> 00:20:10,830
+And then this table's also comparing differences between rest and maximal exercise.
+
+131
+00:20:18,097 --> 00:20:18,197
+Okay.
+
+132
+00:20:20,900 --> 00:20:23,623
+Using kind of the idea of this table here,
+
+133
+00:20:24,987 --> 00:20:32,257
+we can get some good information or we can pair this with the pressure volume loop.
+
+134
+00:20:32,257 --> 00:20:32,998
+Let's try this out.
+
+135
+00:20:33,999 --> 00:20:39,927
+A pressure volume loop is created for an untrained individual.
+
+136
+00:20:41,389 --> 00:20:43,752
+This untrained individual is female and about 50
+
+137
+00:20:43,752 --> 00:20:47,537
+kilograms at rest and during different intensities.
+
+138
+00:20:48,898 --> 00:20:50,317
+Let's
+
+139
+00:20:50,317 --> 00:20:55,923
+see which one of these pressure volume loops have been created.
+
+140
+00:20:56,904 --> 00:21:03,071
+So you're trying to see when this pressure volume loop
+
+141
+00:21:03,071 --> 00:21:09,838
+was created during these three or none of these intensities.
+
+142
+00:21:13,943 --> 00:21:17,367
+So make sure to reference the table before.
+
+143
+00:21:17,367 --> 00:21:18,568
+That's gonna help you out.
+
+144
+00:24:34,383 --> 00:24:38,308
+Okay, double check you have something clicked in.
+
+145
+00:24:39,209 --> 00:24:41,252
+We'll close it down in 15 seconds here.
+
+146
+00:24:41,252 --> 00:24:51,044
+Five seconds.
+
+147
+00:24:53,808 --> 00:24:56,451
+Three, two, one.
+
+148
+00:24:57,313 --> 00:25:01,538
+Okay, how did we do?
+
+149
+00:25:03,172 --> 00:25:06,859
+B's the correct answer, but that's not great.
+
+150
+00:25:08,743 --> 00:25:13,032
+Let's kind of break this down.
+
+151
+00:25:14,074 --> 00:25:20,647
+First, we need to determine for this particular athlete here,
+
+152
+00:25:20,647 --> 00:25:23,593
+what is their stroke volume, or a round.
+
+153
+00:25:25,413 --> 00:25:26,654
+75 to 80, right?
+
+154
+00:25:26,654 --> 00:25:28,116
+So you're at 125.
+
+155
+00:25:28,116 --> 00:25:29,117
+You're at 50 here.
+
+156
+00:25:29,117 --> 00:25:30,218
+So that's at least 75.
+
+157
+00:25:30,218 --> 00:25:31,599
+It's a little bit below.
+
+158
+00:25:31,599 --> 00:25:33,541
+OK, 75 to 80.
+
+159
+00:25:34,742 --> 00:25:43,550
+Then we need to reference what a untrained female who's around 50 kilograms.
+
+160
+00:25:44,671 --> 00:25:45,973
+Well, would you look at that.
+
+161
+00:25:45,973 --> 00:25:49,936
+We have female who's around 50 kilograms.
+
+162
+00:25:49,936 --> 00:25:54,488
+We have untrained at rest.
+
+163
+00:25:54,488 --> 00:25:55,870
+their stroke volume's at 60.
+
+164
+00:25:57,352 --> 00:26:00,015
+At maximal exercise, it's 90.
+
+165
+00:26:01,497 --> 00:26:06,383
+So they're definitely not at rest, because they're working harder than being at rest.
+
+166
+00:26:08,125 --> 00:26:10,127
+And they're definitely not at max yet.
+
+167
+00:26:11,129 --> 00:26:13,672
+They're actually pretty close to in between.
+
+168
+00:26:16,375 --> 00:26:19,459
+So in this instance, it would be submaximal exercise.
+
+169
+00:26:22,803 --> 00:26:23,584
+Any questions?
+
+170
+00:26:31,647 --> 00:26:33,790
+Because then now that we know what cardiac output is,
+
+171
+00:26:33,790 --> 00:26:37,175
+well, you've kind of known that already, let's break
+
+172
+00:26:37,175 --> 00:26:40,519
+down the factors that actually regulate cardiac output.
+
+173
+00:26:42,082 --> 00:26:45,466
+We need to go kind of step by step here.
+
+174
+00:26:45,466 --> 00:26:51,935
+We're going to work our way first to the activity of the parasympathetic and sympathetic system.
+
+175
+00:26:51,935 --> 00:26:54,499
+And then we're going to break down stroke volume and heart rate.
+
+176
+00:26:57,432 --> 00:27:02,239
+One of the two kind of mechanisms to regulate heart
+
+177
+00:27:02,239 --> 00:27:05,423
+rate would be the parasympathetic and the sympathetic system.
+
+178
+00:27:07,567 --> 00:27:10,831
+If we increase the activity of the sympathetic nervous system
+
+179
+00:27:10,831 --> 00:27:13,936
+to the heart, we are gonna increase heart rate.
+
+180
+00:27:15,237 --> 00:27:19,103
+You also have a parasympathetic withdrawal.
+
+181
+00:27:20,433 --> 00:27:26,985
+So you are inhibiting the SA node less, and that's gonna help speed up heart rate.
+
+182
+00:27:26,985 --> 00:27:30,592
+So you have those two major factors that are contributing
+
+183
+00:27:30,592 --> 00:27:34,459
+to an increase in cardiac output, but primarily heart rate.
+
+184
+00:27:37,814 --> 00:27:40,801
+Okay, so if we're at the autonomic nervous system,
+
+185
+00:27:40,801 --> 00:27:47,156
+we talked about the somatic motor pathway before when we were dealing with skeletal muscle.
+
+186
+00:27:47,156 --> 00:27:52,549
+Now we're kind of moving over to this parasympathetic as well as the sympathetic pathway.
+
+187
+00:27:54,267 --> 00:27:57,393
+You don't need to memorize these, but it is sometimes
+
+188
+00:27:57,393 --> 00:28:02,483
+nice to know that the preganglionic fibers for
+
+189
+00:28:02,483 --> 00:28:10,118
+both parasympathetic and sympathetic are releasing acetylcholine on the post synapse.
+
+190
+00:28:10,118 --> 00:28:12,644
+Then on the post...
+
+191
+00:28:12,644 --> 00:28:14,607
+ganglionic fibers here.
+
+192
+00:28:14,607 --> 00:28:18,612
+Acetylcholine is the neurotransmitter that's being released to
+
+193
+00:28:18,612 --> 00:28:24,821
+the target tissue in the parasympathetic, whereas the sympathetic is using norepinephrine.
+
+194
+00:28:26,984 --> 00:28:31,029
+The reason why I point this out is because we
+
+195
+00:28:31,029 --> 00:28:40,963
+also have circulating epinephrine in the blood from the adrenal medulla.
+
+196
+00:28:41,922 --> 00:28:49,530
+So we have these organs here releasing epinephrine into the blood.
+
+197
+00:28:49,530 --> 00:28:59,761
+They also can bind to these receptors to cause changes in heart rate and contractility.
+
+198
+00:29:03,285 --> 00:29:05,243
+So now I would never
+
+199
+00:29:05,243 --> 00:29:09,623
+tests you on the ganglia and the neurotransmitters.
+
+200
+00:29:09,623 --> 00:29:12,094
+But if you understand those two pieces, it might help
+
+201
+00:29:12,094 --> 00:29:14,123
+you with some of the other mechanisms later on.
+
+202
+00:29:17,832 --> 00:29:22,538
+Okay, so primarily for the parasympathetic vagus nerve,
+
+203
+00:29:22,538 --> 00:29:28,024
+those are typically only kind of interfacing with or binding
+
+204
+00:29:28,024 --> 00:29:32,249
+or sending their neurotransmitter to the SA and AV node.
+
+205
+00:29:32,249 --> 00:29:35,413
+So they're really just kind of controlling the pace of
+
+206
+00:29:35,413 --> 00:29:39,398
+the heart by influencing the AV and SA node.
+
+207
+00:29:41,260 --> 00:29:43,182
+The sympathetic nervous system.
+
+208
+00:29:45,052 --> 00:29:53,944
+does the same thing, AV NSA node, but it also has connections to the myocardium.
+
+209
+00:29:54,785 --> 00:29:59,472
+So to the actual heart tissue, the muscles, the actual muscles.
+
+210
+00:30:01,455 --> 00:30:07,423
+We sometimes call these sympathetic pathways cardiac accelerator nerves.
+
+211
+00:30:09,966 --> 00:30:11,869
+And we'll touch on this again a little bit later.
+
+212
+00:30:17,114 --> 00:30:18,716
+Okay, so regulation of heart rate.
+
+213
+00:30:20,438 --> 00:30:22,380
+This is the how, right?
+
+214
+00:30:22,380 --> 00:30:23,842
+So why does heart rate increase?
+
+215
+00:30:24,663 --> 00:30:28,227
+Well, heart rate increases because we have to deliver more blood to the tissues.
+
+216
+00:30:29,429 --> 00:30:30,931
+How is heart rate increasing?
+
+217
+00:30:31,932 --> 00:30:33,994
+We have two major pieces like we touched on.
+
+218
+00:30:33,994 --> 00:30:37,899
+Parasympathetic nervous system has some sort of withdrawal.
+
+219
+00:30:39,721 --> 00:30:43,895
+This is via the vagus nerve, which we just looked at on that previous figure.
+
+220
+00:30:43,895 --> 00:30:47,807
+If you have the parasympathetic nervous system releasing
+
+221
+00:30:47,807 --> 00:30:51,720
+that acetylcholine, it's gonna slow the heart rate by inhibiting the SA and AV node.
+
+222
+00:30:52,743 --> 00:30:57,398
+So if you withdraw this activity, it's gonna help increase heart rate.
+
+223
+00:31:03,217 --> 00:31:08,747
+OK, like I talked about, we have acetylcholine binding to these muscarinic cholinergic receptors.
+
+224
+00:31:08,747 --> 00:31:12,394
+They cause these G-protein conformational changes.
+
+225
+00:31:12,394 --> 00:31:20,990
+They're going to allow for potassium to leave, which is going to cause a hyperpolarization.
+
+226
+00:31:22,312 --> 00:31:24,837
+It's also going to block calcium from coming in.
+
+227
+00:31:32,883 --> 00:31:39,357
+If you have a hyperpolarization and you have positive ions leaving, it's going to reduce.
+
+228
+00:31:40,198 --> 00:31:42,724
+It's going to make it more negative.
+
+229
+00:31:42,724 --> 00:31:45,229
+And you block positive ions from entering.
+
+230
+00:31:45,229 --> 00:31:46,852
+So that's the hyperpolarization here.
+
+231
+00:31:50,801 --> 00:31:54,112
+This is also considered the autorhythmic cell.
+
+232
+00:31:54,112 --> 00:31:58,177
+This is really helping us get our resting heart rate, right?
+
+233
+00:31:58,177 --> 00:32:03,023
+It's just, you have that consistent heartbeat at rest.
+
+234
+00:32:05,166 --> 00:32:07,088
+Okay, number two, sympathetic nervous system.
+
+235
+00:32:07,910 --> 00:32:10,353
+These are via the cardiac accelerator nerves.
+
+236
+00:32:11,875 --> 00:32:15,599
+Those are the ones binding directly to the myocardium.
+
+237
+00:32:18,823 --> 00:32:22,448
+And we can increase by stimulating the SA and AV node.
+
+238
+00:32:27,642 --> 00:32:32,428
+So if you remember acetylcholine from the parasympathetic
+
+239
+00:32:32,428 --> 00:32:35,733
+nervous system, epinephrine for the sympathetic.
+
+240
+00:32:35,733 --> 00:32:38,837
+So we have epinephrine or norepinephrine binding to these
+
+241
+00:32:38,837 --> 00:32:45,145
+beta receptors here, cause some G protein conformational change, secondary messenger.
+
+242
+00:32:45,145 --> 00:32:49,851
+Then you open these two channels that are gonna allow
+
+243
+00:32:49,851 --> 00:32:52,755
+for sodium and calcium to rush into the cell.
+
+244
+00:32:54,592 --> 00:32:57,422
+That's gonna make the membrane potential get more positive
+
+245
+00:32:58,627 --> 00:33:00,875
+and increase the chance you're gonna get an action potential.
+
+246
+00:33:01,818 --> 00:33:06,475
+We call that depolarization when we're making the membrane potential more positive.
+
+247
+00:33:17,845 --> 00:33:21,369
+So we talked about depolarization, hyperpolarization.
+
+248
+00:33:21,369 --> 00:33:25,413
+This is another figure that helps with some of this.
+
+249
+00:33:26,314 --> 00:33:31,860
+So the parasympathetic nervous system is going to make it more negative, hyperpolarize it.
+
+250
+00:33:31,860 --> 00:33:36,946
+And so it's going to be a little bit harder to get to this point here.
+
+251
+00:33:37,787 --> 00:33:40,450
+And so that's the membrane potential threshold.
+
+252
+00:33:40,450 --> 00:33:47,818
+So any time the membrane reaches this millivolt, then it will generate an action potential.
+
+253
+00:33:49,418 --> 00:33:52,005
+It'll slowly creep up and then generate the action potential.
+
+254
+00:33:52,907 --> 00:33:56,095
+So if we hyperpolarize the cell, it's going to take
+
+255
+00:33:56,095 --> 00:34:01,690
+a little bit longer before we reach that membrane potential to induce the action potential.
+
+256
+00:34:11,997 --> 00:34:16,586
+So we're gonna skip this one here, but we'll move on to regulation of heart rate.
+
+257
+00:34:17,528 --> 00:34:22,257
+So we know that we can, if from rest to maximal
+
+258
+00:34:22,257 --> 00:34:29,652
+exercise, we usually see a pretty linear increase in heart rate, but it's never just like, oh,
+
+259
+00:34:32,365 --> 00:34:36,129
+We don't really see the mechanisms behind it, but we
+
+260
+00:34:36,129 --> 00:34:39,552
+can start to separate where the influence of the
+
+261
+00:34:39,552 --> 00:34:43,356
+parasympathetic and the sympathetic nervous system are contributing.
+
+262
+00:34:44,297 --> 00:34:48,121
+So the initial increase is due to parasympathetic withdrawal.
+
+263
+00:34:49,923 --> 00:34:54,848
+So around the first 40% of intensity, this is on average,
+
+264
+00:34:55,869 --> 00:34:59,613
+that increase in heart rate, so when we see down here, this
+
+265
+00:34:59,613 --> 00:35:02,136
+is intensity over here, and then we have heart rate,
+
+266
+00:35:03,145 --> 00:35:07,070
+The increase in heart rate up to around this point here
+
+267
+00:35:07,070 --> 00:35:14,540
+is primarily due to the withdrawal of the parasympathetic nervous system.
+
+268
+00:35:14,540 --> 00:35:16,142
+So it's not inhibiting as much.
+
+269
+00:35:20,147 --> 00:35:22,570
+Again, on average, around 100 beats per minute.
+
+270
+00:35:22,570 --> 00:35:25,514
+So from rest up to that 100 beats per minute.
+
+271
+00:35:27,076 --> 00:35:30,230
+Additional increases in heart rate
+
+272
+00:35:30,230 --> 00:35:34,176
+we actually need to stimulate the AV node.
+
+273
+00:35:34,176 --> 00:35:37,782
+So we need to increase the signal that's being sent to it.
+
+274
+00:35:37,782 --> 00:35:40,927
+And so that's happening with sympathetic nervous system outflow.
+
+275
+00:35:45,315 --> 00:35:46,496
+So that's happening over here.
+
+276
+00:35:46,496 --> 00:35:49,481
+So these increases on the back end or higher
+
+277
+00:35:49,481 --> 00:35:54,870
+intensities are primarily due to sympathetic nervous system activity.
+
+278
+00:35:56,453 --> 00:35:58,939
+And you can always associate that with epinephrine.
+
+279
+00:35:58,939 --> 00:36:02,146
+So circulating epinephrine as well as those cardiac
+
+280
+00:36:02,146 --> 00:36:07,138
+accelerator nerves and the sympathetic nervous system attaching to the SA and AV nodes.
+
+281
+00:36:16,467 --> 00:36:20,632
+Okay, so we kinda touched on this before, but regulation
+
+282
+00:36:20,632 --> 00:36:25,539
+of heart rate, a change in body temperature can influence heart rate during exercise.
+
+283
+00:36:25,539 --> 00:36:29,444
+So if we have control here or cool room versus a
+
+284
+00:36:29,444 --> 00:36:33,629
+heated room, and we have an individual who's exercising, there
+
+285
+00:36:33,629 --> 00:36:40,939
+is a significant difference or an increase in the heart rate with an elevated temperature.
+
+286
+00:36:42,708 --> 00:36:46,994
+And the reason why the heart does this is because you do get a drop in blood pressure
+
+287
+00:36:46,994 --> 00:36:49,778
+because you're getting a little bit of vasodilation to
+
+288
+00:36:49,778 --> 00:36:53,342
+the periphery because you're trying to send some of that blood to the skin.
+
+289
+00:36:54,945 --> 00:37:00,492
+The heart or the body compensates by increasing heart rate to maintain perfusion pressure.
+
+290
+00:37:09,725 --> 00:37:11,567
+Okay, let me ask you this question really quick.
+
+291
+00:37:14,804 --> 00:37:17,094
+We won't take too long here, but having a really
+
+292
+00:37:17,094 --> 00:37:21,372
+high heart rate during exercise means you are more fit.
+
+293
+00:38:01,987 --> 00:38:05,531
+Okay, double check you have something in.
+
+294
+00:38:05,531 --> 00:38:08,514
+Close this down in 10 seconds or so.
+
+295
+00:38:12,859 --> 00:38:13,981
+Okay, five seconds.
+
+296
+00:38:17,164 --> 00:38:19,807
+Three, two, one.
+
+297
+00:38:22,450 --> 00:38:26,335
+All right.
+
+298
+00:38:26,335 --> 00:38:28,838
+Okay, yeah, most of you are saying false.
+
+299
+00:38:28,838 --> 00:38:30,019
+That is correct.
+
+300
+00:38:30,826 --> 00:38:37,974
+We cannot just base your heart rate or your maximal heart rate and link that to fitness.
+
+301
+00:38:39,175 --> 00:38:41,718
+So if we think about the why does heart rate even
+
+302
+00:38:41,718 --> 00:38:45,141
+increase, well we're trying to send more blood to the tissues,
+
+303
+00:38:46,142 --> 00:38:50,467
+or we just talked about maybe we're trying to send more blood to different areas to dissipate heat.
+
+304
+00:38:51,288 --> 00:38:55,818
+But if we're primarily sending most of that blood to the muscles,
+
+305
+00:38:55,818 --> 00:39:02,086
+It's just a product of how can I get a certain flow of blood to the muscles.
+
+306
+00:39:03,067 --> 00:39:08,313
+We can do that in a variety of different ways, and that changes depending on the individual.
+
+307
+00:39:09,395 --> 00:39:11,277
+Some individuals are larger than others.
+
+308
+00:39:11,277 --> 00:39:13,200
+Some individuals have larger hearts than others.
+
+309
+00:39:13,200 --> 00:39:16,003
+Some individuals have more or less blood.
+
+310
+00:39:18,025 --> 00:39:20,831
+So here's the comparison of heart rate, stroke volume, and
+
+311
+00:39:20,831 --> 00:39:25,520
+cardiac output between men and women at the same absolute and relative power output.
+
+312
+00:39:25,520 --> 00:39:28,707
+So over here, we're at the same absolute power.
+
+313
+00:39:28,707 --> 00:39:33,757
+So at 50 watts here, if we're looking at heart rate and stroke volume over here.
+
+314
+00:39:34,940 --> 00:39:36,102
+So heart rate.
+
+315
+00:39:36,925 --> 00:39:43,392
+Men typically have a lower heart rate compared to women at the exact same absolute power,
+
+316
+00:39:44,212 --> 00:39:47,676
+but if they're both at 60% of their VO2 max, so
+
+317
+00:39:47,676 --> 00:39:51,220
+relative intensity, they will have the exact same heart rate.
+
+318
+00:39:52,461 --> 00:39:56,225
+It's possible most of the time at the same relative
+
+319
+00:39:56,225 --> 00:40:01,330
+intensity, though, if we're looking at a bike, men typically are just at a higher power output.
+
+320
+00:40:05,731 --> 00:40:09,317
+And a lot of this can be kind of overall.
+
+321
+00:40:10,279 --> 00:40:13,304
+We can see that from this cardiac output over here
+
+322
+00:40:13,304 --> 00:40:17,691
+because they do have a higher cardiac output because they have a higher stroke volume.
+
+323
+00:40:17,691 --> 00:40:23,481
+So they're just sending more blood overall to the muscles because they're doing a higher power.
+
+324
+00:40:24,402 --> 00:40:30,152
+And when you have a higher power, you need more oxygen to create energy to do the work.
+
+325
+00:40:36,224 --> 00:40:37,086
+Any questions here?
+
+326
+00:40:41,354 --> 00:40:41,434
+OK.
+
+327
+00:40:41,434 --> 00:40:43,558
+Next topic will be heart rate variability.
+
+328
+00:40:44,520 --> 00:40:48,147
+You've probably seen this quite often by now.
+
+329
+00:40:48,147 --> 00:40:52,936
+A lot of these personal devices have heart rate variability,
+
+330
+00:40:52,936 --> 00:40:54,840
+whether it's your watch or maybe your phone.
+
+331
+00:40:55,641 --> 00:40:58,266
+They usually have this measure.
+
+332
+00:40:59,123 --> 00:41:01,486
+but today we're gonna learn about what it actually is.
+
+333
+00:41:01,486 --> 00:41:05,471
+So this is the variation in time between each heartbeat.
+
+334
+00:41:06,492 --> 00:41:09,456
+So every time you have a contraction, kind of this
+
+335
+00:41:09,456 --> 00:41:15,263
+QRST complex here, we're looking at the time between each one of these.
+
+336
+00:41:19,729 --> 00:41:24,034
+If we're looking at the QRST complex, it's measuring from the R to the R.
+
+337
+00:41:27,322 --> 00:41:31,428
+And we need EKG or ECG tracing in order to do this.
+
+338
+00:41:33,992 --> 00:41:42,084
+Okay, so if we have wide variation between resting
+
+339
+00:41:42,084 --> 00:41:46,871
+heart rate variability, this is a good indication that this
+
+340
+00:41:46,871 --> 00:41:54,021
+individual is probably a little bit more healthy compared to an individual who has low variation.
+
+341
+00:41:55,064 --> 00:41:58,950
+So when we say wide variation, we're saying the time between
+
+342
+00:41:58,950 --> 00:42:06,140
+each R to R complex on the EKG is variable.
+
+343
+00:42:06,981 --> 00:42:10,526
+So maybe the first one's .93 seconds before the next
+
+344
+00:42:10,526 --> 00:42:17,336
+heartbeat, and then .98 before the next heartbeat, and then 1.2 before the next one, and then 1.3.
+
+345
+00:42:19,158 --> 00:42:24,393
+This wide variation, again, is a good sign
+
+346
+00:42:24,393 --> 00:42:27,718
+of a maybe healthy or healthier individual.
+
+347
+00:42:31,704 --> 00:42:37,433
+Low variation means that you have the same time between each beat.
+
+348
+00:42:40,758 --> 00:42:44,123
+This should make a little bit of sense because the only
+
+349
+00:42:44,123 --> 00:42:50,768
+way I can have low variation or very similar time frame between each beat
+
+350
+00:42:50,768 --> 00:42:55,114
+is if I'm having more influence from the sympathetic nervous system.
+
+351
+00:42:56,897 --> 00:43:02,164
+Because the sympathetic nervous system is driving that heart rate.
+
+352
+00:43:03,787 --> 00:43:05,589
+That is not necessarily a good thing.
+
+353
+00:43:07,192 --> 00:43:11,938
+We don't want our sympathetic nervous system driving our heart rate at rest.
+
+354
+00:43:13,721 --> 00:43:18,038
+We want the parasympathetic nervous system driving that.
+
+355
+00:43:18,038 --> 00:43:20,703
+And when the parasympathetic nervous system is really driving
+
+356
+00:43:20,703 --> 00:43:23,489
+the resting heart rate, there's more variability.
+
+357
+00:43:23,489 --> 00:43:27,156
+Because there's no direct signal to say, beat, right?
+
+358
+00:43:27,156 --> 00:43:28,037
+Have a contraction.
+
+359
+00:43:28,037 --> 00:43:31,464
+Have a contraction.
+
+360
+00:43:31,464 --> 00:43:35,200
+And if you think about it, individuals who are a little bit more stressed,
+
+361
+00:43:35,200 --> 00:43:38,124
+Maybe their epinephrine's a little bit high, right?
+
+362
+00:43:38,124 --> 00:43:42,830
+Those are influences where you're increasing the activity of the sympathetic nervous system.
+
+363
+00:43:42,830 --> 00:43:49,418
+And that's generally a sign, or maybe a risk factor for mortality.
+
+364
+00:43:51,942 --> 00:43:55,747
+So there are diseases that promote a decrease in heart rate variability.
+
+365
+00:43:55,747 --> 00:43:57,248
+So again, that's not a great thing.
+
+366
+00:43:57,248 --> 00:44:00,913
+So depression, hypertension, heart disease, physical inactivity.
+
+367
+00:44:02,736 --> 00:44:03,857
+There are a lot of,
+
+368
+00:44:05,120 --> 00:44:08,704
+I guess investigations or research projects or groups that are
+
+369
+00:44:08,704 --> 00:44:14,990
+looking at how we can use heart rate variability with specific training programs.
+
+370
+00:44:16,031 --> 00:44:22,097
+So sometimes an individual or a company would say, okay, if you have a wide variation,
+
+371
+00:44:24,159 --> 00:44:29,044
+maybe you are a little bit more rested compared to
+
+372
+00:44:29,044 --> 00:44:33,068
+if you're just having sympathetic input into the heart.
+
+373
+00:44:34,972 --> 00:44:38,436
+Now, there are a lot of different factors that are influencing that.
+
+374
+00:44:38,436 --> 00:44:44,643
+And so this still isn't a really great indicator of how well rested someone might be.
+
+375
+00:44:53,934 --> 00:44:54,014
+OK.
+
+376
+00:44:54,014 --> 00:44:56,858
+So that's regulation of heart rate.
+
+377
+00:45:00,682 --> 00:45:04,827
+Let's move to the regulation of stroke volume.
+
+378
+00:45:08,114 --> 00:45:12,638
+Three major factors that we're gonna talk about that regulate stroke volume.
+
+379
+00:45:12,638 --> 00:45:15,401
+We're gonna start with end diastolic volume.
+
+380
+00:45:15,401 --> 00:45:16,001
+That's number one.
+
+381
+00:45:17,823 --> 00:45:24,289
+As a reminder, end diastolic volume is the volume in the ventricles at the end of diastole.
+
+382
+00:45:25,450 --> 00:45:27,632
+This is sometimes referred to as preload.
+
+383
+00:45:30,055 --> 00:45:37,682
+So how much blood is in the ventricle before you undergo a contraction?
+
+384
+00:45:41,172 --> 00:45:43,615
+This is another figure depicting the same thing.
+
+385
+00:45:43,615 --> 00:45:48,300
+So there's less preload here because there's less blood in the ventricles.
+
+386
+00:45:48,300 --> 00:45:51,844
+There's more preload here because there's more blood in the ventricles.
+
+387
+00:45:53,185 --> 00:45:56,469
+If I have more blood in the ventricles and I have
+
+388
+00:45:56,469 --> 00:46:01,154
+a contraction, well that means more blood is going to leave the heart.
+
+389
+00:46:02,996 --> 00:46:06,640
+So that in itself is going to regulate stroke volume.
+
+390
+00:46:11,547 --> 00:46:13,790
+Okay, now let's bring back, so if we're talking about
+
+391
+00:46:13,790 --> 00:46:17,095
+end diastolic volume, we have to bring back the pressure volume loop.
+
+392
+00:46:18,897 --> 00:46:21,320
+Here's the pressure volume loop.
+
+393
+00:46:21,320 --> 00:46:26,788
+Keep in mind that an increase in end diastolic volume will increase stroke volume.
+
+394
+00:46:29,432 --> 00:46:34,078
+Again, the y-axis here is pressure, x-axis is volume.
+
+395
+00:46:35,223 --> 00:46:39,888
+The way you wanna start with these graphs would be look at the control.
+
+396
+00:46:39,888 --> 00:46:43,231
+So this is the dotted black line here.
+
+397
+00:46:45,253 --> 00:46:46,414
+So we're starting here.
+
+398
+00:46:49,257 --> 00:46:59,168
+If I increase preload or end diastolic volume, which direction am I going on this graph?
+
+399
+00:46:59,168 --> 00:47:04,453
+Yeah, to the right because we're increasing the volume inside of the ventricles.
+
+400
+00:47:05,294 --> 00:47:09,660
+So we actually push the right side of the curve to the right.
+
+401
+00:47:12,344 --> 00:47:16,710
+Then you undergo the same increase in pressure, volume
+
+402
+00:47:16,710 --> 00:47:22,337
+leaves the ventricles, and then the end kind of systolic volume
+
+403
+00:47:22,337 --> 00:47:25,862
+doesn't change, and it fills back up to the original amount.
+
+404
+00:47:27,444 --> 00:47:32,331
+This delta here shows us there's an increase in stroke volume.
+
+405
+00:47:34,454 --> 00:47:35,495
+You could go the other way.
+
+406
+00:47:35,495 --> 00:47:38,078
+So if this is control, this is normal.
+
+407
+00:47:38,078 --> 00:47:43,705
+If I have a decrease in end diastolic volume, then I go to the left here.
+
+408
+00:47:43,705 --> 00:47:46,668
+So maybe I'm going from 125 to 100.
+
+409
+00:47:47,489 --> 00:47:51,934
+Well, now this delta here is much lower than control.
+
+410
+00:47:55,118 --> 00:48:00,664
+Notice that the pressure changes are about the same.
+
+411
+00:48:02,028 --> 00:48:05,452
+The only thing that is changing is the end diastolic
+
+412
+00:48:05,452 --> 00:48:09,577
+volume because that's what we are talking about right now, end diastolic volume.
+
+413
+00:48:19,168 --> 00:48:22,672
+Okay, so then sometimes we're thinking about, well, how do
+
+414
+00:48:22,672 --> 00:48:27,897
+I get more blood into the ventricles or less blood into the ventricles?
+
+415
+00:48:27,897 --> 00:48:30,621
+Well, one of the best mechanisms to increase end
+
+416
+00:48:30,621 --> 00:48:34,466
+diastolic volume is something called the Frank Starling's mechanism.
+
+417
+00:48:37,090 --> 00:48:43,018
+If I have a contraction, that contraction in itself is gonna
+
+418
+00:48:43,018 --> 00:48:48,785
+cause blood to move to the rest of the system, but it's also gonna cause more blood to come back.
+
+419
+00:48:51,269 --> 00:48:55,795
+So a greater end diastolic volume results in a more forceful contraction in itself.
+
+420
+00:48:57,158 --> 00:49:00,583
+Once you bring more blood back into it, the ventricles
+
+421
+00:49:00,583 --> 00:49:04,549
+start to stretch into a more optimal overlap and then you
+
+422
+00:49:04,549 --> 00:49:07,974
+have a stronger contraction on the next round and then more
+
+423
+00:49:07,974 --> 00:49:10,578
+blood coming into the ventricles and then they stretch even more.
+
+424
+00:49:12,581 --> 00:49:14,744
+So this is dependent on that venous return.
+
+425
+00:49:19,351 --> 00:49:22,876
+So if we have this normal resting value, an increase
+
+426
+00:49:22,876 --> 00:49:26,642
+in venous return is going to increase stroke volume just like what we talked about.
+
+427
+00:49:31,702 --> 00:49:35,691
+So not necessarily just because the way the ventricles
+
+428
+00:49:35,691 --> 00:49:39,259
+are positioned that every time you stretch it even more, it's
+
+429
+00:49:39,259 --> 00:49:43,588
+always going to be in the most kind of optimal overlap.
+
+430
+00:49:43,588 --> 00:49:45,877
+There are some issues with
+
+431
+00:49:45,877 --> 00:49:49,341
+We don't have to go down this route, but you sometimes
+
+432
+00:49:49,341 --> 00:49:52,645
+they do this with like race horses or ponies, but they remove
+
+433
+00:49:52,645 --> 00:49:56,790
+the sheathing on the outside of the heart so you can have even more expansion.
+
+434
+00:49:56,790 --> 00:50:01,155
+And that's how they can get some crazy performance out of like ponies and horses.
+
+435
+00:50:02,076 --> 00:50:08,984
+But then the flip side to that is if you go too much, then you can rupture some of the ventricles.
+
+436
+00:50:08,984 --> 00:50:10,065
+That becomes a problem.
+
+437
+00:50:10,065 --> 00:50:11,227
+And that has happened.
+
+438
+00:50:11,227 --> 00:50:11,547
+So, yeah.
+
+439
+00:50:16,268 --> 00:50:26,342
+OK, so then if we're on this piece, we can also think
+
+440
+00:50:26,342 --> 00:50:33,272
+about if all of this is dependent on venous return, what other factors can influence venous return?
+
+441
+00:50:36,497 --> 00:50:40,723
+Well, end diastolic volume and venous return, we're going
+
+442
+00:50:40,723 --> 00:50:44,489
+to talk about three major factors that influence venous return.
+
+443
+00:50:44,489 --> 00:50:46,191
+One would be venal constriction.
+
+444
+00:50:47,403 --> 00:50:51,107
+We typically don't think about the veins being able to be too malleable
+
+445
+00:50:51,107 --> 00:50:57,035
+as far as vasodilation or vasoconstriction, but this venoconstriction
+
+446
+00:50:57,035 --> 00:51:00,979
+does happen in a very small magnitude via the sympathetic nervous system.
+
+447
+00:51:05,505 --> 00:51:10,311
+And that's really, you're kind of getting some contraction with those smooth muscles in the veins.
+
+448
+00:51:12,553 --> 00:51:16,498
+If that happens, you can help accelerate or increase the venous return.
+
+449
+00:51:19,010 --> 00:51:21,313
+Number two, skeletal muscle pump.
+
+450
+00:51:24,959 --> 00:51:30,407
+So with your veins, they have some pretty nice
+
+451
+00:51:30,407 --> 00:51:38,332
+little anatomical adaptations where they have one-way valves that prevent the backflow of veins.
+
+452
+00:51:38,332 --> 00:51:42,356
+So you can think of it as like if you just had a hose full of water and you just squeeze on
+
+453
+00:51:42,356 --> 00:51:46,381
+that hose, well, blood's gonna, or water's gonna move up,
+
+454
+00:51:46,381 --> 00:51:49,564
+but if it goes through a one-way valve, it can never come back down.
+
+455
+00:51:49,564 --> 00:51:54,329
+And so the muscles are almost like squeezing the veins to
+
+456
+00:51:54,329 --> 00:52:00,856
+get the blood to move back up towards the heart.
+
+457
+00:52:00,856 --> 00:52:06,479
+So as soon as you squeeze that vein and you let it go, now you have a delta in pressure.
+
+458
+00:52:06,479 --> 00:52:10,145
+There's high pressure below, low pressure here, and you're always gonna get it to move.
+
+459
+00:52:13,710 --> 00:52:13,970
+Okay.
+
+460
+00:52:14,832 --> 00:52:17,235
+Oh, this is another artist rendering, right?
+
+461
+00:52:17,235 --> 00:52:20,120
+If I squeeze onto here, you're gonna get the blood to
+
+462
+00:52:20,120 --> 00:52:25,288
+move back towards the heart, but it's not gonna go back downwards because of these one-way valves.
+
+463
+00:52:26,590 --> 00:52:29,194
+And as soon as this opens back up, well, that
+
+464
+00:52:30,155 --> 00:52:35,423
+change in pressure is gonna automatically increase the flow back into this area.
+
+465
+00:52:36,247 --> 00:52:38,591
+because you want to go from a higher pressure to a lower pressure.
+
+466
+00:52:38,591 --> 00:52:41,335
+So as soon as that muscle relaxes, you can have blood
+
+467
+00:52:41,335 --> 00:52:47,264
+rush in and then the muscle contracts and you're helping move the blood down or up towards the heart.
+
+468
+00:52:49,508 --> 00:52:52,593
+Okay, the third factor would be the respiratory pump.
+
+469
+00:52:54,596 --> 00:52:59,203
+If you have changes in thoracic pressure, that also influences
+
+470
+00:52:59,203 --> 00:53:01,647
+blood to kind of return towards the heart.
+
+471
+00:53:04,428 --> 00:53:11,275
+This would be kind of a good, I guess, figure to look at where you have a couple things.
+
+472
+00:53:11,275 --> 00:53:14,438
+One, you can have compression of these, but
+
+473
+00:53:14,438 --> 00:53:19,704
+you're actually decreasing over here the intra-thoracic pressure, which
+
+474
+00:53:19,704 --> 00:53:23,127
+is going to influence blood to try to come back up.
+
+475
+00:53:25,610 --> 00:53:31,836
+When you exhale, that's going to encourage the blood kind of coming from the top end back down.
+
+476
+00:53:34,820 --> 00:53:39,667
+Same concept as the skeletal muscle pump, but it's
+
+477
+00:53:39,667 --> 00:53:45,856
+happening through ventilation and changes in pressure in the thoracic cavity.
+
+478
+00:53:49,081 --> 00:53:51,725
+So two different mechanisms, but they end in the same
+
+479
+00:53:51,725 --> 00:53:55,090
+goal, which is returning venous blood back to the heart.
+
+480
+00:54:03,068 --> 00:54:05,551
+Okay, filling time.
+
+481
+00:54:05,551 --> 00:54:07,854
+This is another piece that we need to be careful about.
+
+482
+00:54:10,998 --> 00:54:14,061
+There's only a certain amount of time that you have to
+
+483
+00:54:14,061 --> 00:54:17,606
+fill the ventricle before it goes ahead and contracts on the
+
+484
+00:54:17,606 --> 00:54:21,010
+next one and moves the blood out of the ventricle.
+
+485
+00:54:21,010 --> 00:54:24,994
+So we have to talk about filling time here.
+
+486
+00:54:24,994 --> 00:54:32,313
+So if we're at rest, a lot of the times moving through these different
+
+487
+00:54:32,313 --> 00:54:36,968
+Heart rates, we don't get too much of a delta
+
+488
+00:54:36,968 --> 00:54:42,525
+in this left ventricle and diastolic volume compared to athletes here.
+
+489
+00:54:48,395 --> 00:54:50,077
+One of the biggest things that we need to be
+
+490
+00:54:50,077 --> 00:54:54,041
+careful about is thinking about what's causing the decrease in
+
+491
+00:54:54,041 --> 00:54:59,086
+filling time towards the end of this area for the athletes here.
+
+492
+00:54:59,086 --> 00:55:03,531
+So we get an increase, an increase, but then we get a dip back down.
+
+493
+00:55:04,692 --> 00:55:08,316
+This happens in both groups, but it seems like there's a larger magnitude up here.
+
+494
+00:55:10,338 --> 00:55:14,082
+And this is that concept where the heart is beating too fast,
+
+495
+00:55:15,091 --> 00:55:20,297
+and it's not allowing for enough fluid or blood to get back into the ventricle.
+
+496
+00:55:22,239 --> 00:55:26,824
+So before you can have that optimal filling time, the heart contracts.
+
+497
+00:55:28,286 --> 00:55:33,051
+So that's why we see this dip here in the left ventricle and diastolic volume.
+
+498
+00:55:37,637 --> 00:55:39,799
+Number two would be body position.
+
+499
+00:55:41,382 --> 00:55:45,949
+So body position does influence the return or the filling time.
+
+500
+00:55:48,112 --> 00:55:53,500
+If we're all standing up, gravity is kind of pulling the
+
+501
+00:55:53,500 --> 00:55:57,466
+blood down into our feet, as opposed to if you were to
+
+502
+00:55:57,466 --> 00:56:04,897
+lay flat, the blood kind of evenly distributes to the rest of the body.
+
+503
+00:56:04,897 --> 00:56:08,082
+And so you don't really have to fight bringing this blood back up to the heart.
+
+504
+00:56:12,584 --> 00:56:18,772
+So this is actually a pretty big issue when there are studies looking at microgravity.
+
+505
+00:56:20,514 --> 00:56:26,301
+So if you have someone laying down or even in space,
+
+506
+00:56:26,301 --> 00:56:30,026
+you actually get all the blood to kind of come closer
+
+507
+00:56:30,026 --> 00:56:33,550
+up towards the top and you increase central venous pressure.
+
+508
+00:56:33,550 --> 00:56:36,254
+And that's why a lot of times astronauts have a lot
+
+509
+00:56:36,254 --> 00:56:41,140
+of trouble with too much ocular pressure or just higher blood pressure in general.
+
+510
+00:56:43,567 --> 00:56:48,174
+So this figure or this concept actually reminds me like, it was a long time ago,
+
+511
+00:56:48,174 --> 00:56:50,578
+but one of the first studies that I was involved with
+
+512
+00:56:50,578 --> 00:56:56,608
+was a NACID fundus study where we did head down bed tilt.
+
+513
+00:56:56,608 --> 00:56:59,773
+So you're simulating microgravity.
+
+514
+00:56:59,773 --> 00:57:04,641
+And you have the bed tilted down, and you have someone's head over here and their feet up here.
+
+515
+00:57:04,641 --> 00:57:07,630
+And we left them there for four days straight.
+
+516
+00:57:07,630 --> 00:57:13,858
+I know it's very uncomfortable, but it simulates microgravity that you would have in space.
+
+517
+00:57:13,858 --> 00:57:16,301
+And you actually, because of the increase in central
+
+518
+00:57:16,301 --> 00:57:20,947
+venous blood pressure, your body starts getting rid of blood.
+
+519
+00:57:20,947 --> 00:57:24,031
+Because it's like, whoa, whoa, whoa, this is way too much.
+
+520
+00:57:24,031 --> 00:57:26,194
+And you start kind of taking away some of the red
+
+521
+00:57:26,194 --> 00:57:31,141
+blood cells and decreasing blood volume to deal with that increase in central venous pressure.
+
+522
+00:57:34,125 --> 00:57:34,465
+OK.
+
+523
+00:57:37,752 --> 00:57:41,335
+They were compensated quite well monetarily.
+
+524
+00:57:44,378 --> 00:57:48,802
+Regulation of stroke volume, we just talked about this already.
+
+525
+00:57:48,802 --> 00:57:54,087
+Average aortic blood pressure.
+
+526
+00:57:56,429 --> 00:58:01,073
+So this is the pressure that the ventricles must pump against to eject blood.
+
+527
+00:58:02,535 --> 00:58:06,038
+This is also sometimes called afterload.
+
+528
+00:58:08,195 --> 00:58:10,298
+This is the mean arterial pressure.
+
+529
+00:58:13,602 --> 00:58:16,967
+So if we use that same example when you squeeze a vein
+
+530
+00:58:16,967 --> 00:58:25,699
+and the blood is moving back up to the heart, well as soon as you relax, where does the blood want to go?
+
+531
+00:58:25,699 --> 00:58:27,080
+It wants to go back down.
+
+532
+00:58:27,080 --> 00:58:28,683
+So it's pressing on that valve.
+
+533
+00:58:29,684 --> 00:58:31,106
+So it's the same thing in the heart.
+
+534
+00:58:31,106 --> 00:58:34,991
+When your ventricle moves blood outside of the heart, well
+
+535
+00:58:34,991 --> 00:58:37,915
+there's still blood in the aorta trying to get back in.
+
+536
+00:58:39,177 --> 00:58:44,906
+This kind of back-in pressure, or the mean arterial pressure, the blood pressure in the body,
+
+537
+00:58:44,906 --> 00:58:48,011
+is what you have to overcome to open that aortic valve to
+
+538
+00:58:48,011 --> 00:58:51,817
+get the next kind of flow of blood out of the heart.
+
+539
+00:58:52,738 --> 00:58:55,262
+So that's what this average aortic pressure is.
+
+540
+00:58:56,930 --> 00:59:00,694
+So this figure here, what it's basically trying to depict is
+
+541
+00:59:00,694 --> 00:59:07,723
+on the aortic arch or kind of after you move blood
+
+542
+00:59:07,723 --> 00:59:11,747
+out of the ventricles, you're getting an increase in pressure here.
+
+543
+00:59:12,849 --> 00:59:16,273
+If you have an increase in this afterload or the pressure
+
+544
+00:59:16,273 --> 00:59:21,078
+coming back in to the heart, you almost have to overcome that, right?
+
+545
+00:59:21,078 --> 00:59:25,063
+So then you have to supply more pressure.
+
+546
+00:59:27,575 --> 00:59:31,499
+Stroke volume is inversely proportional to the afterload.
+
+547
+00:59:32,740 --> 00:59:38,886
+If there's too much pressure coming back into the heart, you now don't have enough time
+
+548
+00:59:38,886 --> 00:59:42,010
+or you don't have as large of a stroke volume
+
+549
+00:59:42,010 --> 00:59:47,075
+because of that extra pressure coming back in because it's encouraging those valves to close.
+
+550
+00:59:49,117 --> 00:59:54,473
+So a decrease in afterload is going to increase stroke volume.
+
+551
+00:59:54,473 --> 00:59:58,900
+and vice versa, an increase in afterload is going to decrease stroke volume.
+
+552
+01:00:00,342 --> 01:00:03,066
+The way to look at this figure would be, so on the Y
+
+553
+01:00:03,066 --> 01:00:08,074
+axis we have stroke volume, on the X axis we have basically pressure.
+
+554
+01:00:09,376 --> 01:00:13,762
+If I have an increase in afterload here, I have to
+
+555
+01:00:13,762 --> 01:00:20,312
+generate more pressure in order to get the same amount of blood flow.
+
+556
+01:00:22,250 --> 01:00:31,018
+So that means to get more, then you basically have
+
+557
+01:00:31,018 --> 01:00:36,103
+less stroke volume with an increase in afterlife.
+
+558
+01:00:36,103 --> 01:00:38,285
+So here's the normal graph you wanna start here.
+
+559
+01:00:39,847 --> 01:00:42,830
+And if you decrease the pressure coming back into the
+
+560
+01:00:42,830 --> 01:00:46,153
+heart, then you're gonna get a higher stroke volume.
+
+561
+01:00:47,754 --> 01:00:51,598
+If I increase the pressure going this way,
+
+562
+01:00:52,827 --> 01:00:56,114
+then now you're at a lower stroke volume compared to
+
+563
+01:00:56,114 --> 01:00:58,880
+normal and compared to a decrease in afterload.
+
+564
+01:01:04,832 --> 01:01:06,736
+If you don't like this figure, that's OK, because
+
+565
+01:01:06,736 --> 01:01:10,484
+we're primarily working with the pressure volume loop.
+
+566
+01:01:10,484 --> 01:01:12,388
+So here on the afterload,
+
+567
+01:01:14,090 --> 01:01:17,734
+If you remember, from end diastolic volume, we are
+
+568
+01:01:17,734 --> 01:01:22,440
+shifting this side, while for afterload, we're shifting the left side.
+
+569
+01:01:23,642 --> 01:01:27,306
+So remember, we wanna start with this center dotted curve here.
+
+570
+01:01:27,306 --> 01:01:37,138
+If I have to overcome some amount of pressure
+
+571
+01:01:37,138 --> 01:01:42,865
+over here, because there's increasing pressure coming back to the heart,
+
+572
+01:01:45,106 --> 01:01:47,228
+I would have to go, so I'm on the red curve right now.
+
+573
+01:01:48,309 --> 01:01:50,151
+There's so much pressure on the valve, I'm
+
+574
+01:01:50,151 --> 01:01:52,594
+increasing pressure, I'm increasing pressure, I'm increasing
+
+575
+01:01:52,594 --> 01:01:56,198
+pressure, still increasing pressure, still increasing pressure.
+
+576
+01:01:56,198 --> 01:02:00,943
+Finally, I've generated enough pressure to open the aortic valve.
+
+577
+01:02:02,665 --> 01:02:06,549
+Then I move blood out of the heart, but by that
+
+578
+01:02:06,549 --> 01:02:11,434
+time, the pressure's coming back to close the aortic valve, so we're
+
+579
+01:02:11,434 --> 01:02:14,337
+not able to move as much blood out of the ventricle.
+
+580
+01:02:15,413 --> 01:02:17,961
+So the delta here is now much lower.
+
+581
+01:02:21,933 --> 01:02:27,985
+If I decrease the pressure on the outside of the ventricles coming back in,
+
+582
+01:02:27,985 --> 01:02:32,252
+Well now I don't have to generate as much pressure to open those valves.
+
+583
+01:02:32,252 --> 01:02:36,459
+So I'm on the green curve now, so I'm generating pressure, going up the graph here,
+
+584
+01:02:36,459 --> 01:02:41,107
+generating pressure, generating pressure, and then now the valve's open,
+
+585
+01:02:41,908 --> 01:02:44,773
+and all of a sudden I'm moving more blood out of
+
+586
+01:02:44,773 --> 01:02:48,278
+the heart because there's less pressure to close the valves coming back in.
+
+587
+01:02:49,561 --> 01:02:51,664
+And so now my end systolic volume
+
+588
+01:02:52,927 --> 01:02:57,393
+is much lower at the same end diastolic volume would
+
+589
+01:02:57,393 --> 01:03:00,277
+give you a larger stroke volume, this delta here.
+
+590
+01:03:01,479 --> 01:03:11,172
+Yeah.
+
+591
+01:03:11,172 --> 01:03:11,753
+That is correct.
+
+592
+01:03:12,834 --> 01:03:14,176
+Yeah.
+
+593
+01:03:15,899 --> 01:03:18,843
+You can almost think about it like a, I don't know, a door or something like that.
+
+594
+01:03:18,843 --> 01:03:21,125
+If someone's on the back of the door,
+
+595
+01:03:21,125 --> 01:03:25,129
+like preventing you from opening the door, you have to push
+
+596
+01:03:25,129 --> 01:03:27,211
+or generate a lot of force to open the door.
+
+597
+01:03:28,392 --> 01:03:30,755
+But eventually, if you start to relax, it's gonna be a
+
+598
+01:03:30,755 --> 01:03:35,119
+lot easier to close that door so the valves don't stay open as long.
+
+599
+01:03:36,080 --> 01:03:39,043
+So that's why you only get to move a small amount of blood here.
+
+600
+01:03:41,285 --> 01:03:43,648
+Whereas if the door was pretty easy to open, maybe you can
+
+601
+01:03:43,648 --> 01:03:49,714
+open it all the way and then you can get more blood out of the heart before the next relaxation.
+
+602
+01:03:56,073 --> 01:03:57,215
+Okay, so that's after load.
+
+603
+01:03:59,299 --> 01:04:04,770
+Number three would be the strength of the ventricular contraction.
+
+604
+01:04:06,073 --> 01:04:08,798
+We call that inotropy.
+
+605
+01:04:08,798 --> 01:04:13,267
+So that's this piece here.
+
+606
+01:04:13,267 --> 01:04:17,355
+This is enhanced by circulating epinephrine and norepinephrine.
+
+607
+01:04:18,787 --> 01:04:22,273
+Because if you remember, those beta adrenergic receptors
+
+608
+01:04:22,273 --> 01:04:27,040
+are accepting epinephrine and that's gonna cause the cell to depolarize.
+
+609
+01:04:29,564 --> 01:04:32,769
+We also get the direct sympathetic stimulation of the
+
+610
+01:04:32,769 --> 01:04:38,619
+heart and those are via the cardiac accelerator nerves that we saw on this graph here.
+
+611
+01:04:38,619 --> 01:04:39,580
+So it's this right here.
+
+612
+01:04:46,141 --> 01:04:52,069
+And then just as a reminder, if I have circulating epinephrine, these receptors are not selective.
+
+613
+01:04:52,069 --> 01:04:54,373
+They don't care where the epinephrine came from.
+
+614
+01:04:54,373 --> 01:04:57,757
+If the epinephrine or epinephrine binds to this receptor,
+
+615
+01:04:57,757 --> 01:05:01,202
+it's going to cause a depolarization in the cell.
+
+616
+01:05:05,548 --> 01:05:10,516
+So more inotropy would be more epinephrine binding onto
+
+617
+01:05:10,516 --> 01:05:15,102
+the beta adrenergic receptors, causing a more forceful contraction.
+
+618
+01:05:18,035 --> 01:05:24,063
+less epineurothrin or less inotropy, well, you're just activating less muscle fibers.
+
+619
+01:05:28,108 --> 01:05:32,874
+So sometimes you can think of it like if you have a towel
+
+620
+01:05:32,874 --> 01:05:37,481
+that you put in water or a shirt and the heart kind of twists.
+
+621
+01:05:37,481 --> 01:05:40,883
+So if you wring the towel just a little bit,
+
+622
+01:05:40,883 --> 01:05:42,885
+Well, that's only a little bit of water that's gonna come out.
+
+623
+01:05:42,885 --> 01:05:45,988
+But if you wring the towel a lot more, then more water comes out.
+
+624
+01:05:45,988 --> 01:05:47,309
+And that's essentially what you're doing here.
+
+625
+01:05:47,309 --> 01:05:49,571
+If you can activate more muscle fibers and get that
+
+626
+01:05:49,571 --> 01:05:52,994
+twisting motion of the heart, it's going to help move blood out.
+
+627
+01:05:55,877 --> 01:06:00,461
+Okay, so the increase in inotropy is going to increase stroke volume.
+
+628
+01:06:07,127 --> 01:06:10,570
+Let's bring it back to the pressure volume loop here.
+
+629
+01:06:13,402 --> 01:06:17,546
+So end isolic volume, we moved this way.
+
+630
+01:06:17,546 --> 01:06:22,171
+Pressure, we're having to generate more pressure on the up, on the Y axis.
+
+631
+01:06:23,192 --> 01:06:25,974
+End systolic volume here is over here.
+
+632
+01:06:27,296 --> 01:06:32,020
+So here we have the black curve to start with, or the black dotted curve here to start with.
+
+633
+01:06:33,982 --> 01:06:40,168
+If I have an increase, or the more forceful contraction,
+
+634
+01:06:41,296 --> 01:06:46,724
+then you will by default cause more blood to move outside
+
+635
+01:06:46,724 --> 01:06:51,250
+of the heart, and then you would have an end systolic volume that is lower.
+
+636
+01:06:52,192 --> 01:06:56,598
+And so now the delta for an increase in inotropy is
+
+637
+01:06:56,598 --> 01:06:59,983
+going to result in an increase in stroke volume.
+
+638
+01:07:01,525 --> 01:07:07,033
+A decrease in the inotropy is gonna cause a decrease in the stroke volume.
+
+639
+01:07:09,427 --> 01:07:11,912
+So the best way to try to, like, if you
+
+640
+01:07:11,912 --> 01:07:17,342
+saw a pressure-volume loop with those three scenarios, well, if
+
+641
+01:07:17,342 --> 01:07:25,758
+they're at the same pressure, then we know we're not really dealing with afterload.
+
+642
+01:07:25,758 --> 01:07:30,827
+And we're dealing with this piece here, inotropy, or the strength of the contraction.
+
+643
+01:07:39,025 --> 01:07:39,606
+Questions?
+
+644
+01:07:43,594 --> 01:07:46,740
+Okay, regulation of stroke volume goes back to this piece.
+
+645
+01:07:46,740 --> 01:07:49,144
+We pretty much talked about all of them,
+
+646
+01:07:49,144 --> 01:07:54,114
+endostalic volume, increasing contractility or the inotropy, and
+
+647
+01:07:54,114 --> 01:07:57,140
+then the decrease in arterial pressure or the afterload.
+
+648
+01:07:57,140 --> 01:08:00,426
+Those all are going to influence stroke volume.
+
+649
+01:08:01,992 --> 01:08:07,260
+Keep in mind the venous return is really gonna be influencing the end-diastolic volume.
+
+650
+01:08:07,260 --> 01:08:11,126
+Sympathetic or epinephrine is going to be increasing the
+
+651
+01:08:11,126 --> 01:08:14,432
+inotropy or the contractility of the heart.
+
+652
+01:08:14,432 --> 01:08:17,577
+Afterload is really dependent on that mean arterial pressure
+
+653
+01:08:17,577 --> 01:08:20,501
+or the pressure kind of being exerted back onto the heart.
+
+654
+01:08:23,826 --> 01:08:28,033
+Okay, so we talked about these three kind of pressure-volume loops separately.
+
+655
+01:08:30,005 --> 01:08:31,407
+But that doesn't happen, right?
+
+656
+01:08:31,407 --> 01:08:36,935
+Like we don't just see one thing changing, all three are kind of happening at the same time.
+
+657
+01:08:38,397 --> 01:08:41,781
+So the regulation of stroke volume during exercise is due
+
+658
+01:08:41,781 --> 01:08:46,127
+to all three of these factors, but the overall theme is that
+
+659
+01:08:46,127 --> 01:08:50,393
+we do see an increase in stroke volume from rest to maximal exercise.
+
+660
+01:08:53,191 --> 01:08:57,599
+We primarily have the increase in diastolic volume, which is that preload,
+
+661
+01:08:57,599 --> 01:09:01,666
+and we eventually always get that increase in inotropy,
+
+662
+01:09:01,666 --> 01:09:05,692
+especially when we're kind of beyond that 100 beats per minute, right?
+
+663
+01:09:05,692 --> 01:09:10,781
+Because underneath 100 beats per minute, that's primarily through parasympathetic withdrawal.
+
+664
+01:09:10,781 --> 01:09:13,927
+And then once we start getting into higher intensities,
+
+665
+01:09:13,927 --> 01:09:17,072
+it's primarily due to that sympathetic outflow.
+
+666
+01:09:23,853 --> 01:09:31,003
+You already know this, but sometimes it's nice to see all of these factors kind of tying in.
+
+667
+01:09:31,003 --> 01:09:36,251
+When you're looking at this figure, the dotted line is inhibition.
+
+668
+01:09:36,251 --> 01:09:40,317
+The parasympathetic nerves are inhibiting the cardiac rate or the heart rate.
+
+669
+01:09:41,438 --> 01:09:45,825
+Sympathetic nerves are increasing heart rate, so that's why you see a solid line here.
+
+670
+01:09:46,886 --> 01:09:50,151
+Mean arterial pressure is not necessarily inhibiting, but it
+
+671
+01:09:50,151 --> 01:09:52,915
+is decreasing your stroke volume over here.
+
+672
+01:09:56,843 --> 01:10:09,086
+And then of course, don't forget about the Frank Sterling law over here as well.
+
+673
+01:10:09,086 --> 01:10:10,168
+How are we doing?
+
+674
+01:10:10,168 --> 01:10:10,689
+Is that a lot?
+
+675
+01:10:12,212 --> 01:10:13,153
+Maybe we can keep going.
+
+676
+01:10:14,175 --> 01:10:14,356
+No.
+
+677
+01:10:15,538 --> 01:10:16,600
+All right, that's fine.
+
+678
+01:10:16,600 --> 01:10:17,542
+Have a good weekend.
+
+679
+01:10:17,542 --> 01:10:19,425
+Enjoy, enjoy.
+
