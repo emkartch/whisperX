@@ -45,8 +45,8 @@ print("hi")
 subtitles_proccessor = SubtitlesProcessor(
     result["segments"],
     "en", # str, two letter code to identify the language
-    max_line_length=90, # int, around 100 has been working for me
-    min_char_length_splitter=60, # int, around 70 has been working for me
+    max_line_length=110, # int, around 100 has been working for me
+    min_char_length_splitter=80, # int, around 70 has been working for me
     is_vtt= False, # bool, true for vtt, false for srt format
 )
 subtitles_proccessor.save("IPHY4650-4-1.srt", advanced_splitting=True) # output_path is a str with your desired filename
